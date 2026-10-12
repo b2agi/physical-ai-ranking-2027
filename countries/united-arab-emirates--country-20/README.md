@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research"]
 rank: 20
 ---
 
-# United Arab Emirates
+# 🇦🇪 United Arab Emirates
 
 Adoption and operation of autonomous passenger services.
 

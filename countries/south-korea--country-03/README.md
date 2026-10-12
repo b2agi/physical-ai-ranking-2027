@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets"]
 rank: 3
 ---
 
-# South Korea
+# 🇰🇷 South Korea
 
 Robot coordination, learned control and research commercialization.
 

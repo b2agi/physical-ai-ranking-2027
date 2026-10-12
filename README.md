@@ -18,34 +18,34 @@ This Atlas compares 20 countries and economies through those industrial pathways
 
 | Rank | Country / economy | Industrial pathway |
 | --- | --- | --- |
-| 1 | [United States](countries/united-states--country-01/README.md) | Robotics platforms, customer deployment and growth capital |
-| 2 | [China](countries/china--country-02/README.md) | Robot hardware and integrated manufacturing networks |
-| 3 | [South Korea](countries/south-korea--country-03/README.md) | Robot coordination, learned control and research commercialization |
+| 1 | 🇺🇸 [United States](countries/united-states--country-01/README.md) | Robotics platforms, customer deployment and growth capital |
+| 2 | 🇨🇳 [China](countries/china--country-02/README.md) | Robot hardware and integrated manufacturing networks |
+| 3 | 🇰🇷 [South Korea](countries/south-korea--country-03/README.md) | Robot coordination, learned control and research commercialization |
 
 ## Country overview
 
 | Rank | Country / economy | Assessment focus |
 | --- | --- | --- |
-| 1 | [United States](countries/united-states--country-01/README.md) | Robotics platforms, customer deployment and growth capital |
-| 2 | [China](countries/china--country-02/README.md) | Robot hardware and integrated manufacturing networks |
-| 3 | [South Korea](countries/south-korea--country-03/README.md) | Robot coordination, learned control and research commercialization |
-| 4 | [Japan](countries/japan--country-04/README.md) | Perception and motion planning in factory processes |
-| 5 | [Germany](countries/germany--country-05/README.md) | Industrial manipulation, integration and testing |
-| 6 | [United Kingdom](countries/united-kingdom--country-06/README.md) | On-device robotics models and dexterous learning |
-| 7 | [Switzerland](countries/switzerland--country-07/README.md) | Learned control for industrial inspection |
-| 8 | [France](countries/france--country-08/README.md) | Open robot-learning tools and manipulation models |
-| 9 | [Canada](countries/canada--country-09/README.md) | Manipulation learning and autonomous-truck integration |
-| 10 | [Taiwan](countries/taiwan--country-10/README.md) | Semiconductor fabrication, packaging and robotics infrastructure |
-| 11 | [Denmark](countries/denmark--country-11/README.md) | Mobile logistics and collaborative-robot platforms |
-| 12 | [Sweden](countries/sweden--country-12/README.md) | Industry-linked robotics research and doctoral training |
-| 13 | [Singapore](countries/singapore--country-13/README.md) | Local integration for power-tunnel inspection |
-| 14 | [Netherlands](countries/netherlands--country-14/README.md) | Warehouse integration and automation finance |
-| 15 | [Israel](countries/israel--country-15/README.md) | Manipulation development and national AI computing |
-| 16 | [Australia](countries/australia--country-16/README.md) | Autonomous mining and construction field trials |
-| 17 | [Italy](countries/italy--country-17/README.md) | Industrial integration and warehouse validation |
-| 18 | [Spain](countries/spain--country-18/README.md) | Robotics engineering and AI inspection development |
-| 19 | [Norway](countries/norway--country-19/README.md) | Humanoid engineering and manufacturing development |
-| 20 | [United Arab Emirates](countries/united-arab-emirates--country-20/README.md) | Adoption and operation of autonomous passenger services |
+| 1 | 🇺🇸 [United States](countries/united-states--country-01/README.md) | Robotics platforms, customer deployment and growth capital |
+| 2 | 🇨🇳 [China](countries/china--country-02/README.md) | Robot hardware and integrated manufacturing networks |
+| 3 | 🇰🇷 [South Korea](countries/south-korea--country-03/README.md) | Robot coordination, learned control and research commercialization |
+| 4 | 🇯🇵 [Japan](countries/japan--country-04/README.md) | Perception and motion planning in factory processes |
+| 5 | 🇩🇪 [Germany](countries/germany--country-05/README.md) | Industrial manipulation, integration and testing |
+| 6 | 🇬🇧 [United Kingdom](countries/united-kingdom--country-06/README.md) | On-device robotics models and dexterous learning |
+| 7 | 🇨🇭 [Switzerland](countries/switzerland--country-07/README.md) | Learned control for industrial inspection |
+| 8 | 🇫🇷 [France](countries/france--country-08/README.md) | Open robot-learning tools and manipulation models |
+| 9 | 🇨🇦 [Canada](countries/canada--country-09/README.md) | Manipulation learning and autonomous-truck integration |
+| 10 | 🇹🇼 [Taiwan](countries/taiwan--country-10/README.md) | Semiconductor fabrication, packaging and robotics infrastructure |
+| 11 | 🇩🇰 [Denmark](countries/denmark--country-11/README.md) | Mobile logistics and collaborative-robot platforms |
+| 12 | 🇸🇪 [Sweden](countries/sweden--country-12/README.md) | Industry-linked robotics research and doctoral training |
+| 13 | 🇸🇬 [Singapore](countries/singapore--country-13/README.md) | Local integration for power-tunnel inspection |
+| 14 | 🇳🇱 [Netherlands](countries/netherlands--country-14/README.md) | Warehouse integration and automation finance |
+| 15 | 🇮🇱 [Israel](countries/israel--country-15/README.md) | Manipulation development and national AI computing |
+| 16 | 🇦🇺 [Australia](countries/australia--country-16/README.md) | Autonomous mining and construction field trials |
+| 17 | 🇮🇹 [Italy](countries/italy--country-17/README.md) | Industrial integration and warehouse validation |
+| 18 | 🇪🇸 [Spain](countries/spain--country-18/README.md) | Robotics engineering and AI inspection development |
+| 19 | 🇳🇴 [Norway](countries/norway--country-19/README.md) | Humanoid engineering and manufacturing development |
+| 20 | 🇦🇪 [United Arab Emirates](countries/united-arab-emirates--country-20/README.md) | Adoption and operation of autonomous passenger services |
 
 ### Research framework
 

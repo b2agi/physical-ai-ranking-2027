@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research"]
 rank: 11
 ---
 
-# Denmark
+# 🇩🇰 Denmark
 
 Mobile logistics and collaborative-robot platforms.
 

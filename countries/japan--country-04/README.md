@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "sensing", "manufacturing"]
 rank: 4
 ---
 
-# Japan
+# 🇯🇵 Japan
 
 Perception and motion planning in factory processes.
 

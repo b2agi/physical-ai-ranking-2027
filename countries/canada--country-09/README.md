@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "logistics"]
 rank: 9
 ---
 
-# Canada
+# 🇨🇦 Canada
 
 Manipulation learning and autonomous-truck integration.
 

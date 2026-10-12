@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research"]
 rank: 16
 ---
 
-# Australia
+# 🇦🇺 Australia
 
 Autonomous mining and construction field trials.
 

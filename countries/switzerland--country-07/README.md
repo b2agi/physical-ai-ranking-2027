@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "robot-learning"]
 rank: 7
 ---
 
-# Switzerland
+# 🇨🇭 Switzerland
 
 Learned control for industrial inspection.
 

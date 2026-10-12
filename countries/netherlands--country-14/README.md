@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "logistics"]
 rank: 14
 ---
 
-# Netherlands
+# 🇳🇱 Netherlands
 
 Warehouse integration and automation finance.
 

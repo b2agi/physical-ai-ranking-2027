@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets"]
 rank: 1
 ---
 
-# United States
+# 🇺🇸 United States
 
 Robotics platforms, customer deployment and growth capital.
 

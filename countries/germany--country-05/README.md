@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "manufacturing"]
 rank: 5
 ---
 
-# Germany
+# 🇩🇪 Germany
 
 Industrial manipulation, integration and testing.
 

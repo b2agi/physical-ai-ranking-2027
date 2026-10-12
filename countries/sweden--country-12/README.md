@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "humanoid-robotics", "robotic
 rank: 12
 ---
 
-# Sweden
+# 🇸🇪 Sweden
 
 Industry-linked robotics research and doctoral training.
 

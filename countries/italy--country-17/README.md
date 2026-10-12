@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "logistics", "manufacturing"]
 rank: 17
 ---
 
-# Italy
+# 🇮🇹 Italy
 
 Industrial integration and warehouse validation.
 

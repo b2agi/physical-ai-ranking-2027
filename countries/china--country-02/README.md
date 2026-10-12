@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets", "sensing",
 rank: 2
 ---
 
-# China
+# 🇨🇳 China
 
 Robot hardware and integrated manufacturing networks.
 

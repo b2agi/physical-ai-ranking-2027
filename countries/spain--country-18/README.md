@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "manufacturing"]
 rank: 18
 ---
 
-# Spain
+# 🇪🇸 Spain
 
 Robotics engineering and AI inspection development.
 

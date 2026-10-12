@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "logistics", "capital-markets
 rank: 8
 ---
 
-# France
+# 🇫🇷 France
 
 Open robot-learning tools and manipulation models.
 

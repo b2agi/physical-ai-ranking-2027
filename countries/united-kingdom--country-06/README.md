@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets"]
 rank: 6
 ---
 
-# United Kingdom
+# 🇬🇧 United Kingdom
 
 On-device robotics models and dexterous learning.
 

@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research"]
 rank: 13
 ---
 
-# Singapore
+# 🇸🇬 Singapore
 
 Local integration for power-tunnel inspection.
 

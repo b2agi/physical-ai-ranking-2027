@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets"]
 rank: 10
 ---
 
-# Taiwan
+# 🇹🇼 Taiwan
 
 Semiconductor fabrication, packaging and robotics infrastructure.
 

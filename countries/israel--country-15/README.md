@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research", "capital-markets"]
 rank: 15
 ---
 
-# Israel
+# 🇮🇱 Israel
 
 Manipulation development and national AI computing.
 

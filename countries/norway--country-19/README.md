@@ -16,7 +16,7 @@ tags: ["b2agi", "physical-ai", "country-research"]
 rank: 19
 ---
 
-# Norway
+# 🇳🇴 Norway
 
 Humanoid engineering and manufacturing development.
 
