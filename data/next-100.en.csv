@@ -1,0 +1,365 @@
+id,name,group,role,selection_rationale,evidence_scope,source_references,source_urls
+N001,1X Technologies,Next 100,Whole-body policy learning,1X’s Redwood describes a policy that learns locomotion and manipulation together. NEO’s ordering and support terms provide a separate product-development record.,"Company model and product materials; ordering, planned shipment, delivery and repeated household use are distinct stages, with external voice processing and remote support recorded separately.","N001:S1
+N001:S2
+N001:S3
+N001:S4
+N001:S5","https://www.1x.tech/order
+https://www.1x.tech/discover/redwood-ai
+https://www.1x.tech/discover/redwood-ai
+https://www.1x.tech/discover/palo-alto-hq
+https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding"
+N100,AeiROBOT,Next 100,Research and competition platforms,AeiROBOT and HERoEHS jointly develop ALICE4 walking and competition vision within their humanoid research programme.,"HERoEHS 2025 team description, pp. 1-2: completed walking/vision work and proposed controller upgrades.","N100:S1
+N100:S2
+N100:S3
+N100:S4","https://www.ces2026-humanoidmaxalliance.com/_files/ugd/e1822d_b26c5b12645649b0942f3f4a6023655e.pdf
+https://www.arobot4all.com/
+https://iiea.or.kr/ansan/?bmode=view&idx=14544000
+https://humanoid.robocup.org/wp-content/uploads/HERoEHS-tdp-67938e21e09a0.pdf"
+N002,Aeva,Next 100,Industrial sensing,Aeva’s Eve sensing technology is integrated into a SICK sensor product described in a launch announcement.,Aeva’s product announcement describes Eve sensing integrated into a SICK sensor.,"N002:S1
+N002:S2
+N002:S3","https://www.aeva.com/press/aeva-unveils-vision-for-the-future-of-sensing-and-perception-and-reports-second-quarter-2025-results-at-aeva-day/
+https://scenes.aeva.com/
+https://www.aeva.com/press/aeva-reports-second-quarter-2026-results/"
+N003,Aigen,Next 100,Agricultural field trials,Aigen’s Element began use at the named Bowles farm. Customer quotations describe early evaluation in the field.,"Supplier-published customer account of initial trials; operating hours, intervention and herbicide-cost comparisons are company claims.","N003:S1
+N003:S2","https://www.aigen.io/agriculture
+https://www.globenewswire.com/news-release/2025/04/22/3065725/0/en/aigen-launches-next-generation-element-robots-for-weeding-in-partnership-with-bowles-farming-company.html"
+N004,Alibaba,Next 100,Robotic perception and action models,"Alibaba’s RynnBrain release provides model and code resources, with VLA transfer reported on G1, Astribot and Tianji-Wuji platforms.","RynnBrain’s official repository provides model and code resources, with authors reporting physical tests on specified robots.",N004:S1,https://github.com/alibaba-damo-academy/RynnBrain
+N005,Ambarella,Next 100,Robot inference integration development,"Ambarella supplies CV72 inference computing for e-con's ROS 2 rover demonstration of object search, approach, alignment and imaging. The partners' selected robotics integration remains a development contribution.","e-con engineering account, May 2026: CES 2025 physical rover demonstration using CV72eSOM, ROS 2 and Nav2; perception/navigation integration validation.","N005:S1
+N005:S2
+N005:S3
+N005:S4","https://www.e-consystems.com/blog/camera/applications/how-e-con-systems-empowers-autonomous-robots-with-ros-2-perception-driven-object-tracking/
+https://github.com/econsystems/e-con_robotics
+https://investor.ambarella.com/node/15366/pdf
+https://www.ambarella.com/products/aiot-industrial-robotics/"
+N006,Anthropic,Next 100,Language-model control research,"Anthropic tested Claude on robotics control tasks using MuJoCo and LIBERO. Its published research records model calls, simulation conditions and failures.","Anthropic’s published robotics research covers model-driven control in specified simulated tasks, including recorded failures.",N006:S1,https://www.anthropic.com/research/claude-plays-robotics
+N007,Apple,Next 100,Robot interaction and learning data,Apple’s ARMADA research collects manipulation trajectories with AR feedback and replays them on physical robots. ELEGNT adds research on expressive robot movement.,Joint research involving 15 participants and three ARMADA tasks; evidence covers interaction and data-development experiments.,"N007:S1
+N007:S2","https://machinelearning.apple.com/research/elegnt-expressive-functional-movement
+https://machinelearning.apple.com/research/armada-augmented-reality"
+N008,Apptronik,Next 100,Humanoid customer trials,Apptronik develops Apollo for repetitive manufacturing tasks through Mercedes' production-environment data collection and employee teleoperation-based training.,"Mercedes customer account, 2025-03-18: integration testing, training data and autonomous-development step.","N008:S1
+N008:S2
+N008:S3
+N008:S4
+N008:S5","https://group.mercedes-benz.com/unternehmen/produktion/produktionsnetzwerk/mbdfc-humanoide-roboter.html
+https://apptronik.com/company/leadership
+https://group.mercedes-benz.com/unternehmen/produktion/produktionsnetzwerk/mbdfc-humanoide-roboter.html
+https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a
+https://group.mercedes-benz.com/company/production/production-network/mbdfc-humanoid-robots.html"
+N009,Astribot,Next 100,Manipulation-policy research,Astribot’s Lumo-1 paper describes S1 learning and physical pick-and-place tests.,The Lumo-1 paper describes S1 learning and its physical pick-and-place test conditions.,"N009:S1
+N009:S2","https://www.astribot.com/en/product/
+https://arxiv.org/html/2512.08580v2"
+N010,Autodesk,Next 100,Learned assembly,Autodesk combines planning and reinforcement learning in physical dual-arm assembly research.,Joint university research reports physical dual-arm assembly; completed steps and completed products use distinct success measures.,N010:S1,https://www.research.autodesk.com/publications/fabrica-dual-arm-assembly-general-multi-part-objects-integrated-planning-learning/
+N011,BeingBeyond,Next 100,Video-based robot learning,"BeingBeyond trains robot behavior from human video. Being-H0.5 reports tests on five robot platforms, and its repository provides an SO101 deployment procedure.",Author-reported research and repository documentation; video-derived pseudo-tactile signals and physical tactile measurements have different scopes.,"N011:S1
+N011:S2
+N011:S3","https://arxiv.org/abs/2601.12993
+https://github.com/BeingBeyond/Being-H
+https://research.beingbeyond.com/being-h08"
+N012,BeyondHoneycomb,Next 100,Cooking-state sensing,BeyondHoneycomb develops cooking systems that use AI and sensors to measure and reproduce cooking states.,Investor D2SF describes the cooking system’s AI and sensor development. Customer references are anonymous.,"N012:S1
+N012:S2
+N012:S3
+N012:S4
+N012:S5
+N012:S6","https://grillx.ai/product
+https://grillx.ai/faq
+https://www.linkedin.com/company/beyond-honeycomb/
+https://ee.kaist.ac.kr/wp-content/uploads/2025/09/%EB%B9%84%EC%9A%98%EB%93%9C%ED%97%88%EB%8B%88%EC%BB%B4_%EC%84%9D%EC%82%AC-%EB%B0%8F-%EB%B0%95%EC%82%AC-%EC%97%B0%EA%B5%AC%EC%9B%90-%EC%B1%84%EC%9A%A9_250829.pdf
+https://grillx.ai/customers
+https://d2sf.naver.com/en/portfolio/BeyondHoneycomb"
+N013,bitsensing,Next 100,Radar shuttle trials,bitsensing’s pilot material describes an actual road shuttle at FIX 2025.,The official pilot account describes a road shuttle at FIX 2025; the 500-vehicle figure is an expansion plan.,"N013:S1
+N013:S2
+N013:S3","https://www.bitsensing.com/blog/breaking-analog-barriers-how-bitsensings-digital-radar-is-shaping-the-future-of-autonomous-mobility
+https://www.bitsensing.com/newsroom
+https://www.bitsensing.com/newsroom/bitsensing-and-koreawide-pilot-commercial-vehicle-driver-assistance-system"
+N101,Black Sesame,Next 100,Robotics compute kits,"Black Sesame reports initial supply of its Aura development kit, extending automotive computing toward robotics development.",Black Sesame announces initial Aura development-kit supply. The record concerns developer hardware rather than final AUBO customer deployment.,"N101:S1
+N101:S2
+N101:S3","https://www.prnasia.com/story/546497-1.shtml
+https://www.blacksesame.com/zh/news-center/
+https://www.blacksesame.com.cn/zh/company-profile/"
+N014,ByteDance,Next 100,Robot action-model research,ByteDance’s GR-2 research combines video pretraining with robot trajectories and manipulation tests.,"Paper abstract and limited affiliation records; reported tests concern research, with the later GR3 page excluded from detailed evidence.","N014:S1
+N014:S2","https://arxiv.org/abs/2410.06158
+https://gr2-manipulation.github.io/"
+N015,Config,Next 100,Robot data and task models,"Config publishes HABIT robot observation and action data, supporting its reported CFG-1 learning and physical-task development.",Company and repository documentation for HABIT and CFG-1. Timing figures are reported by Config.,"N015:S1
+N015:S2
+N015:S3","https://config.inc/
+https://config.inc/blog/260807_habit
+https://huggingface.co/datasets/configinc/HABIT"
+N016,DEEPX,Next 100,Robotics edge computing,"DEEPX develops robotics inference computing with Hyundai Motor Group’s Robotics Lab. Hyundai material connects earlier edge-brain work with DAL-e demonstrations, while DX-M2 defines a further development path.","Joint-development and demonstration records; earlier edge-brain results and DX-M2 completion, production supply and customer revenue have separate status. This is the Korean DEEPX company.","N016:S1
+N016:S2
+N016:S3","https://deepx.ai/deepx-and-hyundai-motor-group-robotics-lab-partner-to-develop-physical-ai-compute-platform-for-robotics/
+https://deepx.ai/deepx-and-hyundai-motor-company-and-kia-corporation-are-collaborating-on-ai-semiconductor-based-robot-platforms/
+https://www.hyundai.com/worldwide/en/newsroom/detail/0000001103"
+N018,EngineAI,Next 100,Learning and deployment tools,"EngineAI publishes PM01 reinforcement-learning training, simulation validation and physical deployment procedures.","PM01 repository documentation covers training, simulation validation and hardware deployment procedures, using Isaac Lab infrastructure.","N018:S1
+N018:S2
+N018:S3","https://www.engineai.com.cn/about-news-media/23.html
+https://www.engineai.com.cn/product-support-pm01.html
+https://github.com/engineai-robotics/engineai_rl_lab"
+N019,Faraday Dynamics,Next 100,Robot actuators,"Faraday Dynamics develops Direct Drive and QDD actuator components, with sample fabrication and trial-production history described in an event profile.",An event profile records the Korean actuator company’s sample fabrication and trial-production history.,"N019:S1
+N019:S2","https://www.ces2026-humanoidmaxalliance.com/faraday-dynamics
+https://www.ces2026-humanoidmaxalliance.com/_files/ugd/e1822d_09911b69e54b402195a1f14bf2728676.pdf"
+N104,Flexion Robotics,Next 100,Whole-body task policies,"Flexion’s June 2026 Reflect v1.0 report describes a humanoid retrieving a parcel, navigating between floors and interacting with doors and elevators. Learned motion policies and whole-body control connect those steps into a research demonstration.","Company-reported Reflect v1.0 research demonstration, published 29 June 2026; the entry covers the documented missions and controller. Customer acceptance and safety certification are outside this report’s evidence.",N104:S1,https://flexion.ai/news/flexion-reflect-v1.0
+N021,Flexxbotics,Next 100,Inspection-to-rework integration,Flexxbotics describes integration that turns inspection results into robot rework and equipment correction.,Supplier implementation materials describe statistical process control and machine-learning functions separately.,"N021:S1
+N021:S2","https://flexxbotics.com/blog/in-line-quality-inspection-capabilities-with-flexxbotics-solution/
+https://flexxbotics.com/news/flexxbotics-releases-free-download-of-software-defined-automation-for-manufacturing-autonomy/"
+N022,Floatic,Next 100,Collaborative picking trials,"Floatic tested collaborative picking with LogisALL at a named location, documenting the robot, software and human work roles.","Floatic’s company account covers a LogisALL picking proof of concept with specified robots, software and human roles.","N022:S1
+N022:S2
+N022:S3","https://www.prnewswire.com/news-releases/floatic-and-logisall-increase-warehouse-productivity-by-2x-using-picking-robotics-solution-302305175.html
+https://d2sf.naver.com/en/portfolio/Floatic
+https://www.prnewswire.com/news-releases/warehouse-robotic-solutions-provider-floatic-secures-3-8-million-pre-series-a-bridge-fund-round-302170488.html"
+N023,Fourier Intelligence,Next 100,Robot training and deployment tools,"Fourier publishes GRx code connecting reinforcement-learning training, MuJoCo validation and physical-robot deployment.",Fourier’s GRx README and code describe a research-platform workflow from training through simulation to hardware deployment.,"N023:S1
+N023:S2","https://github.com/FFTAI/fourier_aurora_sdk
+https://github.com/FFTAI/Wiki-GRx-Pipeline"
+N024,Galaxea AI,Next 100,Physical manipulation learning,Galaxea’s research connects data collection on a specified robot with policy learning and four physical-task evaluations.,Galaxea’s research team reports policy learning and four physical-task evaluations on specified hardware.,"N024:S1
+N024:S2
+N024:S3","https://docs.galaxea-ai.com/Guide/R1Lite/R1Lite_Hardware_Introduction/
+https://docs.galaxea-dynamics.com/home/en/
+https://arxiv.org/html/2509.00576v1"
+C044,Gecko Robotics,Next 100,Robotic component inspection,Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.,"Gecko announcement, 2025-07-15: initial component-inspection trials and proposed digital-thread expansion.",C044:S1,https://www.geckorobotics.com/news/gecko-robotics-bpmi
+N025,Generalist AI,Next 100,Manipulation-model research,Generalist’s GEN-0 materials describe robot-specific manipulation tests and model structure.,Company research account describing the model and reporting its training-data hours.,N025:S1,https://generalistai.com/blog/gen-0
+N026,Genesis AI,Next 100,Physical manipulation development,Genesis AI describes GENE-26.5 physical manipulation demonstrations and its data and hand architecture.,Genesis AI’s release describes physical research demonstrations and data and hand architecture; Eno customer deployment is planned.,"N026:S1
+N026:S2
+N026:S3","https://www.genesis.ai/
+https://www.prnewswire.com/news-releases/genesis-ai-emerges-from-stealth-with-105m-to-build-universal-robotics-foundation-model-and-horizontal-platform-for-general-purpose-physical-ai-302495016.html
+https://www.prnewswire.com/news-releases/genesis-ai-unveils-gene-26-5--the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities-302763638.html"
+N027,Genisom AI,Next 100,Robot software development tools,"Genisom provides development documentation connecting VLMs, LLMs, MATRiX and ROS2 with execution procedures.","Official linked repository; visual navigation reaches simulation instructions, and hardware deployment is marked TODO.","N027:S1
+N027:S2
+N027:S3
+N027:S4","https://www.genisomai.com/en/opensource
+https://www.genisomai.com/en/aboutus.html
+https://github.com/zsibot/genisom_roamerx_open
+https://github.com/zsibot/genisom_vln"
+N028,Gole Robotics,Next 100,Construction transport trials,Gole Robotics tested material transport at a named construction site.,The recorded construction field trial concerns robot transport of materials at a named site.,"N028:S1
+N028:S2
+N028:S3
+N028:S4
+N028:S5","https://www.solidworks.com/customer-story/gole-robotics-reduces-production-costs-and-eliminates-errors/
+https://golerobotics.com/86
+https://golerobotics.com/81
+https://www.solidworks.com/assets/invest/2024-03/sw_gole-robotics-case-study_case_study-_final_.pdf
+https://newsroom.posco.com/kr/포커스온-1편-건설-현장에-양중-자율주행-로봇이-뜬다/"
+N029,Google DeepMind,Next 100,On-device robotics models,"Google DeepMind’s Gemini Robotics On-Device combines a local model, SDK and physical adaptation tests.","The Gemini Robotics On-Device release covers a local model, SDK and physical adaptation tests under stated research conditions.",N029:S1,https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/
+N111,Hello Robot,Next 100,Open-vocabulary mobile manipulation development,"Hello Robot maintains the developing Stretch AI integration for language-directed mobile manipulation, connecting semantic memory, navigation and task execution. Its team reports physical pick-and-place demonstrations; inherited Meta HomeRobot and other research methods retain their original attribution.","Hello Robot repository and documentation, accessed 2026-10-11: developer-reported physical language-directed pick-and-place and experimental code-policy, semantic-memory and navigation integration. The networked GPU configuration uses calibrated hardware; DynaMem also documents a reduced-capability onboard CPU mode.","N111:S1
+N111:S2
+N111:S3
+N111:S4","https://github.com/hello-robot/stretch_ai
+https://github.com/hello-robot/stretch_ai/blob/main/docs/ovmm.md
+https://github.com/hello-robot/stretch_ai/blob/main/docs/dynamem.md
+https://forum.hello-robot.com/t/introducing-stretch-4/1505"
+N031,Helm.ai,Next 100,Driving-model development,Helm.ai develops driving models under a collaboration whose scope and application pathway are confirmed by a named OEM.,"Customer-confirmed development agreement; mass production, payments and L3 approvals have separate status.",N031:S1,https://global.honda/en/newsroom/news/2025/c251015aeng.html
+N032,Hexagon,Next 100,Humanoid training and validation,Hexagon’s AEON entered Schaeffler’s Humanoid Gym for training and validation.,"Hexagon describes AEON training and validation at Schaeffler’s Humanoid Gym. The 1,000-robot figure is a future deployment plan.",N032:S1,https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform
+N033,Honda,Next 100,Dexterous teleoperation assistance,"Honda describes a dexterous hand using intent estimation and contact feedback, including repeated learning of screwdriver regrasping.","Honda technical research account; teleoperation and AI assistance are distinct functions, and measured figures are company-reported.",N033:S1,https://global.honda/en/tech/Avatar_robot/
+N113,Hugging Face,Next 100,Compact perception-to-action model research,"Hugging Face co-develops SmolVLA, connecting visual observations and instructions to manipulation actions. Its research evaluates SO100 and SO101 physical tasks, with shared credit for academic partners, hardware designers and community data contributors.",June 2025 research and released model resources: physical manipulation evaluations and task adaptation. LeRobot's separately adopted infrastructure is recognized in I026; this company entry selects SmolVLA model research.,"N113:S1
+N113:S2
+N113:S3","https://arxiv.org/html/2506.01844v1
+https://huggingface.co/blog/smolvla
+https://huggingface.co/lerobot/smolvla_base"
+N034,Intel,Next 100,Neuromorphic robot-control research,Intel contributes Loihi 2 computing to joint NRL/Intel research converting a reinforcement-learning controller into neuromorphic inference for Astrobee simulation.,"Joint NRL/Intel research v1, 2025-12-03: chip-executed inference and closed-loop Astrobee simulation; feasibility validation.","N034:S1
+N034:S2","https://arxiv.org/abs/2512.03911
+https://arxiv.org/html/2512.03911v1"
+N035,Intrinsic,Next 100,AI manufacturing integration,Intrinsic integrates perception and path planning into TRUMPF’s SortMaster Vision development.,TRUMPF SortMaster Vision product integration; the record covers development and software integration.,N035:S1,https://www.intrinsic.ai/blog/posts/trumpf-intrinsic-ai-enabled-robotics-for-the-machine-tool-industry
+N036,JD.com,Next 100,Multi-source action learning,JD.com’s JoyAI-RA research describes learning from multiple data sources and evaluation in simulation and physical benchmarks.,Research-team materials and paper abstract describing the action model.,"N036:S1
+N036:S2","https://research.joyai.com/team/embodied-ai
+https://arxiv.org/abs/2604.20100"
+N039,KNOWIN,Next 100,Closed-loop policy research,KNOWIN’s GLOW report describes a model and real-robot one-shot and closed-loop evaluations.,Author-reported physical evaluations; simulation and scene-question-answering results retain their separate test scopes.,"N039:S1
+N039:S2
+N039:S3
+N039:S4","https://www.knowinai.com/en/product.html
+https://www.knowinai.com/en/company.html
+https://www.knowinai.com/en/about.html
+https://www.knowinai.com/tech.html"
+N040,Leju Robotics,Next 100,Robot development tools,Leju’s LeTools provides public code and a documented route to physical-robot deployment.,LeTools’ official README describes public code and hardware deployment procedures. Factory agreements are separate corporate records.,"N040:S1
+N040:S2
+N040:S3","https://www.letools.lejurobot.com/
+https://www.schaeffler.com/en/media/press-releases/press-releases-detail.jsp?id=88174976&trk=article-ssr-frontend-pulse_little-text-block
+https://github.com/LejuRobotics/LeTools-Learning"
+N041,LG Electronics,Next 100,Household manipulation development,"LG’s CLOiD development combines VLM and VLA systems with a wheeled, dual-arm structure for household tasks and appliance integration.",LG’s CES announcement and preview describe CLOiD household-task development and demonstration plans.,N041:S1,https://www.lg.com/global/newsroom/news/home-appliance-solution/lg-electronics-presents-lg-cloid-home-robot-to-demonstrate-zero-labor-home-at-ces-2026/
+N042,LimX Dynamics,Next 100,Hardware-linked development tools,"LimX publishes development tools and robot-specific execution procedures for hardware-linked engineering. In a separate humanoid navigation demonstration, RealSense supplies RGB-D camera input, NVIDIA supplies cuVSLAM odometry and LimX integrates the navigation system.",LimX's public materials describe hardware-linked development and execution procedures; speed figures are supplier-reported. The undated RealSense account documents camera input in a physical humanoid demonstration. RealSense retains supplier credit outside the 200-company selection.,"N042:S1
+N042:S2
+N042:S3
+N042:S4","https://www.limxdynamics.com/en/news/BK000046
+https://www.limxdynamics.com/en/news/BK000059
+https://github.com/FluxVLA/FluxVLA
+https://www.realsenseai.com/news-insights/insights/advancing-autonomous-humanoid-navigation-with-realsense-depth-cameras-and-nvidia-cuvslam/"
+N043,Lumos Robotics,Next 100,Manipulation data platforms,Lumos provides FastUMI data-platform code and a physical policy-development path for Touch R1.,FastUMI repository and Touch R1 documentation cover data and policy-development tools. The JD agreement is a separate partnership event.,"N043:S1
+N043:S2
+N043:S3","https://www.lumosbot.tech/
+https://github.com/LumosRobot
+https://www.lumosbot.tech/products/touch/"
+N044,Machina Labs,Next 100,Closed-loop forming,"Machina Labs combines closed-loop forming with scan-based correction, including a Toyota demonstration pathway.","Machina Labs describes closed-loop forming, scan correction and a Toyota demonstration. Published depth specifications conflict between 4 ft and 5 ft.","N044:S1
+N044:S2","https://machinalabs.ai/capabilities
+https://machinalabs.ai/resources/machina-labs-advances-custom-automotive-manufacturing-with-ai-and-robotics"
+N045,MakinaRocks,Next 100,Robot maintenance models,"MakinaRocks develops maintenance models for HD Hyundai Samho welding robots, using simulated-fault tests described in its September 2026 technical account.",The September 2026 technical report covers maintenance-model development and simulated faults on HD Hyundai Samho welding robots.,"N045:S1
+N045:S2","https://www.makinarocks.ai/en/blog/connecting-the-factory-floor-with-physical-ai/
+https://www.makinarocks.ai/blog/%EC%A0%95%EC%83%81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EB%B4%87-%EA%B3%A0%EC%9E%A5%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-ai-%EA%B0%9C%EB%B0%9C%EA%B8%B0/"
+N102,Maven Robotics,Next 100,Logistics deployment development,Maven Robotics describes a product launch and deployment for specific logistics tasks.,Maven’s company announcement describes product release and logistics deployment at an unnamed customer. Accumulated operating hours are a target.,"N102:S1
+N102:S2
+N102:S3","https://www.mavenrobotics.ai/
+https://www.mavenrobotics.ai/join-us/18
+https://www.globenewswire.com/news-release/2026/09/10/3359782/0/en/maven-robotics-raises-100m-series-a-for-the-worlds-first-general-purpose-robotics-system-for-industrial-work.html"
+N046,Mentee Robotics / Mentee by Mobileye,Next 100,Physical manipulation learning,"Mentee describes observation, offline reinforcement learning and physical execution for battery replacement and handing over cans.","Company physical-development account; customer trials, success denominators and independent verification remain unavailable.","N046:S1
+N046:S2
+N046:S3
+N046:S4
+N046:S5","https://menteebot.com/blogs/mentoring-instruction-following.html
+https://menteebot.com/blog/menteebot-ai-approach/
+https://menteebot.com/blog/mentoring-instruction-following/
+https://ir.mobileye.com/news-releases/news-release-details/mobileye-acquire-mentee-robotics-accelerate-physical-ai
+https://www.sec.gov/Archives/edgar/data/1910139/000110465926048124/tm261059d3_ars.pdf"
+N047,Meta,Next 100,Collaborative robotics benchmarks,"Meta publishes PARTNR data and benchmarks, with research describing application to Spot and tests of collaboration, failure and recovery.",Company research release covering the specified tools and research tests.,N047:S1,https://ai.meta.com/blog/machine-intelligence-research-new-models/
+N048,Microsoft,Next 100,Robot planning and action models,"Microsoft’s Magma repository provides robot-planning demonstrations, training code, model releases and evaluation procedures.","Magma’s official repository and joint research provide planning demonstrations, training code and evaluation procedures.",N048:S1,https://github.com/microsoft/Magma
+N096,Mobilint,Next 100,Robot-policy encoder integration research,"Mobilint supplies Aries2 hardware for an external study of robot-policy encoder offloading, retaining hardware credit separately from the researchers' policy and evaluation.","Research v1, 2026-08-15: physical Aries2 encoder inference, GPU action computation and simulated rollouts; energy, latency and task-success trade-offs.","N096:S1
+N096:S2","https://arxiv.org/abs/2608.15002
+https://www.mobilint.com/developers"
+N097,Mobiltech,Next 100,Spatial data assets,Mobiltech supplies documented 3D spatial assets and links them to named test grounds and simulators.,Mobiltech's published simulation and open-data asset records describe the spatial-data contribution.,"N097:S1
+N097:S2
+N097:S3","https://www.mobiltech.io/application-simulation
+https://www.mobiltech.io/opendata
+https://www.mobiltech.io/opendata/%EA%B0%95%EB%82%A8%EC%97%AD-(a%EA%B5%AC%EC%97%AD)"
+N049,MORAI,Next 100,Driving simulation tools,"MORAI publishes sensor models, path-generation documentation and driving examples for autonomous-driving development.","MORAI’s documentation and public repository cover driving-simulation sensor models, path generation and examples.","N049:S1
+N049:S2
+N049:S3","https://www.morai.ai/robotics
+https://help-morai-sim-en.scrollhelp.site/morai-sim-standard-en/morai-sim-ros-example-code-tutorial
+https://github.com/MORAI-Autonomous/MORAI-Example-ROS2"
+N051,Near Earth Autonomy,Next 100,Autonomous aircraft integration,Near Earth Autonomy reports autonomous AW139 flight and RUC60 integration development.,Company records describe AW139 autonomous flight tests and RUC60 integration development.,N051:S1,https://www.nearearth.aero/news
+N052,NEURA Robotics,Next 100,Robotics learning platforms,"NEURA describes robots, a learning platform and a joint welding application with Abicor Binzel.","NEURA’s Automatica announcement covers robots, learning infrastructure and a joint welding application. Production-scale goals remain targets.","N052:S1
+N052:S2","https://neura-robotics.com/neura-robotics-brings-physical-ai-to-healthcare/
+https://neura-robotics.com/neura-robotics-launches-technological-revolution/"
+N054,Noetix Robotics,Next 100,Reinforcement-learning tools,"Noetix publishes N2 reinforcement-learning code, model export and sim-to-sim procedures.","Noetix’s N2 README provides reinforcement-learning, export and sim-to-sim procedures for research development.","N054:S1
+N054:S2
+N054:S3","https://www.noetixrobotics.com/about/
+https://www.noetixrobotics.com/en/source/
+https://github.com/Noetix-Robotics/noetix_n2_gym"
+N095,Nota AI,Next 100,Robot inference runtime,Nota’s NQRR runtime operated on a Qualcomm board with SO-101 in a color-based cube-transfer demonstration at KRAIN 2026.,"Official technical report of a demonstration; further integration validation remains planned, and general semiconductor contracts retain their own scope.","N095:S1
+N095:S2
+N095:S3
+N095:S4","https://blog.nota.ai/newsroom/on-device-ai-humanoid-robots
+https://www.nota.ai/aboutus
+https://aihub.qualcomm.com/collaborators/nota-ai
+https://blog.nota.ai/insights/vla-edge-npu-optimization"
+N055,Nuro,Next 100,Robotaxi employee trials,"Nuro’s driving system entered employee ride tests confirmed by Uber, extending its development path beyond delivery vehicles.","Partner-confirmed employee trials; Lucid vehicle supply, Uber operation and Nuro control retain separate roles.",N055:S1,https://s23.q4cdn.com/407969754/files/doc_earnings/2026/q1/transcript/Uber-Q1-26-Prepared-Remarks.pdf
+N056,Outrider,Next 100,Autonomous yard trials,Outrider’s 2024 material describes customer-site movement trials and deep-learning-based connection tasks.,Outrider’s 2024 account describes customer-site trials and learned connection tasks. Customer identities are undisclosed.,"N056:S1
+N056:S2","https://www.outrider.ai/blog/company-news/its-2024-and-we-are-shipping-the-commercial-outrider-system/
+https://www.outrider.ai/press-releases/outrider-builds-first-in-industry-safety-system-for-driverless-yard-operations/"
+N057,PaXini,Next 100,Tactile manipulation,"PaXini describes tactile-feedback control for DexH13 grasping and handle manipulation, and TORA-ONE cup and wafer tasks.",PaXini’s reports cover physical tactile-control demonstrations; data production capacity and cloud access are announced plans.,"N057:S1
+N057:S2
+N057:S3","https://www.prnewswire.com/news-releases/paxini-unveils-the-tactile-infrastructure-for-embodied-ai-redefining-full-stack-product-matrix-at-ces-2026-302655238.html
+https://www.paxini.com/product/dex/gen3
+https://omnisharingdb.paxini.com/home"
+N058,Persona AI,Next 100,Teleoperated welding,"Persona AI demonstrated physical movement, posture and arc welding at ARC Specialties using teleoperation.","Persona AI’s report describes teleoperated movement, posture and arc welding at ARC Specialties.","N058:S1
+N058:S2","https://persona.ai/news/why-skilled-industrial-labor-is-the-future-of-heavy-industrial-humanoids/
+https://www.prnewswire.com/news-releases/hd-hyundai-and-persona-ai-sign-agreement-to-deploy-humanoid-welding-robots-for-shipbuilding-automation-302449282.html"
+N059,Physical Intelligence,Next 100,Open policy development tools,"Physical Intelligence’s openpi provides models, checkpoints and documented inference and fine-tuning procedures.","The openpi README provides models, checkpoints, inference and fine-tuning instructions as public development resources.",N059:S1,https://github.com/Physical-Intelligence/openpi
+N060,Qualcomm,Next 100,Robotics computing environment,"Qualcomm provides robotics evaluation boards, ROS 2 and Gazebo samples, with a documented separation of perception and control.",Official developer documentation; compute specifications and actual robot-task performance have separate measurement scopes.,N060:S1,https://www.qualcomm.com/developer/blog/2026/09/accelerating-robotics-development-dragonwing-iq8-dragonwing-iq9
+N061,Raion Robotics,Next 100,Quadruped control development,Raion Robotics records a long-distance mobility test in its company history and describes quadruped-control development.,Raion’s company history describes a long-distance quadruped mobility test and control-development work.,N061:S1,https://raionrobotics.com/team
+N062,RealMan,Next 100,Robot data and teleoperation,"RealMan describes physical platforms, teleoperation and data QA for RealBot and Darwin development, alongside a data center it reports as operating.","RealMan describes robot development, teleoperation and data QA, with center scale and operating status reported by the company.","N062:S1
+N062:S2","https://www.realman-robotics.com/en/products/realbot-humanoid.html
+https://realman-robotics.com/en/main/data-services.html"
+N064,Realtime Robotics,Next 100,Motion-planning optimization,Realtime Robotics applied motion-planning tools in a Volkswagen cell proof of concept and described resulting adjustments.,"Supplier proof-of-concept account; evidence concerns automatic path search and collision avoidance, with learning-model attribution excluded.",N064:S1,https://rtr.ai/resources/realtime-robotics-launches-optimization-service-to-help-manufacturers-quickly-reduce-cycle-time/
+N065,Reliable Robotics,Next 100,Airborne detect-and-avoid research,Reliable Robotics tested sensor tracking and ACAS-Xr alerts in actual flight for detect-and-avoid development.,"Reliable-authored report hosted by the FAA; the system had no flight-control authority, and 52 of 56 refers to achieved encounter conditions.","N065:S1
+N065:S2","https://www.nasa.gov/centers-and-facilities/armstrong/nasa-research-gathers-key-radar-data-for-autonomous-air-cargo-delivery/
+https://www.faa.gov/uas/programs_partnerships/UAS_BAA_Call_005_Final_Report_Reliable_Robotics.pdf"
+N109,Rhoda AI,Next 100,Video-pretrained industrial manipulation research,Rhoda tests how web-video pretraining affects robot-policy performance in industrial bearing unpacking. Its physical evaluation connects model choices to a defined multistep handling task.,"Rhoda research account dated 2026-09-10: bearing-unpacking robot-policy study, task scoring and recorded physical trials; development evaluation in a customer task setting.",N109:S1,https://www.rhoda.ai/research/scaling-web-video-pretraining
+N066,Richtech Robotics,Next 100,AI beverage manipulation,"Richtech’s ADAM uses vision and control AI to observe drinks and adjust movement and pouring, as described in its FY2025 filing and later development announcement.",Richtech’s FY2025 filing and 2026 announcement describe ADAM perception and pouring development. Feature claims retain their stated periods.,"N066:S1
+N066:S2
+N066:S3","https://www.sec.gov/Archives/edgar/data/1963685/000121390026005343/ea0272362-10k_richtech.htm
+https://richtechrobotics.com/resources/collaboration-with-microsoft
+https://ir.richtechrobotics.com/news-releases/news-release-details/richtech-robotics-celebrates-completion-installation-adam-ghost"
+N110,RIVR,Next 100,Terrain-aware parcel-delivery trials,"RIVR develops wheeled-legged robots for parcel delivery with Veho. The customer's initial field experiment tests stairs, gates and uneven sidewalks while staff accompany the robot and collect learning data.","Veho customer account, 2025-05-27: accompanied last-meter parcel-delivery experiment; Veho 2026 innovation account reports the launch of RIVR robots.","N110:S1
+N110:S2","https://www.shipveho.com/blog/ai-meets-logistics-veho-and-rivrs-strategic-partnership-in-robotic-parcel-delivery
+https://www.shipveho.com/news/veho-named-to-fast-company-most-innovative-2026"
+N067,RLWRLD,Next 100,Physical policy research,RLWRLD’s paper describes physical ALLEX and Franka tasks with specified evaluation criteria.,RLWRLD’s paper reports ALLEX and Franka research tasks; 86.8% is the research team’s average for its specified tasks.,"N067:S1
+N067:S2
+N067:S3
+N067:S4","https://www.rlwrld.ai/ko/insight/blog/14
+https://arxiv.org/abs/2605.03269
+https://www.rlwrld.ai/en/company
+https://arxiv.org/html/2605.03269v2"
+N105,RoboForce,Next 100,Industrial robot pilots,RoboForce develops TITAN and reports ongoing pilots for robot tasks in demanding industrial environments.,"Company announcements documenting prototype development, pilot activity and contract signing as separate milestones.","N105:S1
+N105:S2","https://www.roboforce.ai/news/roboforce-fundraising-announcement-2026-03
+https://www.roboforce.ai/about-us"
+N068,RobotEra,Next 100,Predictive manipulation-policy development,RobotEra develops the VPP predictive-visual manipulation-policy programme and supplies XHand used in external LeVR experiments. Hardware supply and each research team's policy retain separate attribution.,"RobotEra VPP repository and LeVR v1, 2025-09-17: policy development and real-robot manipulation evaluation with Franka FER and XHand.","N068:S1
+N068:S2
+N068:S3","https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/robotera
+https://github.com/roboterax/video-prediction-policy
+https://arxiv.org/abs/2509.14349"
+N069,ROBROS,Next 100,Learned block sorting,ROBROS demonstrated learned block sorting on physical hardware.,The physical demonstration covers learned block sorting; service rollout is a target. ROBROS and ROBOTIS are separate companies.,"N069:S1
+N069:S2","https://www.robros.co.kr/en/news/05d83e1d-9bf1-406a-b6b4-aa2248124ba6
+https://www.robros.co.kr/en/about-us"
+N070,Sanctuary AI,Next 100,Contact-task learning,Sanctuary describes learned physical contact tasks on FR3.,"Research-development evidence; the FR3 results and Phoenix factory work are separate activities, while the Magna agreement retains agreement status.","N070:S1
+N070:S2","https://sanctuary.ai/news/sanctuary-ai-expands-general-purpose-robot-footprint-in-automotive-manufacturing-industry/
+https://sanctuary.ai/news/tiger/"
+N071,Saronic,Next 100,Autonomous surface-vessel trials,Saronic’s Corsair completed multi-day trials described as funded by the company’s own research and development budget.,Company account of the reported vessel trials. Marauder is a separate development programme.,"N071:S1
+N071:S2","https://www.saronic.com/vessels
+https://medium.com/saronic-technologies/saronic-completes-multi-day-deployment-with-24-7-operations-to-validate-corsair-capabilities-5a93cbae92d9"
+C088,Siemens,Next 100,Factory integration trials,Siemens develops control and integration for Humanoid's HMND01 Alpha tote-handling trials at its Erlangen factory.,"Joint announcement, 2026-04-16: factory validation and trial performance targets.","C088:S1
+C088:S2","https://press.siemens.com/global/en/pressrelease/siemens-and-humanoid-bring-physical-ai-factory-floor-deploying-humanoids-industrial
+https://press.siemens.com/global/de/pressemitteilung/siemens-und-humanoid-bringen-zusammen-mit-nvidia-humanoide-roboter-fertigung"
+N073,Skild AI,Next 100,Multi-robot manipulation,Skild develops robot manipulation through tests and partner pilots. Zebra announced the sale of its Robotics Automation business to Skild in April 2026.,"Company and transaction announcements; Fetch records provide historical business context, and reported deployment and ARR lack independent verification.","N073:S1
+N073:S2","https://www.skild.ai/blogs/skild-crosses-100m-arr
+https://www.zebra.com/us/en/about-zebra/newsroom/press-releases/2026/skild-ai-acquires-zebra-technologies--robotics-automation-busine.html"
+N074,Sony,Next 100,Tool-use learning,Sony and Edinburgh researchers trained a physical Franka robot to use tools from a small number of demonstrations.,"Joint research report; evidence concerns physical experiments, with commercial robot sales and household deployment outside that scope.",N074:S1,https://sony.github.io/tool-use-few-shot-transfer/
+N075,Spirit AI,Next 100,Physical policy deployment support,Spirit provides documentation for fine-tuning PI05 and deploying inference on a physical Moz robot.,Spirit’s support documentation describes PI05 fine-tuning and inference on Moz. Source access requires a support key.,"N075:S1
+N075:S2","https://www.spirit-ai.com/product
+https://docs.spirit-ai.com/open-resources/pi.html"
+N103,Standard Bots,Next 100,Robot development and education,"Standard Bots combines physical robots with development and education packages, extending its equipment offering toward learning from demonstrations.",Standard Bots provides physical robots with development and education packages. It is separate from Standard Robots in China.,"N103:S1
+N103:S2","https://standardbots.com/education
+https://standardbots.com/blog/how-robots-learn-things"
+N076,Sunday,Next 100,Household robotics development,Sunday describes kitchen and household-task development with specific technical stages and a late-2026 beta plan.,Sunday describes household-task development and a beta planned for late 2026.,N076:S1,https://www.sunday.ai/
+N078,TARS Robotics,Next 100,Manipulation data and devkits,TARS provides devkits and data repositories supporting WIYH physical-manipulation learning.,"WIYH paper, devkit and repository documentation. Chronology follows the cited paper's publication record.","N078:S1
+N078:S2
+N078:S3
+N078:S4
+N078:S5","https://arxiv.org/abs/2512.24310
+https://huggingface.co/tars-robotics
+https://github.com/tars-robotics
+https://github.com/tars-robotics/World-In-Your-Hands
+https://arxiv.org/html/2512.24310v4"
+N079,Tencent,Next 100,Robot platform integration,Tencent’s platform describes model and RoboFusion components used in a Unitree G1 trial at Dunhuang’s digital exhibition center.,"Official platform account of the pilot, with hardware contributions by Unitree and EngineAI.",N079:S1,https://tairos.tencent.com/en-US
+N080,Tesla,Next 100,Humanoid production preparation,"Tesla’s Q2 2026 materials describe Optimus production-line installation, training-data collection and autonomy-compute infrastructure.","Company production-preparation records; installation, production completion and customer acceptance have separate status.",N080:S1,https://ir.tesla.com/_flysystem/s3/sec/000162828026049213/tsla-20260722-gen.pdf
+N108,Torc Robotics,Next 100,Autonomous highway-freight validation,Torc validates a highway-freight driving system using production-intent hardware in driver-out closed-course tests. Its public-road testing and commercial-launch target describe a continuing development programme.,"Torc validation announcement, 2024-10-29: driver-out multilane closed-course testing; live FAQ accessed October 2026: public-road safety drivers and planned 2027 commercialization.","N108:S1
+N108:S2","https://torc.ai/wp-content/uploads/2024/10/Torc-Robotics-Performs-Successful-Fully-Autonomous-Product-Validation.pdf
+https://torc.ai/frequently-asked-questions/"
+N107,Toyota Motor Corporation / Toyota Research Institute,Next 100,Whole-body manipulation-policy development,Toyota Research Institute jointly develops language-conditioned large behavior models with Boston Dynamics. The partners connect teleoperated training data to physical Atlas manipulation and recovery tests.,"Boston Dynamics joint technical account, accessed October 2026: real-robot and simulated data collection, policy training, and Atlas workshop manipulation evaluation.",N107:S1,https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing/
+N081,Vayu Robotics,Next 100,Learned delivery mobility,"Vayu’s 2024 announcement describes a physical delivery robot combining transformer-based movement with passive optical sensors, plus application to wheeled platforms.","Company development report and announcement of a 2,500-unit deployment contract.",N081:S1,https://www.vayurobotics.com/press-releases/vayu-robotics-debuts-the-worlds-first-on-road-delivery-robot-powered-by-ai-robotics-foundation-models
+N082,Vention,Next 100,Industrial perception tools,Vention provides the GRIIP SDK and describes RapidOperator AI handling object variation and retrying failed tasks.,"Vention’s documentation describes SDK-based perception and retry handling, using NVIDIA development infrastructure.","N082:S1
+N082:S2
+N082:S3
+N082:S4
+N082:S5","https://vention.com/
+https://vention.com/ai/physical-ai-pipeline
+https://docs.vention.com/docs/industrial-palletizer-datasheet
+https://docs.vention.com/docs/griip-sdk-1
+https://vention.com/blogs/AI-operator/nvidia_gtc2026-1088"
+N083,Vueron,Next 100,Road sensing trials,"Vueron describes road tests with defined US routes and safety-driver conditions, alongside a documented 2021 Korean trial.","Vueron’s test material specifies road routes and safety-driver conditions, including a documented Korean trial in 2021.","N083:S1
+N083:S2
+N083:S3","https://www.vueron.com/vueron-copilot
+https://www.vueron.com/technology
+https://www.vueron.com/press-releases/av-on-257-mile-fully-automated-historic-highway-drive"
+N084,Waabi,Next 100,Autonomous truck integration,"Waabi completed integration with a truck platform confirmed by the OEM, taking its simulation-based model toward physical deployment.",The OEM announcement confirms Waabi integration with a physical truck platform.,N084:S1,https://www.volvoautonomoussolutions.com/en-en/news-and-insights/stories/2025/oct/waabi-and-volvo-demonstrate-the-future-of-autonomous-trucking.html
+N112,Wayve,Next 100,Linguistic driving-control research,"Wayve's LINGO-2 research model jointly predicts driving trajectories and commentary, with a closed-loop Central London public-road demonstration. Separate Ghost Gym trials compare manoeuvres under different language prompts; explanation/action alignment and reliable real-world language control remain research questions.","Wayve, 2024-04-17, LINGO-2 architecture and research demonstrations: public-road trajectory execution with commentary in Central London; language-conditioned manoeuvre comparisons in Ghost Gym simulation; open alignment and real-world language-control research.",N112:S1,https://wayve.ai/thinking/lingo-2-driving-with-language/
+N085,WIRobotics,Next 100,Research robot models,"WIRobotics publishes MJCF, URDF and USD models, replay examples and evaluation procedures for its v2 research prototype.","WIRobotics releases research models and replay tools. USD support is experimental, Gazebo is unsupported and mesh use is restricted to evaluation.","N085:S1
+N085:S2
+N085:S3
+N085:S4
+N085:S5","https://github.com/wirobotics-rih/allex_model
+https://corp.wirobotics.com/en
+https://corp.wirobotics.com/en/product/wim
+https://corp.wirobotics.com/en/legal
+https://corp.wirobotics.com/en/product/allex"
+N086,Wonik Robotics,Next 100,Sensing robot hands,"Wonik’s Allegro V6 F adds contact sensing and a control interface, extending its hand platform for learning-data development.",Wonik’s September 2026 release specifies V6 F contact sensing and control interfaces; investment funding is described as planned.,N086:S1,https://allegrohand.com/sub/about/news.php?bid=4&idx=648&mode=view
+N087,World Labs,Next 100,Generated robotics simulation development,"World Labs supplies Marble-generated worlds for two named researchers' robotics simulation experiments, with exported scenes and manually added task assets.","World Labs case, 2025-11-12: exploratory MuJoCo/RoboSuite and Isaac Sim workflows; generated scenes and task-development experiments.","N087:S1
+N087:S2","https://www.worldlabs.ai/
+https://www.worldlabs.ai/case-studies/1-robotics"
+N088,X Square Robot,Next 100,Policy training tools,X Square provides a documented LeRobot integration with training and deployment procedures.,"Official LeRobot guidance describes X Square’s policy training and deployment integration, separate from Galaxea’s G0 hardware.",N088:S1,https://huggingface.co/docs/lerobot/walloss
+N089,Xiaomi,Next 100,Physical action-model research,Xiaomi publishes model and code paths for physical tasks including LEGO disassembly and towel folding.,"Physical manipulation experiments, including LEGO disassembly and towel folding, with published model and code resources.","N089:S1
+N089:S2
+N089:S3","https://ir.mi.com/system/files-encrypted/nasdaq_kms/assets/2022/08/19/5-40-32/Annoucement_22Q2_EN.pdf
+https://arxiv.org/abs/2602.12684
+https://xiaomi-robotics-0.github.io/"
+N092,Xingyuanzhi,Next 100,Robot perception and action development,"Xingyuanzhi describes RoboBrain Pro, a jointly developed EP loading and unloading product, robot integration and physical cleaning work.",Company history and product material; customer-scale and team-background statements have separate evidence scope.,"N092:S1
+N092:S2","https://xyz-eai.com/about.html
+https://xyz-eai.com/product.html"
+N090,XPENG Robotics / IRON,Next 100,Humanoid hardware development,"XPENG describes IRON’s physical autonomous walking, onboard model and production-line development.",XPENG’s announcement describes physical walking and onboard-model development; 2027 deliveries are planned.,N090:S1,https://www.xpeng.com/au/news/01a0c826ab12a0c365408a028229001e
+N093,Yuequan Bionic,Next 100,Biomimetic hand prototypes,Yuequan Bionic’s hand prototype performed movements observed in an exhibition report.,The exhibition account describes a hand prototype performing remote movement imitation without naming its exact model.,"N093:S1
+N093:S2
+N093:S3","https://www.yqbionics.com/x_hand
+https://www.yqbionics.com/
+https://finance.sina.com.cn/stock/t/2026-08-28/doc-inipwhrw0046939.shtml"

@@ -1,0 +1,45 @@
+---
+title: "Coupang | Fulfillment operations | B2AGI Physical AI 2027"
+record_id: "C024"
+name: "Coupang"
+category: "companies"
+selection_group: "Current 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Coupang", "C024", "Physical AI", "Embodied AI", "Current 100", "Fulfillment operations", "capital-markets"]
+tags: ["b2agi", "physical-ai", "company-research", "capital-markets"]
+---
+
+# Coupang — Fulfillment operations
+
+Coupang uses people and robots together in fulfillment operations. It represents the customer’s role in deploying automation for order handling.
+
+## Record and edition
+
+- **Record ID:** `C024`
+- **List:** Current 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Operator accounts; overall infrastructure investment has a wider scope than robot purchases, and time-saving figures are party-reported.
+
+## Sources
+
+- **C024:S1 — news.coupang.com:** <https://news.coupang.com/archives/26868/> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `C024`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

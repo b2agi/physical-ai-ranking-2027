@@ -1,0 +1,47 @@
+---
+title: "XYZ Robotics | Warehouse unloading supply | B2AGI Physical AI 2027"
+record_id: "C099"
+name: "XYZ Robotics"
+category: "companies"
+selection_group: "Current 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["XYZ Robotics", "C099", "Physical AI", "Embodied AI", "Current 100", "Warehouse unloading supply", "logistics"]
+tags: ["b2agi", "physical-ai", "company-research", "logistics"]
+---
+
+# XYZ Robotics — Warehouse unloading supply
+
+XYZ Robotics supplied RockyOne for unloading at Nitori Home Logistics' Satte site, with the supplier reporting stable operational pilots and announcing expansion.
+
+## Record and edition
+
+- **Record ID:** `C099`
+- **List:** Current 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Supplier account, 2026-02-16: Satte pilots began June 2025; regional expansion is prospective; Japanese distribution begins February 2026.
+
+## Sources
+
+- **C099:S1 — www.xyzrobotics.com:** <https://www.xyzrobotics.com/news/nitori-rockyone-deployment-202602> · Recorded access: 2026-10-05
+- **C099:S2 — www.xyzrobotics.com:** <https://www.xyzrobotics.com/about> · Recorded access: 2026-10-05
+- **C099:S3 — www.xyzrobotics.com:** <https://www.xyzrobotics.com/news/list/news-center/1> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `C099`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

@@ -197,3 +197,36 @@ Training sources: [XbotPark Robotics Academy](https://www.xbotpark.com/en/Talent
 
 
 [Cluster overview and linked profiles](CLUSTERS.md). The cluster source baseline remains 11 October 2026; first public GitHub release: 12 October 2026.
+
+
+## Company selection
+
+**Current 100** recognizes established capabilities adopted in production, operations or education and research, alongside completed technology transfers and capital contributions. **Next 100** follows new robot, policy and application programmes in development, prototype testing or research validation. Each entry names the contribution being assessed. A supplied arm can belong to Current while the new manipulation policy tested on it belongs to Next.
+
+### Current and Next in practice
+
+
+| Record | Selected activity | Group choice |
+| --- | --- | --- |
+| C044 Gecko Robotics | Robotic inspection and AI analysis in BPMI component trials | Next: the selected inspection application is under validation |
+| C088 Siemens | Control and integration in Erlangen factory tote-handling trials | Next: the selected integration is a developing factory application |
+| C105 Doosan Robotics | Arm supplied to an external vision-guided welding project | Current: an adopted manipulation platform supports the team's new application |
+| C046 GelSight | Mini tactile sensor used by external researchers for robot-mounted data acquisition | Current: adopted instrumentation; the researchers retain their inspection methods |
+| N072 Shadow Robot | Released DEX-EE hand used in DeepMind manipulation research | Current: jointly developed and adopted research hardware |
+| N111 Hello Robot | Stretch AI language-directed navigation and manipulation integration | Next: the company's developing software application |
+| N112 Wayve | LINGO-2 trajectory-and-commentary model and simulated language-conditioned manoeuvres | Next: the named 2024 driving research contribution |
+| N113 Hugging Face | SmolVLA perception-to-action model and physical manipulation evaluations | Next: the named research programme; I026 separately recognizes adopted LeRobot infrastructure |
+| N020 Farm-ng | Amiga used in the recurring Farm Robotics Challenge | Current: an adopted education and development platform |
+| N034 Intel | Loihi 2 computing in joint Astrobee control research | Next: the selected robot-control programme is feasibility research |
+| N003 Aigen | Element's initial use and evaluation at Bowles farm | Next follows the emerging agricultural application |
+| N008 Apptronik | Apollo transport and part-handling trials at Mercedes-Benz | Next follows the humanoid product's customer-development pathway |
+| N056 Outrider | Customer-site movement and learned connection trials | Next follows the emerging autonomous-yard application |
+
+The groups classify the selected contribution. An instrument supplier retains its hardware contribution when an external team develops a new method using that instrument. Evidence scope specifies customer trials, acceptance, recurring operation and reported performance at the record level.
+
+Hello Robot is selected for Stretch AI's integration of semantic memory, navigation and manipulation. Wayve is selected for LINGO-2's dated language-conditioned driving research, with road and simulation results distinguished. Rainbow Robotics and DeepRoute.ai are comparison candidates outside this edition's company selection. Rainbow's research-platform supply and DeepRoute's production-assistance and learning work are the alternative cases documented in [Selection Comparisons](#selection-comparisons). Momenta and Horizon provide other Chinese automotive-software and computing coverage.
+
+Waymo contributes documented driverless passenger operation; UBTECH contributes humanoid production and delivery linked to factory tasks. DJI supplies infrastructure-inspection capabilities, and Doosan supplies the arm identified in the external project team's engineering account. Toyota/TRI, Torc, Rhoda AI and RIVR contribute whole-body manipulation, highway freight, video-pretrained industrial handling and terrain-aware delivery programmes. The edition includes 100 Current and 100 Next companies. Membership and group changes are listed in the [revision history](CHANGELOG.md).
+
+
+[Full company selection comparisons](COMPANY_SELECTIONS.md). Company source revision: 11 October 2026; first public GitHub release: 12 October 2026.

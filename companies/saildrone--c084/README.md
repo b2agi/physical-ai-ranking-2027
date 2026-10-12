@@ -1,0 +1,46 @@
+---
+title: "Saildrone | Ocean observation | B2AGI Physical AI 2027"
+record_id: "C084"
+name: "Saildrone"
+category: "companies"
+selection_group: "Current 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Saildrone", "C084", "Physical AI", "Embodied AI", "Current 100", "Ocean observation"]
+tags: ["b2agi", "physical-ai", "company-research"]
+---
+
+# Saildrone — Ocean observation
+
+Saildrone performs repeated ocean-observation missions for NOAA, transmitting measurements used in public scientific datasets.
+
+## Record and edition
+
+- **Record ID:** `C084`
+- **List:** Current 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+NOAA multi-year mission records; navigation autonomy operates with a defined supervision scope, while scientific analysis has separate attribution.
+
+## Sources
+
+- **C084:S1 — www.pmel.noaa.gov:** <https://www.pmel.noaa.gov/usv-hurricane/2024/index.html> · Recorded access: 2026-10-05
+- **C084:S2 — oceanexplorer.noaa.gov:** <https://oceanexplorer.noaa.gov/technology/usv/> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `C084`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

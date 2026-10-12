@@ -1,0 +1,47 @@
+---
+title: "Booster Robotics | Research and competition robots | B2AGI Physical AI 2027"
+record_id: "C015"
+name: "Booster Robotics"
+category: "companies"
+selection_group: "Current 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Booster Robotics", "C015", "Physical AI", "Embodied AI", "Current 100", "Research and competition robots"]
+tags: ["b2agi", "physical-ai", "company-research"]
+---
+
+# Booster Robotics — Research and competition robots
+
+Booster supplies K1 and T1 robots used by the HTWK team in research and RoboCup. Team documents describe competition operation and a learned kick executed on T1.
+
+## Record and edition
+
+- **Record ID:** `C015`
+- **List:** Current 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Team documents and joint research; team learning and firmware contributions retain their own attribution.
+
+## Sources
+
+- **C015:S1 — hsl.robocup.org:** <https://hsl.robocup.org/wp-content/uploads/2026/03/HTWK_Robots-tdp-697e37376feb4.pdf> · Recorded access: 2026-10-05
+- **C015:S2 — www.booster.tech:** <https://www.booster.tech/robots/> · Recorded access: 2026-10-05
+- **C015:S3 — www.booster.tech:** <https://www.booster.tech/open-source/> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `C015`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

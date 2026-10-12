@@ -1,6 +1,6 @@
 # B2AGI Physical AI 2027
 
-[Country Atlas · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md)
+[Country Atlas · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md) · [Current 100 · Companies](CURRENT_100.md) · [Next 100 · Companies](NEXT_100.md)
 
 ## Country Atlas · Top 20
 

@@ -1,5 +1,9 @@
 # Revision history
 
+## 2026-10-12 — Current 100 and Next 100 first release
+
+Published 200 company profiles in two contribution-based selections, with separate landscape artwork, directories, JSON/CSV and company selection comparisons. Names, IDs, group membership, contributions, rationales, evidence scopes and 443 source references are preserved from the 11 October source revision. Unpublished people profiles are not linked. Country and cluster profiles remain unchanged, including the ARC reading-layout revision.
+
 ## 2026-10-12 — Cluster Atlas first release
 
 Published 20 industrial-cluster profiles, a black-and-gold landscape overview, JSON and CSV, and the existing cluster comparison method. Cluster IDs, full names, ranks, rationales, evidence scopes and source-reference URLs are preserved. Short display names and distinct assessment focuses help navigation. Country v1.1 remains intact.

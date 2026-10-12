@@ -1,0 +1,47 @@
+---
+title: "DEEPX | Robotics edge computing | B2AGI Physical AI 2027"
+record_id: "N016"
+name: "DEEPX"
+category: "companies"
+selection_group: "Next 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["DEEPX", "N016", "Physical AI", "Embodied AI", "Next 100", "Robotics edge computing"]
+tags: ["b2agi", "physical-ai", "company-research"]
+---
+
+# DEEPX — Robotics edge computing
+
+DEEPX develops robotics inference computing with Hyundai Motor Group’s Robotics Lab. Hyundai material connects earlier edge-brain work with DAL-e demonstrations, while DX-M2 defines a further development path.
+
+## Record and edition
+
+- **Record ID:** `N016`
+- **List:** Next 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Joint-development and demonstration records; earlier edge-brain results and DX-M2 completion, production supply and customer revenue have separate status. This is the Korean DEEPX company.
+
+## Sources
+
+- **N016:S1 — deepx.ai:** <https://deepx.ai/deepx-and-hyundai-motor-group-robotics-lab-partner-to-develop-physical-ai-compute-platform-for-robotics/> · Recorded access: 2026-10-05
+- **N016:S2 — deepx.ai:** <https://deepx.ai/deepx-and-hyundai-motor-company-and-kia-corporation-are-collaborating-on-ai-semiconductor-based-robot-platforms/> · Recorded access: 2026-10-05
+- **N016:S3 — www.hyundai.com:** <https://www.hyundai.com/worldwide/en/newsroom/detail/0000001103> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `N016`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

@@ -1,0 +1,45 @@
+---
+title: "SoftBank | Warehouse-automation ownership and investment vehicle | B2AGI Physical AI 2027"
+record_id: "C090"
+name: "SoftBank"
+category: "companies"
+selection_group: "Current 100"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["SoftBank", "C090", "Physical AI", "Embodied AI", "Current 100", "Warehouse-automation ownership and investment vehicle", "logistics", "capital-markets"]
+tags: ["b2agi", "physical-ai", "company-research", "logistics", "capital-markets"]
+---
+
+# SoftBank — Warehouse-automation ownership and investment vehicle
+
+SoftBank completed a secondary Symbotic share purchase and established the GreenBox joint-venture vehicle for warehouse automation.
+
+## Record and edition
+
+- **Record ID:** `C090`
+- **List:** Current 100
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Joint announcement, 2023-07-24: completed ownership transaction and established vehicle; initial funding and multiyear purchases are commitments.
+
+## Sources
+
+- **C090:S1 — group.softbank:** <https://group.softbank/en/news/press/20230724> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Current 100](../../CURRENT_100.md) · [Next 100](../../NEXT_100.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `C090`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

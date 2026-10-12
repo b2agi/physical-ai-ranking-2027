@@ -1,0 +1,323 @@
+id,name,group,role,selection_rationale,evidence_scope,source_references,source_urls
+C001,42dot,Current 100,Ride requests and reservations,TAP handles ride requests and reservations for the Cheonggyecheon autonomous bus. Government service records describe its platform role alongside 42dot’s technical materials.,2022–2024 TAP service records and platform role; current model technology is documented separately.,"C001:S1
+C001:S2
+C001:S3","https://www.korea.net/NewsFocus/FoodTravel/view?articleId=248684
+https://www.42dot.ai/en/ai/explore
+https://42dot.ai/en/stories/blog-news"
+C002,AgiBot,Current 100,Production-line robot deployment,"AgiBot G2 was deployed on Longcheer’s tablet production line, as described in the customer’s account of its production process.","Customer and supplier announcements; operating figures are company-reported, and the Q3 figure of 100 robots is a plan.","C002:S1
+C002:S2","https://www.agibot.com/article/231/detail/60.html
+https://www.longcheer.com/en/col76/262.html"
+C003,Agile Robots,Current 100,Logistics automation integration,"Agile Robots brought idealworks into its group through an acquisition, combining robotics development with BMW logistics automation.",Acquisition announcement and BMW logistics application records; subsidiary contributions are recorded at group level.,"C003:S1
+C003:S2","https://www.agile-robots.com/de/news/detail/agile-robots-uebernimmt-bmw-group-spin-off-idealworks-vollstaendig/
+https://www.press.bmwgroup.com/global/article/attachment/T0437746EN/608297"
+C004,Agility Robotics,Current 100,Tote transfers,Digit transfers totes to a conveyor at GXO’s SPANX distribution center. GXO announced the deployment and a multiyear service agreement in 2024.,"GXO customer announcement, June 2024: task, deployment and RaaS contract; the robot version in photographs requires separate identification.","C004:S1
+C004:S2
+C004:S3
+C004:S4","https://gxo.com/news_article/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics/
+https://www.agilityrobotics.com/company-overview
+https://gxo.com/news_article/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics/
+https://www.agilityrobotics.com/press-releases?9b9bae6f_page=3"
+N099,AIDIN Robotics,Current 100,Force-sensing components,AIDIN supplies AFT200 force/torque sensing used in demonstration capture and physical Franka manipulation research.,"ManipForce v1, III-A and IV-A.2: sensor integration in capture and physical robot execution.","N099:S1
+N099:S2","https://arxiv.org/html/2509.19047v1
+https://www.aidinrobotics.co.kr/en/robotic-picking-solution-for-logistics"
+C005,Amazon,Current 100,Fulfillment adoption,"Amazon deploys, tests and expands robotics within its order-fulfillment operations, acting as the customer responsible for logistics tasks.",Amazon’s account of deployment in operations facilities; company financials cover the whole business.,C005:S1,https://www.aboutamazon.com/news/operations/how-amazon-deploys-robots-in-its-operations-facilities
+C006,Ambi Robotics,Current 100,Logistics sorting,AmbiSort applies Sim2Real technology to logistics sorting. Pitney Bowes describes using the system in customer statements published with the product materials.,AmbiSort product documentation and supplier-published Pitney Bowes statements cover existing use and expansion contracts.,C006:S1,https://www.ambirobotics.com/ambisort-a-series/
+C007,AMP Robotics / AMP,Current 100,Material sorting,AMP installed and operated neural-network-based material sorting at the Portsmouth facility. Its facility case includes a customer manager’s account of the work.,Supplier facility case and 2025 acquisition announcement; facility throughput and robot-arm performance have distinct scopes.,"C007:S1
+C007:S2","https://ampsortation.com/articles/amp-acquires-rds-portsmouth
+https://ampsortation.com/articles/msw-processing-portsmouth"
+C008,ANYbotics,Current 100,Industrial inspection,ANYmal applies learned control to industrial inspection. ANYbotics describes customer operations using the robots.,"Company account of industrial inspection operations; customer counts, reliability and payback figures are company-reported.",C008:S1,https://www.anybotics.com/news/anybotics-manifesto/
+C009,Applied Intuition,Current 100,Vehicle simulation and testing,Applied Intuition supplies vehicle simulation and testing software. TRATON confirms their existing collaboration on development tools.,TRATON customer announcement covering five years of tool collaboration; deployment of the new vehicle OS is planned.,C009:S1,https://traton.com/en/newsroom/press-releases/the-traton-group-and-applied-intuition-announce-strategic-partnership-on-vehicle-software.html
+C010,Autonomous a2z,Current 100,Supervised passenger shuttle,Autonomous a2z’s ROii carried passengers on the Cheonggye A01 shuttle. Seoul’s trial-service notice and a passenger account describe supervised operation.,Seoul trial-service notice and passenger observations; an onboard supervisor can intervene manually.,"C010:S1
+C010:S2
+C010:S3
+C010:S4","https://news.seoul.go.kr/traffic/archives/515168
+https://www.autoa2z.co.kr/ROII
+https://kids.seoul.go.kr/board/boardDetail.do?p_bbsSn=2134547104
+https://www.autoa2z.co.kr/company"
+C011,Baidu,Current 100,Driverless passenger service,Baidu reports driverless ride activity through Apollo Go. Its contribution is autonomous passenger-service operation.,"Issuer operating disclosures; ride counts have a different scope from paid orders, revenue and profitability.",C011:S1,https://ir.baidu.com/static-files/388362c7-6a5e-4fcf-a781-246ca3f9df50
+C012,Bedrock Robotics,Current 100,Autonomous excavation,"Bedrock retrofits excavators for autonomous digging at named infrastructure customers including Sundt. Its announcement describes sensing, learned models and operation beyond the supervised trial stage.",Bedrock’s deployment announcement describes autonomous digging within supervisor-defined work plans and permitted areas.,C012:S1,https://www.globenewswire.com/news-release/2026/08/17/3346247/0/en/bedrock-robotics-launches-first-fully-autonomous-excavator-deployments-on-critical-u-s-infrastructure-projects.html
+C013,Berkshire Grey,Current 100,Parcel sorting,Berkshire Grey supplies RPSi parcel sorting at FedEx facilities. FedEx describes existing installations and everyday sorting work.,FedEx’s 2022 installation account; later purchase plans and warrant conditions are separate events.,C013:S1,https://investors.fedex.com/news-and-events/investor-news/investor-news-details/2022/Berkshire-Grey-and-FedEx-Expand-Their-Robotic-Automation-Solutions-Relationship/default.aspx
+C101,BlackRock,Current 100,Robotics investment funds,BlackRock operates RBOT as an investment route into listed robotics and automation companies.,"RBOT fund operation, portfolio holdings and assets under management.",C101:S1,https://www.blackrock.com/lu/individual/products/284219/ishares-automation-robotics-ucits-etf
+C015,Booster Robotics,Current 100,Research and competition robots,Booster supplies K1 and T1 robots used by the HTWK team in research and RoboCup. Team documents describe competition operation and a learned kick executed on T1.,Team documents and joint research; team learning and firmware contributions retain their own attribution.,"C015:S1
+C015:S2
+C015:S3","https://hsl.robocup.org/wp-content/uploads/2026/03/HTWK_Robots-tdp-697e37376feb4.pdf
+https://www.booster.tech/robots/
+https://www.booster.tech/open-source/"
+C016,Boston Dynamics,Current 100,Trailer unloading,Boston Dynamics supplies robots for commercial trailer unloading at customer sites.,"Customer unloading records; the additional commitment of more than 1,000 robots is an MOU, while Atlas development is a separate activity.",C016:S1,https://group.dhl.com/en/media-relations/press-releases/2025/dhl-group-signs-mou-with-boston-dynamics-and-accelerates-cross-business-automation-strategy.html
+C017,Brain Corp,Current 100,Cleaning autonomy,Brain Corp provides route-learning autonomy for cleaning machines used at Walmart.,Existing customer-use records; the figure of 360 additional machines was a deployment plan.,C017:S1,https://www.braincorp.com/resources/brain-corp-to-provide-ai-services-to-walmart-57a69
+C018,Built Robotics,Current 100,Autonomous solar construction,Built Robotics completed autonomous solar pile installation with its Gen1 system at a named EPC site.,Project report published through a public agency; evidence concerns the Gen1 deployment and its defined construction task.,"C018:S1
+C018:S2
+C018:S3","https://arena.gov.au/knowledge-bank/built-robotics-australian-robotic-piling-deployment-for-large-scale-solar-lesson-learnt-report-1/
+https://arena.gov.au/assets/2025/06/Built-Robotics-Australian-Robotic-Piling-Deployment-for-Large-Scale-Solar%E2%80%AF-Lesson-Learnt-Report-1.pdf
+https://www.builtrobotics.com/solutions/solar-piling"
+C019,Burro,Current 100,Farm transport,Burro provides autonomous transport at Sierra Gold. A named operations manager describes workers using the robots in nursery tasks.,Burro publishes Sierra Gold’s account of workers using the robots for nursery transport.,"C019:S1
+C019:S2
+C019:S3","https://burro.ai/nursery-mag/
+https://burro.ai/technology/
+https://support.burro.ai/changelog/625"
+C020,Carbon Robotics,Current 100,Laser weeding,Carbon Robotics uses plant recognition to guide LaserWeeder’s laser weeding. Named farms describe using the equipment.,Supplier-published customer testimony; savings and yield effects lack independent verification.,"C020:S1
+C020:S2","https://carbonrobotics.com/carbon-ai
+https://carbonrobotics.com/laserweeding-technology"
+C021,CATL,Current 100,Manufacturing adoption and batteries,CATL describes deploying Galbot S1 on module and battery-pack production lines. Its contribution combines customer adoption with battery supply for robotics.,CATL's announcement describes the system and reports eight-hour operation and battery failure specifications.,C021:S1,https://www.catl.com/en/news/6881.html
+C022,Cognex,Current 100,Industrial inspection vision,Cognex supplies neural-network-based vision for industrial inspection. Its filings document a perception role within production processes.,"Industrial-vision filings. Financial figures cover consolidated GAAP results for FY2025, ending 2025-12-31, in USD millions; machine vision includes rule-based systems and barcode products.","C022:S1
+C022:S2
+C022:S3","https://d18rn0p25nwr6d.cloudfront.net/CIK-0000851205/bcb48234-d2fa-4bc7-9bfd-333a538dd1ad.pdf
+https://www.cognex.com/en-gb/company/key%20data
+https://investor.cognex.com/news/news-details/2026/Cognex-Reports-Fourth-Quarter-2025-Results/default.aspx"
+C023,Corvus Robotics,Current 100,Inventory drones,Corvus supplies inventory drones used at multiple MSI Surfaces warehouse sites.,Supplier account of named-customer use; accuracy and return-on-investment claims are company-reported. MSI Surfaces is the customer.,C023:S1,https://corvus.ai/case-study-msi
+C024,Coupang,Current 100,Fulfillment operations,Coupang uses people and robots together in fulfillment operations. It represents the customer’s role in deploying automation for order handling.,"Operator accounts; overall infrastructure investment has a wider scope than robot purchases, and time-saving figures are party-reported.",C024:S1,https://news.coupang.com/archives/26868/
+C025,Covariant,Current 100,Learned picking,Covariant Brain supports everyday learned picking and sorting at Radial’s TradePort2 facility in Louisville.,"Radial’s 2023 customer announcement; throughput and SKU coverage are customer-reported, while later expansion plans are separate.","C025:S1
+C025:S2
+C025:S3","https://www.radial.com/resources/press-room/radial-selects-covariant-to-automate-ecommerce-fulfillment-with-ai-powered-robotics
+https://covariant.ai/resources/radial-turns-to-ai-robotic-automation/
+https://www.ottogroup.com/en/medien/newsroom/meldungen/otto-group-enters-strategic-partnership-with-covariant-to-power-its-logistics-network-with-ai-robotics.php"
+C026,DeepRobotics,Current 100,Tunnel inspection hardware,DEEP Robotics provides the X30 platform behind SPock power-tunnel patrols. SP Group’s operating account and the integrator’s hardware description identify the customer task and platform.,Customer patrol records and integrator description; feature versions are specific to each deployment.,"C026:S1
+C026:S2
+C026:S3
+C026:S4","https://deeprobotics.cn/en/wap/honor.html
+https://www.deeprobotics.cn/en/wap/industry.html
+https://www.spgroup.com.sg/about-us/media-resources/energy-hub/reliability/How-this-technical-officer-and-robot-SPock-hunt-hazards-to-protect-Singapore-power-tunnels
+https://egpvision.com/"
+C029,Dexterity,Current 100,Trailer loading,Dexterity supplies trailer-loading robotics at FedEx’s Hagerstown hub. The customer describes deployment beyond a pilot.,Joint customer announcement documenting the loading application.,C029:S1,https://newsroom.fedex.com/newsroom/global-english/fedex-and-dexterity-expand-physical-ai-deployment-for-autonomous-trailer-loading-at-hagerstown-hub
+C030,Diligent Robotics,Current 100,Hospital deliveries,Diligent Robotics’ Moxi handles hospital deliveries. CHLA documents repeated deliveries and use by its hospital teams.,Hospital-use records and supplier material; deliveries support hospital logistics. Serve’s separate delivery business retains separate attribution.,"C030:S1
+C030:S2","https://www.diligentrobots.com/blog/diligent-robotics-a-serve-robotics-company-begins-rolling-out-moxi-20
+https://www.chla.org/blog/hospital-news/moxi-robot-delivering-meds-and-stealing-hearts"
+C104,DJI,Current 100,Aerial infrastructure-inspection supply,DJI supplies drones used in China Southern Power Grid's route-based inspection. Its later Dock workflow account documents further vendor-reported inspection use in oil and gas.,"DJI's named powerline-inspection case dated 2019-05-08; Dock 3 release dated 2025-02-27; unnamed oil/gas operator workflow account dated 2026-02-20, with some AI integrations at experimental stage.","C104:S1
+C104:S2
+C104:S3","https://enterprise-insights.dji.com/user-stories/china-southern-grid-powerline-inspection
+https://enterprise-insights.dji.com/blog/important-takeaways-from-automating-oil-gas-inspections-with-dji-dock
+https://www.dji.com/media-center/announcements/dji-release-dock-3"
+C105,Doosan Robotics,Current 100,Supplied manipulation research platform,"An external Royal IHC project team used Doosan's 1013 arm in a vision-guided welding prototype. Doosan supplied the manipulation platform; the team developed the vision, integration and welding application.","Smart Manufacturing & Robotics Delft project account published 2025-03-16, covering fall 2023: Doosan 1013, RealSense D415, OpenCV detection and TCP motion commands in a constrained welding prototype.",C105:S1,https://www.robotminor.nl/pub/versatile-welding-cobot-royal-ihc
+C032,Dreame Technology,Current 100,Home-cleaning perception,"Dreame X40 Master performs navigation, obstacle recognition and floor cleaning in a hands-on review that also records recognition errors.","Affiliate-linked product test; Master-specific observations are retained, and borrowed Ultra Complete measurements have separate scope.","C032:S1
+C032:S2
+C032:S3","https://www.smarthomeassistent.de/saugroboter/dreame-x40-master/
+https://us.forum.dreametech.com/forum.php?back=index&mod=viewthread&pa=10&tid=302
+https://support.dreametech.com/hc/en-us/articles/11418996936207-Enhancing-Obstacle-Recognition-with-Your-X40-Master"
+C033,Dyna Robotics,Current 100,Garment folding,Dyna Robotics applies robot learning to garment folding at Monster Laundry. The owner describes daily folding work.,Customer quotation; people load and collect garments. Inconsistent time and quantity statements are excluded from performance claims.,"C033:S1
+C033:S2","https://www.dyna.co/news/monster-laundry
+https://www.dyna.co/research/scaling-customer-deployments"
+C034,Ecovacs,Current 100,Home cleaning,"Ecovacs DEEBOT OZMO T8 AIVI was used in a direct test covering vacuuming, navigation and camera sensing.","RTINGS hands-on test of the base T8 AIVI; mopping was untested in that account, and long-term customer statistics are unavailable.","C034:S1
+C034:S2
+C034:S3","https://www.rtings.com/robot-vacuum/reviews/ecovacs/deebot-ozmo-t8-aivi
+https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-ozmo-t8-aivi
+https://site-static.ecovacs.com/upload/hk/file/support/2021/04/22/015318_7229.pdf"
+N017,Elephant Robotics,Current 100,Educational robot kits,Elephant Robotics supplies arms and AI kits used in named university teaching and physical student projects.,Undated supplier university cases documenting adopted educational platforms and student-developed tasks.,"N017:S1
+N017:S2
+N017:S3","https://shop.elephantrobotics.com/en-es/collections/kits/products/artificial-intelligence-kit-2023
+https://www.elephantrobotics.com/en/solutions-en/
+https://shop.elephantrobotics.com/pages/user-cases"
+N020,Farm-ng,Current 100,Agricultural development platforms,"Farm-ng supplies Amiga as an adopted agricultural education platform in the recurring Farm Robotics Challenge, including CMU's seedling-planting project; university teams retain attachments and task development.","UC ANR account, 2025-05-08: third annual Farm Robotics Challenge, Amiga educational-platform use and CMU's physical seedling-planting project.","N020:S1
+N020:S2
+N020:S3
+N020:S4","https://amiga.farm-ng.com/docs/concepts/track_follower_service/
+https://www.farmroboticsacademy.ai/amiga
+https://amiga.farm-ng.com/docs/release-notes/release-01/
+https://ucanr.edu/blog/anr-news-releases/article/university-georgia-wins-top-honors-2025-farm-robotics-challenge"
+C035,Field AI,Current 100,Construction inspection autonomy,"Field AI provides autonomy for Spot-based inspection at changing construction sites. Its account describes perception, mapping and use by site managers.","Field AI describes a deployment at an unnamed construction customer, covering perception, mapping and inspection.","C035:S1
+C035:S2","https://www.fieldai.com/news/how-fieldai-and-boston-dynamics-made-robot-autonomy-practical-on-construction-sites
+https://www.fieldai.com/"
+C036,Figure AI,Current 100,Humanoid factory pilot,Figure 02 handled sheet-metal parts during BMW's extended Spartanburg production pilot.,"BMW report, 2026-02-27, pp. 4-5: ten-month pilot with weekday production shifts.","C036:S1
+C036:S2","https://www.press.bmwgroup.com/portugal/article/detail/T0455909PT/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time
+https://www.press.bmwgroup.com/global/article/attachment/T0455864EN/644966"
+C037,Flexiv,Current 100,Force-controlled food processing,Flexiv’s delivered Rizon 4 solution locates fish fillets on a moving conveyor and shapes them using force control.,Supplier case for a specific delivered application; the customer is unnamed and independent acceptance and performance tests are unavailable.,"C037:S1
+C037:S2
+C037:S3","https://www.flexiv.us/case-studies/Automated
+https://flexiv.com/application
+https://flexiv.com/about"
+C038,Formic,Current 100,Packaging and palletizing services,Formic supplies vision-based packaging and palletizing as a service. Its product account includes customers describing active production use.,"Supplier-published customer statements; installed software versions, uptime and commercial terms require deployment-specific evidence.",C038:S1,https://formic.co/
+C039,ForwardX Robotics,Current 100,Warehouse picking assistance,ForwardX Flex assists picking in Li & Fung’s IKEA e-commerce warehouse. Its product materials describe visual perception and movement responses.,Supplier customer case and product-family technical material; performance and feature versions are supplier-reported.,"C039:S1
+C039:S2","https://www.forwardx.com/assisted-picking-overview/
+https://www.forwardx.com/innovative-technology/"
+C040,Foxglove,Current 100,Robot-log analysis,Foxglove provides development and operating-log tools used by Square Robot for field analysis.,"Named-customer tool-use record; the contribution concerns software analysis, while the customer retains responsibility for robot operations.",C040:S1,https://www.foxglove.dev/customers/square-robot
+C041,Galbot,Current 100,Production-line robot supply,"Galbot S1 works on CATL module and battery-pack lines. CATL describes deployment, visual positioning and obstacle avoidance.","CATL customer announcement; evidence concerns S1 production-line use, with future staffing and service-standard plans recorded separately.","C041:S1
+C041:S2
+C041:S3","https://www.catl.com/en/news/6881.html
+https://galbot.com/g1/
+https://webcast.info.gov.hk/revamp/sim/news/0000011085_mp4.html"
+C043,Gaussian Robotics / Gausium,Current 100,Store cleaning,Gausium supplies cleaning robots adopted at named ELVI stores.,Customer article republished by the supplier; subsequent investment is recorded as planned.,"C043:S1
+C043:S2","https://gausium.com/case/elvi/
+https://gausium.com/fr/news/gaussian-robotics-changes-its-brand-name-to-gausium/"
+C045,Geek+,Current 100,Warehouse transport,Geek+ provides warehouse movement within projects documented by implementation participants. People retain the picking role in the integrated workflow.,Implementation participants describe the warehouse project and the division between robot movement and human picking.,C045:S1,https://wdp.eu/en/knowledge-hub/case-studies/automation-improves-logistics-processes-at-decathlon
+C046,GelSight,Current 100,Tactile research instrumentation,GelSight supplies the Mini sensor used by Politecnico di Milano researchers to acquire tactile measurements on industrial components with a FANUC collaborative robot. The researchers retain the anomaly-detection methods and evaluation.,"Research v1, 2026-08-31, sections 3.3 and 4: adopted Mini instrumentation for robot-mounted dataset acquisition and external inspection-method comparison.","C046:S1
+C046:S2
+C046:S3
+C046:S4","https://arxiv.org/abs/2608.30506
+https://www.gelsight.com/
+https://www.csail.mit.edu/news/qa-warehouse-robots-feel-sight
+https://arxiv.org/html/2608.30506v1"
+C047,GXO,Current 100,Customer logistics integration,"GXO operates Digit at its SPANX site, integrating tote transfers with existing mobile robots and conveyors under a multiyear RaaS agreement.","GXO customer announcement; contract price, cash flows, residual value and measured uptime are undisclosed in the record.",C047:S1,https://gxo.com/news_article/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics/
+C048,HAI Robotics,Current 100,Warehouse robot systems,"HAI Robotics supplies ACR and AMR warehouse systems, including a Hyundai Mobis application.",Hai Robotics' Hyundai Mobis case describes tote retrieval and parts transport at the Suwon High Tech Center's spare-parts warehouse. Picking workstations retain the human picking step. This record recognizes the warehouse-system contribution described in that case.,"C048:S1
+C048:S2","https://www.hairobotics.com/cases/hyundai-mobis
+https://www1.hkexnews.hk/app/sehk/2026/108202/documents/sehk26021300410.pdf"
+N030,HaptX,Current 100,Tactile teleoperation,"HaptX supplies tactile gloves adopted in Sanctuary's development workflow, providing human teleoperation input.","Sanctuary customer account and HaptX robotics cases, undated: gloves used in the customer's pilot-rig teleoperation workflow; autonomous robot tasks remain development.","N030:S1
+N030:S2
+N030:S3
+N030:S4
+N030:S5","https://haptx.com/
+https://haptx.com/company/
+https://haptx.com/blogs/
+https://haptx.com/use-cases-robotics/
+https://sanctuary.ai/news/building-an-ecosystem-designed-to-build-a-human-level-ai/"
+C049,Hesai,Current 100,LiDAR components,Hesai’s Pandar sensors are used on WeRide vehicles. Supplier materials include the customer’s account of sensor adoption.,Supplier-published customer statement; evidence identifies a sensing component within the vehicle system.,"C049:S1
+C049:S2","https://www.hesaitech.com/industry/robotaxi-and-roboshuttle/
+https://www.hesaitech.com/hesai-reached-strategic-cooperation-with-weride-leading-the-application-of-hybrid-solid-state-lidar-on-l4-autonomous-vehicle/"
+C050,Horizon Robotics,Current 100,Driver-assistance computing,Horizon Robotics supplies Journey6M computing for NOA features in delivered customer vehicles.,Driver-assistance supply records; Journey 6M delivery and the planned 6H deployment retain their distinct product stages.,C050:S1,https://www.horizon.auto/en/news/horizon-news/478
+C051,Hyundai Motor Group,Current 100,Strategic robotics ownership,Hyundai Motor Group completed its controlling investment in Boston Dynamics in 2021. The joint announcement recorded an 80% group stake at closing.,"2021 transaction announcement; the stake belongs to the group-level transaction, and current ownership requires separate evidence.","C051:S1
+C051:S2
+C051:S3","https://www.hyundai.com/content/hyundai/worldwide/en/newsroom/detail/0000000516.html
+https://www.hyundai.com/worldwide/en/newsroom/detail/0000000516
+https://www.hyundai.com/content/hyundai/worldwide/en/newsroom/detail/0000001225.html"
+C052,InOrbit,Current 100,Robot operations tools,InOrbit supports monitoring and remote exception management for Kärcher KIRA B50 cleaning robots.,"Customer statement and RobOps case; operations include remote support, with autonomy and certification assessed at the robot-system level.","C052:S1
+C052:S2","https://www.inorbit.ai/press/inorbitkarcher
+https://www.inorbit.ai/faq"
+C053,Intuitive Surgical,Current 100,Robotic bronchoscopy assistance,Intuitive Surgical’s Ion supports shape-sensing catheter manipulation for bronchoscopy and biopsy. North Tees describes trial adoption and actual biopsies in 2025.,Hospital account documenting physician-assisted use of the specified system version in the reported cases.,"C053:S1
+C053:S2
+C053:S3
+C053:S4","https://www.nth.nhs.uk/news/robotic-technology-speeds-up-lung-cancer-diagnosis/
+https://www.intuitive.com/en-us/products-and-services/ion/shape-sensing
+https://www.sec.gov/Archives/edgar/data/1035267/000103526726000025/a2025_annualreportxv4.pdf
+https://isrg.intuitive.com/news-releases/news-release-details/intuitive-expands-ai-and-advanced-imaging-integration-ion/"
+N037,JLG — Canvas Robotics,Current 100,Construction robotics technology transfer,"JLG acquired Canvas core technology and integrated its team, carrying forward construction-robotics capabilities through a completed technology transfer.",JLG January 2026 announcement: technology acquisition and team integration; further integrated solutions are planned.,"N037:S1
+N037:S2","https://www.jlg.com/en/press-releases/jlg-advances-job-site-of-the-future-vision-through-canvas-acquisition
+https://www.jlg.com/en/canvas/about-us"
+C054,John Deere,Current 100,Selective spraying,John Deere’s See & Spray recognizes plants and applies selective spraying in customer fields. Its commercial approach includes performance-linked charging.,Supplier savings claims and sponsored research; evidence is specific to the cited fields and billing arrangement.,C054:S1,https://www.deere.ca/en/news/all-news/see-spray-technology-across-5-million-acres/
+C055,Keenon Robotics,Current 100,Restaurant and hotel service robots,"Keenon’s DINERBOT and cleaning systems perform transport and service tasks at named restaurants and hotels, with staff handoffs and obstacle avoidance.",Supplier-published customer statements; newer humanoid demonstrations are separate development records.,C055:S1,https://www.keenon.com/en
+C057,Kodiak Robotics / Kodiak AI,Current 100,Off-road transport,Kodiak supplies customer-owned trucks for limited off-road transport at Atlas.,Supplier delivery and transport reports; evidence covers the off-road domain and its stated operating scope.,C057:S1,https://kodiak.ai/news/kodiak-delivers-two-additional-driverless-trucks
+C058,Locus Robotics,Current 100,Picking assistance,Locus robots assist human picking across multiple customer sites with repeated tasks.,"Customer-use records; cumulative task totals have a different scope from profitability, failure rates and unattended operation.",C058:S1,https://group.dhl.com/en/media-relations/press-releases/2024/dhl-supply-chain-passes-unprecedented-500-million-picks-milestone-using-locus-robotics-autonomous-mobile-robots.html
+C061,Meituan,Current 100,Autonomous delivery operations,Meituan operates drone and ground delivery systems. Its technical account connects sensing and autonomous movement with actual delivery orders.,Company operating totals; drone and ground-vehicle periods and denominators remain separate.,C061:S1,https://www.meituan.com/technology
+C062,Mobile Industrial Robots / MiR,Current 100,AMR container transport,"MiR250 transports KLT containers at BORG Automotive, with MES completion confirmation. Customer and integrator statements describe the workflow.","Supplier-published interviews; MiR hardware, Octant integration and customer picking retain separate contributions.",C062:S1,https://mobile-industrial-robots.com/cases/borg-automotive
+C063,Momenta,Current 100,Production driving intelligence,Momenta supplies driving intelligence for named production customers including SAIC IM and Lynk.,Production-customer records covering L2 to L2++ functions; planned L3 and L4 functions are separate.,"C063:S1
+C063:S2","https://www.momenta.ai/en/about.html
+https://www.momenta.ai/en/MassProduction.html"
+C064,Mytra,Current 100,Inventory buffering and sequencing,Mytra supports inventory buffering and sequencing before shipment at selected Albertsons distribution centers.,Mytra publishes Albertsons staff statements about inventory buffering and sequencing at selected distribution centers.,"C064:S1
+C064:S2
+C064:S3
+C064:S4","https://www.prnewswire.com/news-releases/mytra-unveils-breakthrough-robotics-and-ai-to-transform-warehouses-and-boost-economic-productivity-302203397.html
+https://mytra.ai/
+https://mytra.ai/news/mytra-raises-120m-series-c
+https://staging.mytra.ai/news/mytra-announces-expansion-and-new-headquarters-with-brisbane-california-campus"
+C065,NAVER / NAVER LABS,Current 100,Building-integrated robot operations,"NAVER and NAVER LABS operate repeated internal deliveries at 1784, integrating robots with the building and elevators.","Internal customer-operation records; the parent and development subsidiary share one activity record, with external sales assessed separately.",C065:S1,https://naverlabs.com/en/blogDetail?seq=34071
+C066,Nearthlab,Current 100,Wind-turbine inspection,"Nearthlab’s NearthWind performs autonomous wind-turbine blade inspection. Its materials describe sensing, flight and inspection contracts with Siemens Gamesa, Vestas and GE.",Supplier contract history and cumulative totals; inspection volumes and safety records are company-reported.,C066:S1,https://www.nearthlab.com/en
+N053,Nimble Robotics,Current 100,Robotic fulfillment supply,"Nimble supplies robotic fulfillment used by named brands for picking, packing and shipping; later alliance plans extend that operating contribution.","Supplier customer cases including Fresh Clean Threads' 2023 fulfillment; FedEx alliance announcement, 2024-09-05.","N053:S1
+N053:S2","https://newsroom.fedex.com/newsroom/global-english/fedex-announces-expansion-of-fedex-fulfillment-with-nimble-alliance
+https://nimble.ai/"
+C067,NVIDIA,Current 100,Robotics development infrastructure,"NVIDIA’s Isaac Sim, Isaac Lab and GR00T support robot simulation, learning and deployment. Its May 2025 announcement names platform users including Agility, Boston Dynamics and Galbot.","Platform-use announcement; financial figures are company-wide consolidated GAAP for FY2026 ending 2026-01-25, in USD millions. The release tables are marked unaudited; user-site effects require user-specific evidence.","C067:S1
+C067:S2
+C067:S3
+C067:S4
+C067:S5","https://nvidianews.nvidia.com/news/nvidia-powers-humanoid-robot-industry-with-cloud-to-robot-computing-platforms-for-physical-ai
+https://www.nvidia.com/en-au/about-nvidia/corporate-timeline/
+https://nvidianews.nvidia.com/bios/jensen-huang
+https://nvidianews.nvidia.com/news/nvidia-powers-humanoid-robot-industry-with-cloud-to-robot-computing-platforms-for-physical-ai
+https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/"
+C068,Orbbec,Current 100,Depth sensing,Orbbec’s Gemini 336L supplies RGB and depth streams for Quasi Model C2. A customer engineer describes SDK integration into Q.AI.,"Supplier-published customer statement; sensor supply and Quasi’s mapping, planning and control retain separate attribution.",C068:S1,https://www.orbbec.com/case-studies/quasi-robotics-and-orbbec-gemini-336l-intelligent-perception-in-autonomous-material-transport/
+C069,OrionStar,Current 100,Factory process transport,OrionStar CarryBot transports materials between processes at a Yanai Denki factory in Japan.,2025 company-republished newspaper account of deployment; newspaper text and fleet-wide outcomes lack separate verification.,"C069:S1
+C069:S2
+C069:S3
+C069:S4","https://jp.orionstar.com/blog-cases/250.html
+https://us.orionstar.com/products.html
+https://www.orionstar.com/lxwm/1.html
+https://www.orionstar.kr/aboutus"
+C070,OSARO,Current 100,Learned packaging,"OSARO provides learned vision and control for Zenni packaging, with later records describing transition into production.",OSARO’s records distinguish the 2022 packaging plan from the subsequent production transition at Zenni.,"C070:S1
+C070:S2
+C070:S3","https://www.linkedin.com/posts/osaroinc_a-milestone-for-osaro-robotic-bagging-systems-activity-7049745645192040448-HkEz
+https://www.osaro.com/blog/osaro-and-zenni-deploy-robotic-bagging-system
+https://marketing.osaro.com/download-the-zenni-optical-case-study"
+C071,Parallel Domain,Current 100,Synthetic perception data,"Parallel Domain supplies synthetic perception-training data used by named organizations including Google, Woven and Toyota Research Institute.",Supplier customer-use claims; cited abstracts provide limited independent attribution of the particular dataset.,"C071:S1
+C071:S2
+C071:S3","https://paralleldomain.com/resources/accelerate-your-ai-progress-with-synthetic-data-10-reasons-to-start-now
+https://arxiv.org/abs/2203.15089
+https://paralleldomain.com/"
+C072,Path Robotics,Current 100,Robotic welding,Path Robotics supplies a welding cell used by Millerbernd to fabricate transport and infrastructure poles. The case includes a welder describing the work.,Supplier case and worker quotation describing the welding application.,"C072:S1
+C072:S2
+C072:S3
+C072:S4","https://www.path-robotics.com/videos/case-study-millerbernd
+https://www.path-robotics.com/
+https://www.path-robotics.com/intelligent-welding-cells
+https://www.globenewswire.com/news-release/2026/08/06/3340512/0/en/HII-Signs-Performance-based-Production-Agreements-with-Path-Robotics-and-GrayMatter-Robotics.html"
+C073,Pickle Robot,Current 100,Trailer unloading,Pickle Robot unloads UPS trailers using motion and path selection in actual handling work.,Supplier-published customer quotation; the cited 90-minute task is distinct from a shift-average measure.,C073:S1,https://www.picklerobot.com/?trk=article-ssr-frontend-pulse_little-text-block
+C074,Plus One Robotics,Current 100,Parcel vision and exception handling,"Plus One’s PickOne provides vision recognition for FedEx parcel sorting, while Yonder supports remote exception handling.","The FedEx site record describes Plus One’s vision and remote exception handling alongside Yaskawa’s arm, gripper and integration.","C074:S1
+C074:S2","https://www.plusonerobotics.com/case-studies/fedex-automation-success
+https://www.plusonerobotics.com/automated-parcel-induction"
+C075,Pudu Robotics,Current 100,Office cleaning,"PUDU CC1 Pro cleans carpets and floors in shared areas of a Walmart US office facility, using navigation and path planning.",Supplier case covering office common areas; publication date and independent labor-saving logs are unavailable.,"C075:S1
+C075:S2
+C075:S3
+C075:S4","https://www.pudurobotics.com/en/case-studies/walmart-deploys-12-cc1-pro-cleaning-robots
+https://www.pudurobotics.com/en/case-studies/setting-standard-automated-cleaning-convenience-retail
+https://www.pudurobotics.com/en/products/puducc1
+https://de.linkedin.com/posts/terra-robotics-de_terrarobotics-reinigungsroboter-einzelhandel-activity-7356292732220260352-XIsa"
+C076,Quicktron,Current 100,Warehouse shelf transport,Quicktron M-Series moves shelves in Coupang’s goods-to-person workflow. RCS and higher-level systems allocate warehouse tasks.,"Supplier case; people perform final picking, and fleet counts and efficiency figures are company-reported.","C076:S1
+C076:S2
+C076:S3","https://www.quicktron.com/en_US/industries/113
+https://www.quicktron.com/en_US/solutions/shelf-to-person
+https://www.quicktron.com/industries"
+C078,RightHand Robotics,Current 100,Warehouse picking,RightPick performs picking at apo.com and PALTAC. Named customer statements describe operating use and learning features.,"Supplier-published statements; storage and transport by AutoStore or Murata have separate roles, while order totals cover the wider workflow.","C078:S1
+C078:S2","https://righthandrobotics.com/integrations-and-workflows/asrs?trk=article-ssr-frontend-pulse_little-text-block
+https://righthandrobotics.com/applications"
+C079,Roborock,Current 100,Object pickup and cleaning,Roborock Saros Z70 recognizes and picks up a limited range of objects while cleaning. A purchaser’s test records both use and failures.,"Qualitative hands-on review; observations include automatic and manual operation, with no formal success-rate measurement.","C079:S1
+C079:S2
+C079:S3","https://vacuumwars.com/roborock-saros-z70-review/
+https://global.roborock.com/
+https://www1.hkexnews.hk/app/sehk/2025/107489/a124262/sehk25062700680_c.pdf"
+C080,ROBOTIS,Current 100,Research actuators and platforms,"ROBOTIS supplies actuators and physical platforms used in research and education, including dual-arm learning work.","Supplier index and user research paper; evidence covers component use in research, with commercial returns assessed separately.","C080:S1
+C080:S2
+C080:S3","https://docs.robotis.com/docs/common/ecosystem/
+https://tonyzhaozh.github.io/aloha/
+https://robots-that-learn.github.io/resources/Aloha23.pdf"
+C081,Roboto AI,Current 100,Robot operations analysis,Roboto AI supports post-flight QA for BRINC and robot-fault analysis for ANYbotics. Named customer staff describe using the tools.,"Supplier-published customer statements; time-saving claims lack independent audit, and the contribution concerns data analysis.",C081:S1,https://www.roboto.ai/customers/
+C082,Robust.AI,Current 100,Collaborative tote transport,Robust.AI’s Carter transports totes and assists picking at Saddle Creek’s Charlotte site. A named operations manager describes its use.,Supplier-published customer statements; announced charging policies and productivity claims have separate financial and measurement scopes.,"C082:S1
+C082:S2
+C082:S3","https://www.robust.ai/saddle-creek-deploys-robustais-carter-collaborative-robots
+https://www.robust.ai/robustai-expands-carters-collaborative-robotics-capabilities
+https://www.robust.ai/dhl-supply-chain-announces-five-year-strategic-alliance-with-robustai"
+C083,Rockwell Automation,Current 100,MES and AMR integration,"Rockwell integrates MES with OTTO transport at its Twinsburg factory, dispatching moves from production orders.","Internal factory-use case; dispatch is rule-based, and cost-recovery figures are company calculations.",C083:S1,https://www.rockwellautomation.com/en-za/company/news/case-studies/autonomous-material-movement.html
+C084,Saildrone,Current 100,Ocean observation,"Saildrone performs repeated ocean-observation missions for NOAA, transmitting measurements used in public scientific datasets.","NOAA multi-year mission records; navigation autonomy operates with a defined supervision scope, while scientific analysis has separate attribution.","C084:S1
+C084:S2","https://www.pmel.noaa.gov/usv-hurricane/2024/index.html
+https://oceanexplorer.noaa.gov/technology/usv/"
+C085,Samsung Electronics,Current 100,Strategic robotics ownership,Samsung’s filings document acquisition of control over Rainbow Robotics and its consolidation into the group.,Financial filings on strategic ownership; payments for existing shares are distinct from new cash raised by Rainbow.,C085:S1,https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_Half_Interim_Report.pdf
+C086,Sarcos → Palladyne AI,Current 100,Maintenance automation software,Palladyne AI supplies learned software for automated surface preparation at Warner Robins. A named customer describes completion of the first contract phase.,"Supplier-published customer statement; the second phase was planned, and the four-year contract amount is distinct from cash received.","C086:S1
+C086:S2","https://www.palladyneai.com/press-releases/palladyne-ai-corp-successfully-completes-first-phase-of-multi-million-dollar-u-s-air-force-contract/
+https://www.palladyneai.com/press-releases/sarcos-robotics-is-now-palladyne-ai/"
+C087,Seoul Robotics,Current 100,Factory vehicle perception,Seoul Robotics supplies external perception for vehicle movement inside a BMW factory.,"BMW customer material; partner systems handle driving plans, steering and braking within the factory domain.","C087:S1
+C087:S2","https://www.press.bmwgroup.com/global/article/detail/T0402335EN/pilot-project%3A-cars-maneuver-in-production-without-drivers
+https://www.press.bmwgroup.com/global/article/attachment/T0426038EN/594087"
+N072,Shadow Robot,Current 100,Dexterous research-hand supply,Shadow Robot co-developed DEX-EE hardware with DeepMind and supplies the released standard research hand used in DeepMind's DemoStart experiments. Hardware development and supply retain joint credit; DeepMind retains its learning method.,"Shadow account, 2024-06-06: standard build available to the market; DeepMind account, 2024-09-12: adopted DEX-EE hardware in physical manipulation research.","N072:S1
+N072:S2","https://deepmind.google/blog/advances-in-robot-dexterity/
+https://shadowrobot.com/shadow-hand-overview-the-most-robust-dexterous-robot-hand-on-the-market/"
+C090,SoftBank,Current 100,Warehouse-automation ownership and investment vehicle,SoftBank completed a secondary Symbotic share purchase and established the GreenBox joint-venture vehicle for warehouse automation.,"Joint announcement, 2023-07-24: completed ownership transaction and established vehicle; initial funding and multiyear purchases are commitments.",C090:S1,https://group.softbank/en/news/press/20230724
+C091,Standard Robots,Current 100,AMR pallet transport,Standard Robots supplies AMRs used to transport pallets at TRUSCO’s Planet Saitama logistics center.,"TRUSCO customer announcement; evidence concerns the deployed transport system, while newer VLA features have separate scope.","C091:S1
+C091:S2
+C091:S3","https://www.standard-robots.com/case/
+https://en.standard-robots.com/core-tech
+https://www.trusco.co.jp/business/logistics/wonderland/"
+C092,Superbin,Current 100,AI recycling collection,Superbin’s Nephron uses AI classification in installed recycling-collection units.,Installation and maintenance history; repeated references to the same 100-unit event count as one event.,"C092:S1
+C092:S2","https://www.superbin.co.kr/en/business/ai-robot-collection
+https://www.superbin.co.kr/en/company"
+C093,Symbotic,Current 100,Logistics automation systems,Symbotic supplies logistics automation systems documented in filings alongside customer contracts.,Operating systems and contractual commitments have separate status; the 400-system figure is a conditional purchase commitment.,C093:S1,https://ir.symbotic.com/static-files/a07466bc-96d1-484b-98fc-3efe41d3b8fb
+C094,Syrius Robotics / Syrius Technology,Current 100,Picking-assistance AMRs,Syrius provides picking-assistance AMRs through Syrius Japan and ROBOCREW at STOCKCREW. The customer announced completed trials and full deployment beginning in 2022.,Customer’s 2022 announcement; people perform picking. Supplier fleet and five-year contract figures have separate verification status.,"C094:S1
+C094:S2","https://stockcrew.co.jp/information/amr_operation_start
+https://www.syriustechnology.com/"
+C103,UBTECH,Current 100,Industrial humanoid supply and factory tasks,"UBTECH reports industrial humanoid production and delivery for automotive-factory handling, sorting and inspection. Its selected contribution is the supply of robots for those tasks.","UBTECH 2025 results filed with HKEX on 2026-03-31, printed pp. 2-4 and 10-11; supplier industrial application page describing named-factory tasks, accessed October 2026.","C103:S1
+C103:S2","https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033102607.pdf
+https://www.ubtrobot.com/en/humanoid/solutions/industry"
+C095,Unitree Robotics,Current 100,Physical research platforms,Unitree supplies physical robots used in external whole-body motion research.,External research preprint; evidence concerns physical-platform use in research.,C095:S1,https://arxiv.org/abs/2507.07356
+C096,Universal Robots,Current 100,Greenhouse harvesting hardware,Universal Robots supplies UR5e arms used by eternal.ag for greenhouse harvesting. The case includes the customer CTO’s account.,"Supplier-published customer case; AI-model development, crop yield and long-term operating economics have distinct attribution.",C096:S1,https://www.universal-robots.com/case-stories/eternal/
+C097,Viam,Current 100,Fleet operations software,"Viam provides fleet data, status checks and code deployment for Tennibot. Named customer leaders describe practical use.","Supplier-published customer case; further AI integration was planned, while fleet support capacity differs from actual deployment.","C097:S1
+C097:S2
+C097:S3","https://www.viam.com/customer-stories/tennibot
+https://www.viam.com/customers
+https://www.viam.com/"
+C098,VisionNav Robotics,Current 100,Autonomous forklift logistics,"VisionNav VNL16 transports materials through inbound, shelving and outbound workflows for an equipment manufacturer, following scans and RCS instructions.","VisionNav describes an unnamed manufacturer’s inbound, shelving and outbound workflow. Continuous operation is a stated target.","C098:S1
+C098:S2","https://www.visionnav.com/application/detail129.html
+https://www.visionnav.com/about/"
+C102,Waymo,Current 100,Driverless passenger-service operation,Waymo operates rider-only passenger services across multiple US regions. Its operating disclosure and California deployment-permit record identify autonomous passenger-service operation.,Waymo operating data through June 2026; CPUC deployment-permit table accessed October 2026; manufacturer recall 25E-034 filed with NHTSA on 2025-05-12.,"C102:S1
+C102:S2
+C102:S3","https://www.waymo.com/safety/impact/
+https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/autonomous-vehicle-programs/autonomous-vehicle-program-permits-issued
+https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25E034-2471.PDF"
+C099,XYZ Robotics,Current 100,Warehouse unloading supply,"XYZ Robotics supplied RockyOne for unloading at Nitori Home Logistics' Satte site, with the supplier reporting stable operational pilots and announcing expansion.","Supplier account, 2026-02-16: Satte pilots began June 2025; regional expansion is prospective; Japanese distribution begins February 2026.","C099:S1
+C099:S2
+C099:S3","https://www.xyzrobotics.com/news/nitori-rockyone-deployment-202602
+https://www.xyzrobotics.com/about
+https://www.xyzrobotics.com/news/list/news-center/1"
+C100,Zipline,Current 100,Autonomous aerial delivery,Zipline performs paid autonomous aerial deliveries with sensing and flight functions documented in its operating accounts.,"Company reports; delivery counts, item counts and distance use separate units, while future regions and platforms retain planned status.",C100:S1,https://www.zipline.com/newsroom/zipline-makes-one-millionth-commercial-autonomous-drone-delivery-and-expands-u-s-deliveries-to-include-panera-bread-memorial-hermann-health-system-and-jet-s-pizza
