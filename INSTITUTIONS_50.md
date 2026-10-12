@@ -4,13 +4,19 @@
 
 ![Institutions 50: examples of research, measurement, standards and operating support.](assets/institutions-50-overview.png)
 
-*Concept artwork: B2AGI Physical AI 2027.*
-
 **2027 edition · October 2026 assessment · First published 12 October 2026 · v1.0**
 
 Institutions 50 examines the research, testing, standards, regulatory and capital-market activities that support Physical AI. Each profile identifies a specific contribution. Technical authorship, funding, certification and market access retain their separate roles.
 
 [Explore all 50 institutions](#institution-directory) · [Selection method](METHODOLOGY.md#institution-selection) · [Full edition](README.md#edition-directory) · [Download data](#research-and-data)
+
+### Selected contributions
+
+| Record ID | Institution or programme | Selected contribution |
+| --- | --- | --- |
+| I006 | [CMU Robotics Institute](institutions/cmu-robotics-institute--i006/README.md) | Robotics research and education |
+| I033 | [NIST](institutions/nist--i033/README.md) | Robotics measurement methods |
+| I016 | [IFR](institutions/ifr--i016/README.md) | Robot statistics and definitions |
 
 ## Institution directory
 
@@ -69,7 +75,7 @@ Institutions 50 examines the research, testing, standards, regulatory and capita
 
 ## Research and data
 
-This is a contribution-based selection. Record IDs identify entries and do not indicate rank. Institutions, consortia and named programmes are assessed within the scope stated in each profile.
+Institutions, consortia and named programmes are selected for documented contributions within the scope of each profile. Record IDs provide stable references across editions.
 
 [JSON](data/institutions-50.en.json) · [CSV](data/institutions-50.en.csv) · [Safety-evidence comparison](INSTITUTION_SELECTIONS.md) · [All 390 records](data/ranking2027.en.json)
 
