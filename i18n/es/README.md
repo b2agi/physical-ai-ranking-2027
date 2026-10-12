@@ -1,5 +1,7 @@
 # B2AGI Physical AI · Clasificaciones y selecciones 2027
 
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md)
+
 Este Atlas reúne 390 registros sobre investigación, desarrollo de productos y operaciones de clientes. Incluye clasificaciones de países y clústeres, y selecciones de empresas, personas e instituciones. La edición 2027 se evalúa con una base de octubre de 2026.
 
 | Sección | Registros |
@@ -12,7 +14,7 @@ Este Atlas reúne 390 registros sobre investigación, desarrollo de productos y 
 | [B2AGI Physical AI · Impulsores del ecosistema: 50 · 2027](ECOSYSTEM_BUILDERS_50.md) | 50 |
 | [B2AGI Physical AI · Instituciones: 50 · 2027](INSTITUTIONS_50.md) | 50 |
 
-[JSON](data/ranking2027.es.json) · [CSV](data/ranking2027.es.csv) · [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md)
+[JSON](data/ranking2027.es.json) · [CSV](data/ranking2027.es.csv)
 
 Los países y las regiones se comparan desde Intelligence, Physical, Capital, Trust y Beyond. Las empresas, personas e instituciones se seleccionan por contribuciones documentadas. Cada registro distingue operaciones de clientes, anuncios de proveedores, pruebas de investigación y planes futuros.
 
