@@ -1,0 +1,47 @@
+---
+title: "POSTECH | Joint hospital-robotics research and evaluation | B2AGI Physical AI 2027"
+record_id: "I037"
+name: "POSTECH"
+category: "institutions"
+selection_group: "Institutions 50"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["POSTECH", "I037", "Physical AI", "Embodied AI", "Institutions 50", "Joint hospital-robotics research and evaluation"]
+tags: ["b2agi", "physical-ai", "research-institutions"]
+---
+
+# POSTECH — Joint hospital-robotics research and evaluation
+
+POSTECH's Keehoon Kim and Jaewon Byun co-developed hospital disinfection robotics with KIST, KIRO, Elphoton and Pohang St. Mary's Hospital.
+
+## Record and edition
+
+- **Record ID:** `I037`
+- **List:** Institutions 50
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Institution-reported wiping and UV-C research and hospital evaluation; KIST's Sang-Rok Oh is named project director, and KIRO researchers retain joint credit.
+
+## Sources
+
+- **I037:S1 — POSTECH robotics laboratory:** <https://rllab.postech.ac.kr/rllab/index.do> · Recorded access: 2026-10-05
+- **I037:S2 — POSTECH: hospital disinfection robotics:** <https://gscst.postech.ac.kr/web/?category=&code=708&item=&key=detail&keyword=&present_group_num=1&present_page_num=2&section=&state=&sub=news&tab=&top=community> · Recorded access: 2026-10-11
+- **I037:S3 — POSTECH MARCH: joint research publication notice:** <https://march.postech.ac.kr/new-publication-8/> · Recorded access: 2026-10-11
+
+## Read the comparison
+
+[Institutions 50](../../INSTITUTIONS_50.md) · [All seven lists](../../README.md#edition-directory) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `I037`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

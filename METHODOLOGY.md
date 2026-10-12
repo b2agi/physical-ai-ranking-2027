@@ -238,3 +238,12 @@ Waymo contributes documented driverless passenger operation; UBTECH contributes 
 
 
 [Group-assignment comparisons](PEOPLE_SELECTIONS.md) identify the selected contributions and shared attribution. People source revision: 11 October 2026; first public GitHub release: 12 October 2026.
+
+
+## Institution selection
+
+Institutional entries identify research, testing, regulatory, industry-support and capital-market activities. Regulators and exchanges are assessed for their contribution to operating conditions and capital access.
+
+Technical authorship, funding, standards administration and operating support retain separate attribution. When several participants share an output, each retains its contribution. The selected record identifies the activity being assessed.
+
+[Institutions 50](INSTITUTIONS_50.md) · [Safety-evidence comparison](INSTITUTION_SELECTIONS.md). Institution source revision: 11 October 2026; first public GitHub release: 12 October 2026.

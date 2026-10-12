@@ -1,0 +1,205 @@
+id,name,group,role,selection_rationale,evidence_scope,source_references,source_urls
+I001,ARM Institute,Institutions 50,Manufacturing adoption support,ARM Institute helped Keystone Ridge move from evaluation and proof of concept through an RFP to installation of a robot cell.,Institute case with customer quotations; evidence concerns the named adoption pathway.,"I001:S1
+I001:S2","https://arminstitute.org/projects/automated-adaptive-path-planning-for-pick-and-place-ceramic/
+https://arminstitute.org/news/keystone-use-case/"
+I003,ASTM F45,Institutions 50,Mobile-robot performance standards,"ASTM F45 provides performance-test standards for unmanned mobile tasks, with NIST documenting the technical basis of its first four standards.",NIST’s 2018 record documents publication of ASTM F45’s first four mobile-task performance standards.,"I003:S1
+I003:S2","https://www.astm.org/news/first-standards-guided-industrial-vehicles-jf18
+https://www.nist.gov/nist-awards/2018-bronze-medal-award-roger-bostelman-elena-messina-david-schmitt-ann-marie-virts"
+I047,Beijing Humanoid Robot Innovation Center,Institutions 50,Shared robot-training data,"Beijing Humanoid Robot Innovation Center co-developed RoboMIND, with government material naming external institutions using it for training.","Government development and use report; download counts and unique users are distinct measures, with independent use verification limited.",I047:S1,https://kfqgw.beijing.gov.cn/zwgkkfq/ztzl/lqztkfq/lqzx/zsdt/202505/t20250514_4088610.html
+I004,BIGAI,Institutions 50,Shared robotics research tools,"BIGAI co-authored RoboVerse, with RLinf documenting its integration into research workflows.","Named institutional co-authors and external integration account, with partner institutions and existing simulators sharing the contribution.","I004:S1
+I004:S2
+I004:S3
+I004:S4","https://roboverseorg.github.io/
+https://rlinf.readthedocs.io/en/latest/rst_source/examples/embodied/roboverse.html
+https://eng.bigai.ai/demo/
+https://huggingface.co/bigai"
+I005,CESI,Institutions 50,Data-quality standards authorship,"CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.","The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.","I005:S1
+I005:S2
+I005:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
+https://www.cc.cesi.cn/service/show-4536.aspx
+https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F"
+I006,CMU Robotics Institute,Institutions 50,Robotics research and education,CMU’s Robotics Institute supports robotics research and education. Its NREC partnered with Carnegie Robotics to commercialize robotic components and systems.,CMU’s 2010 partnership record documents NREC technology transfer to Carnegie Robotics; NREC remains within the institute’s activity record.,"I006:S1
+I006:S2
+I006:S3
+I006:S4
+I006:S5","https://www.ri.cmu.edu/about/
+https://www.ri.cmu.edu/carnegie-robotics-partners-with-nrec-to-make-components-systems/
+https://www.cs.cmu.edu/news/2010/carnegie-robotics-llc-partners-carnegie-mellon-manufacture-robotic-components-and-systems
+https://www.nrec.ri.cmu.edu/solutions/supply-chain-material-handling/
+https://www.ri.cmu.edu/project/container-handling/"
+I007,DARPA SubT,Institutions 50,Shared physical test environments,"DARPA’s SubT competition provided shared physical test environments and tasks used by teams including CSIRO Data61, Emesent and Georgia Tech.",Participant account of the competition ending in 2021; team-developed robots and autonomy retain separate attribution.,"I007:S1
+I007:S2
+I007:S3","https://www.darpa.mil/news/2021/subterranean-challenge-winners
+https://www.openrobotics.org/blog/2021/9/27/darpa-subt-final-competition
+https://www.csiro.au/en/news/All/News/2021/September/Australia-claims-historic-top-two-spot-in-the-Robot-Olympics"
+I008,DFKI Robotics Innovation Center,Institutions 50,Industrial robotics research,"DFKI’s Robotics Innovation Center participated in TransFit research with Bremen and Siemens, producing joint research outputs.",The 2017 to 2021 TransFit record covers German research collaboration and published outputs.,"I008:S1
+I008:S2","https://www-live.dfki.de/en/web/research/projects-and-publications/project/transfit
+https://robotik.dfki-bremen.de/de/startseite"
+I009,ETRI,Institutions 50,Robotics technology transfer,ETRI transferred FMS to Twinny and supported recipient-specific joint development through staff working at the company.,"ETRI Webzine Vol.225 documents FMS transfer to Twinny, on-site staff support and joint software adaptation for people working alongside robots.","I009:S1
+I009:S2","https://www.etri.re.kr/45th/sub05_45.html
+https://www.etri.re.kr/webzine/20230602/sub02.html"
+I010,euRobotics,Institutions 50,Robotics research ecosystem,CORDIS records euRobotics’ coordination of RockEU2 and the launch and operation of two ERL seasons.,Completed project and competition records; market forecasts retain forecast status.,"I010:S1
+I010:S2","https://eu-robotics.net/about-sparc/
+https://cordis.europa.eu/project/id/688441/reporting/fr"
+I011,FAA,Institutions 50,BVLOS package-delivery authorization,"The FAA authorized Zipline to deliver commercial packages beyond visual line of sight in 2023, establishing a defined regulatory route for the operator.",The FAA’s 2023 authorization covers Zipline commercial-package delivery beyond visual line of sight under the specified approval scope.,"I011:S1
+I011:S2","https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight
+https://www.faa.gov/uas/advanced_operations/package_delivery_drone"
+I012,Harvard Wyss Institute,Institutions 50,Assistive-robot research and licensing,Harvard Wyss and SEAS researchers developed personalized soft-exosuit assistance from muscle ultrasound and tested it across walking speeds and inclines. Wyss also records technology licensing to ReWalk.,Harvard’s November 2021 account documents joint Wyss and SEAS research and walking tests. The ReWalk licensing record covers a separate technology-transfer activity.,"I012:S1
+I012:S2","https://wyss.harvard.edu/technology/soft-exosuits-for-lower-extremity-mobility/
+https://wyss.harvard.edu/news/a-personalized-exosuit-for-real-world-walking/"
+I013,HIT Robotics Technology and Systems Research Unit,Institutions 50,Physical robotics research infrastructure,"HIT’s robotics technology and systems research unit supported a learning-method project through resources, supervision and physical-robot experiments.","Project acknowledgments, resource and supervision records, and physical experiments describe the research unit’s support; authors retain algorithm credit.","I013:S1
+I013:S2
+I013:S3","https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1368243/full
+https://robot.hit.edu.cn/_upload/article/files/8a/ec/a989ba4546b5b398e8dd09e89419/ed430d4f-cbb2-4f5b-bc66-d370503cc983.pdf
+https://sme.hit.edu.cn/17932/list.htm"
+I014,HKEX / HKSCC,Institutions 50,Listing and clearing access,"HKEX and HKSCC provided listing and clearing access used by UBTECH, whose listing began on 2023-12-29.",Issuer listing confirmation and clearing notice; the notice supplies no actual fundraising amount.,"I014:S1
+I014:S2","https://www.hkex.com.hk/-/media/HKEX-Market/Services/Circulars-and-Notices/Participant-and-Members-Circulars/HKSCC/2023/ce_HKSCC_SKA_364_2023.pdf
+https://www.ubtrobot.com/en/about/news/498762019606597"
+I015,IEC Robotics Product Safety Standards,Institutions 50,Robot-product safety standards,IEC robotics-product safety work provides a lawn-robot standard edition cited in a manufacturer’s conformity declaration.,Standard edition and manufacturer declaration; the declaration and an IEC-issued product certificate have different status.,"I015:S1
+I015:S2
+I015:S3","https://webstore.iec.ch/en/publication/72274
+https://www-static-nw.husqvarna.com/hbd/tdrdownload/v2/pub000094470/doc000241707/DOC/oKItK78uhoW3RRywG8DFHuGZkEw
+https://webstore.iec.ch/en/publication/33594"
+I016,IFR,Institutions 50,Robot statistics and definitions,IFR provides recurring robot statistics and definitions through a documented collection and publication structure.,Industrial and service robotics statistics; coverage differs from the full Physical AI sector and company rankings.,I016:S1,https://ifr.org/pages/www.ifr.org
+I017,ISO/TC 299,Institutions 50,Robotics standards development,"ISO/TC 299 develops shared robotics standards through published outputs, participating countries and industrial organizations.",Committee and publication records distinguish published standards from standards under development.,I017:S1,https://www.iso.org/committee/5915511.html
+I018,KAIST,Institutions 50,Shared humanoid research platforms,KAIST’s HUBO platform supports outside research and education. Drexel describes using HUBO Lab hardware and student software in performances and joint research.,"External-user account; university, laboratory and center contributions remain within one institutional record.","I018:S1
+I018:S2","https://www.kaist.ac.kr/site/newsen/html/news/?skey=keyword&sval=HUBO
+https://drexel.edu/engineering/news-events/news/archive/2012/April/drexelhuborobotstakethestageandperformcometogether/"
+I020,KEIT,Institutions 50,Robotics research funding,KEIT supported humanoid balance-recovery research whose paper identifies the funded project and partial support.,2011 paper acknowledgment; KEIT’s funding and management role is distinct from the researchers’ algorithms and experiments.,"I020:S1
+I020:S2
+I020:S3
+I020:S4","https://www.romela.org/wp-content/uploads/2015/05/Learning-full-body-push-recovery-control-for-small-humanoid-robots.pdf
+https://ki-it.com/_PR/view/?aidx=47199&bidx=4264
+https://www.keit.re.kr/menu.es?mid=a10108000000
+https://www.keit.re.kr/gallery.es?act=view&b_list=10&bid=0004&cg_code=&keyField=&keyWord=&list_no=115878&mid=a10202010000&nPage=40&orderby=&tag="
+I022,KIAT,Institutions 50,Robotics R&D funding,"KIAT funded project P0014166, whose researchers reported implementation and experiments on a robotics safety testbed.",Completed paper and funding acknowledgment; KIAT provided support while KIRIA researchers implemented and tested the system.,"I022:S1
+I022:S2
+I022:S3
+I022:S4","https://jkros.org/xml/46109/46109.pdf
+https://www.kiat.or.kr/front/board/boardContentsView.do?MenuId=&board_id=90&contents_id=5c245cb7472d4b72b95a01eb78881c79
+https://sandbox.kiat.or.kr/front/mypage/selectFrontMyConApplyListPage.do
+https://kiat.or.kr/front/board/boardContentsView.do?contents_id=886404d468e74762b1e5008a697f733b"
+I023,KIRIA,Institutions 50,Robot testing and certification,"KIRIA issued KS certification for a wearable-robot product, confirmed in Hyundai’s announcement.",Hyundai's announcement identifies KIRIA's KS certification of the specified non-powered wearable product.,"I023:S1
+I023:S2","https://www.kiria.org/portal/cert/portalCertEstiState.do
+https://www.hyundai.com/worldwide/en/newsroom/detail/0000001137"
+I024,KITECH,Institutions 50,Robot digital-twin research,"KITECH researchers connected a physical robot with Isaac Sim and compared forward motion, turning and LiDAR messages.",Completed digital-twin implementation research; automated learning parameters and quantitative network-loss evaluation remain future tasks.,"I024:S1
+I024:S2
+I024:S3
+I024:S4
+I024:S5","https://ki-it.com/_PR/view/?aidx=47199&bidx=4264
+https://www.kitech.re.kr/api/v1/attachment/8ab9c5b7-579d-46fd-9168-f5fa19d507dc/download
+https://www.kitech.re.kr/api/v1/attachment/bc169870-25a8-4d3b-acca-a3ea52f75cca/download
+https://partner.kitech.re.kr/content_file/11_news_leaflet.pdf
+https://www.kitech.re.kr/promotion/page1-2.php?idx=159&page=2"
+I050,KRX,Institutions 50,Robotics listing and disclosure access,"KRX provided KOSPI listing and trading access for Doosan Robotics, documented by the issuer’s completed listing and contract records.",Issuer listing records; subscription deposits and bookbuilding demand have separate scope from newly received issuer funds.,"I050:S1
+I050:S2","https://kind.krx.co.kr/external/2026/03/19/001294/20260319005316/11011.htm
+https://www.doosanrobotics.com/cn/about/promotion/news/view/64"
+I025,KTL,Institutions 50,Wearable-robot testing,"KTL provided testing used by Dari Technology, whose history records wearable-robot IP55, payload and weight test reports.",Recipient’s test-report history; evidence concerns these specific external tests.,"I025:S1
+I025:S2
+I025:S3","https://ktl.re.kr/webzine/43/ktlsFocus.jsp
+https://ktl.re.kr/
+https://dareetech.com/about-us/"
+I026,LeRobot / Hugging Face,Institutions 50,Shared robot-learning infrastructure,LeRobot provides public code and data formats integrated into an external Trossen hardware workflow.,Project resources and experimental external documentation with version constraints; repository popularity has a different scope from active deployments.,"I026:S1
+I026:S2","https://github.com/huggingface/lerobot
+https://docs.trossenrobotics.com/trossen_arm/main/tutorials/openpi.html"
+I027,MassRobotics,Institutions 50,Shared development facilities,MassRobotics operates shared development space and experimental resources for named resident companies.,Resident and program records; the residency program provides access and states that it supplies no direct funding or equity investment.,I027:S1,https://www.massrobotics.org/startups/massrobotics-resident-startups/
+I028,MIIT,Institutions 50,Robotics application policy,MIIT jointly implemented selection and dissemination of 2024 mining-robot applications under the Robot+ plan.,The final application-selection notice records joint policy implementation with the mining-safety authority.,"I028:S1
+I028:S2
+I028:S3","https://www.miit.gov.cn/jgsj/zbys/wjfb/art/2024/art_9847ae36056f4dcb88a91426478b9aaa.html
+https://wap.miit.gov.cn/threestrategy/zcgh/zlgh/art/2023/art_4c323e0c6861441c91b266a11c97ff2d.html
+https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_cd666691abf8471fb8553d463aa416e3.html"
+I029,MIT CSAIL,Institutions 50,Human-robot interaction research,"MIT CSAIL conducted gesture-control research connecting EMG, learning and physical-drone experiments, with partial Boeing support.","Joint DelPreto and Rus research; Boeing’s role is funding, and Parrot retains drone-hardware credit.",I029:S1,https://www.csail.mit.edu/news/muscle-signals-can-pilot-robot
+I030,NASA Jet Propulsion Laboratory,Institutions 50,Planetary robotics operations,"JPL built and operated a Mars rover whose records describe autonomous perception, planning and physical driving.",Official account accompanying an animation of 2023-07-15 drive data; destination setting and ground-team planning remain part of operations.,"I030:S1
+I030:S2","https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/
+https://www.jpl.nasa.gov/images/pia26073-perseverance-autonav-avoids-a-boulder/"
+I031,Nasdaq,Institutions 50,Robotics public-market access,Nasdaq provided public-market access for Serve through a completed share offering and Nasdaq Capital Market trading.,"2024 issuer record; USD 40 million is gross offering proceeds before costs, and the overallotment option has separate execution status.",I031:S1,https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-inc-announces-closing-40-million-public-offering
+I048,"National Robot Testing and Evaluation Center, Shanghai Headquarters",Institutions 50,Shanghai robot certification,The National Robot Testing and Evaluation Center's Shanghai headquarters issued CR certification for AgiBot Genie G2 through Shanghai Robot Industry Technology Research Institute.,"The July 2026 report names the Shanghai implementing carrier; the platform page separately identifies Shanghai Electrical Apparatus Research Institute (Group) Co., Ltd. as the headquarters construction unit.","I048:S1
+I048:S2","https://www.sri-robot.com/news/1271.html
+https://www.sri-robot.com/about/jiancerenzhengpingtai"
+I053,New York Stock Exchange / NYSE,Institutions 50,Historical issuer trading access,"NYSE provided historical trading access for Ouster, recorded in the issuer’s 2021 annual report.",Historical issuer filing; Ouster’s announced December 2024 transfer to Nasdaq is a separate event.,"I053:S1
+I053:S2","https://www.sec.gov/Archives/edgar/data/1816581/000162828022004256/oust-20211231.htm
+https://www.sec.gov/Archives/edgar/data/1816581/000119312524274418/d900360dex991.htm"
+I032,NHTSA,Institutions 50,Automated-driving recall reporting,"NHTSA provides public safety-recall reporting, including Waymo's manufacturer-submitted report on an automated-driving flooding hazard.","Recall 26E026, submitted May 6, 2026, records interim operating restrictions and a final remedy under development at filing.","I032:S1
+I032:S2
+I032:S3","https://www.nhtsa.gov/vehicle-manufacturers
+https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E026-6527.pdf
+https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-03/2025-annual-recalls-report.pdf"
+I054,NIOSH / Center for Occupational Robotics Research,Institutions 50,Occupational robotics hazard research and guidance,NIOSH contributed to joint workplace-robotics guidance and published fatality and nonfatal-injury research relevant to worker protection.,"Joint guidance credits A3 engineers and NIOSH researchers. The 2023 fatality study covers 1992-2017; the 2026 NIOSH/Ohio study analyzes 1,076 claims from 2001-2020 and credits Ohio's data provision and the joint research team.","I054:S1
+I054:S2
+I054:S3
+I054:S4","https://www.osha.gov/news/newsreleases/osha-trade-release/20220126
+https://stacks.cdc.gov/view/cdc/230667/cdc_230667_DS1.pdf
+https://www.cdc.gov/niosh/centers/robotics.html
+https://stacks.cdc.gov/view/cdc/258698/cdc_258698_DS1.pdf"
+I033,NIST,Institutions 50,Robotics measurement methods,"NIST develops robot mobility measurements, tests and standards through an actual measurement program.",Specific robotics measurement outputs; safety certification and the wider AI RMF are separate functions.,"I033:S1
+I033:S2","https://www.nist.gov/nist-awards/2018-bronze-medal-award-roger-bostelman-elena-messina-david-schmitt-ann-marie-virts
+https://www.nist.gov/programs-projects/mobility-performance-robotic-systems"
+I034,Open Robotics / OSRF,Institutions 50,Open robotics software infrastructure,The nonprofit OSRF provides and maintains open software used in robotics research and product development under the Open Robotics brand.,Organizational and software records; sold OSRC businesses and Intrinsic revenue retain separate legal and commercial scope.,"I034:S1
+I034:S2
+I034:S3","https://www.openrobotics.org/
+https://www.openrobotics.org/foundation
+https://arxiv.org/abs/2211.07752"
+I035,Open X-Embodiment consortium,Institutions 50,Shared learning data and models,Open X-Embodiment provides shared data formats and RT-X models used by multiple laboratories in physical-robot evaluations.,Named consortium research; participation counts vary by edition and rights differ across datasets.,"I035:S1
+I035:S2","https://deepmind.google/blog/scaling-up-learning-across-many-different-robot-types/
+https://robotics-transformer-x.github.io/"
+I036,OSHA Robotics Safety Guidance,Institutions 50,Workplace robotics safety guidance,OSHA provides an updated robotics safety technical manual for inspectors and workplace safety staff.,"2022 joint-guidance announcement; A3 engineering and NIOSH research retain separate contributions, with field inspection effects unmeasured.","I036:S1
+I036:S2","https://www.osha.gov/otm/section-4-safety-hazards/chapter-4
+https://www.osha.gov/news/newsreleases/osha-trade-release/20220126"
+I037,POSTECH,Institutions 50,Joint hospital-robotics research and evaluation,"POSTECH's Keehoon Kim and Jaewon Byun co-developed hospital disinfection robotics with KIST, KIRO, Elphoton and Pohang St. Mary's Hospital.","Institution-reported wiping and UV-C research and hospital evaluation; KIST's Sang-Rok Oh is named project director, and KIRO researchers retain joint credit.","I037:S1
+I037:S2
+I037:S3","https://rllab.postech.ac.kr/rllab/index.do
+https://gscst.postech.ac.kr/web/?category=&code=708&item=&key=detail&keyword=&present_group_num=1&present_page_num=2&section=&state=&sub=news&tab=&top=community
+https://march.postech.ac.kr/new-publication-8/"
+I038,RAI Institute,Institutions 50,Public robot-learning tools,"RAI Institute published learning code, Spot deployment methods and MIT-licensed research resources applied to Spot and Atlas hardware.",Published learning code and hardware methods for Spot and Atlas. The repository README identifies its maintenance status as inactive.,"I038:S1
+I038:S2
+I038:S3
+I038:S4","https://rai-inst.com/resources/blog/rai-institute-2025-a-year-of-innovation-for-robotics-and-ai/
+https://github.com/rai-opensource/vlfm
+https://rai-inst.com/research/
+https://rai-inst.com/privacy-policy/"
+I039,SAC,Institutions 50,National standards administration,"SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.","Official standards-publication record, with CESI credited for technical authorship.","I039:S1
+I039:S2
+I039:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
+https://www.sac.gov.cn/
+https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F"
+I040,SEC,Institutions 50,Issuer disclosure review,"The SEC reviewed Serve disclosures, including questions about funding constraints and deployment outlook.","Actual review correspondence; filing effectiveness, secondary share sales and new proceeds retain separate regulatory and financial meanings.","I040:S1
+I040:S2","https://www.sec.gov/Archives/edgar/data/1832483/000000000023012332/filename1.pdf
+https://www.sec.gov/Archives/edgar/data/1832483/000121390024034228/0001213900-24-034228-index.htm"
+I041,Shanghai AI Lab,Institutions 50,Shared simulation research,Shanghai AI Lab’s InternUtopia was used for simulation evaluation by the named external EA-Nav research team.,External paper reporting use; public code and downloads have separate scope from physical commercial operations.,"I041:S1
+I041:S2
+I041:S3","https://www.shlab.org.cn/news/5444209
+https://github.com/InternRobotics/InternUtopia
+https://arxiv.org/html/2607.19880v3"
+I051,Shanghai Stock Exchange,Institutions 50,Industrial issuer market access,"Shanghai Stock Exchange provided market access for welding-robot issuer Kaierda, with trading beginning on 2021-10-25 under 688255.","Official listing notice; the exchange provides a market channel, while company proceeds and revenues retain issuer-level scope.",I051:S1,https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20211022_83291147.shtml
+I052,Shenzhen Stock Exchange,Institutions 50,Industrial issuer market access,Shenzhen Stock Exchange provided listing and new-share fundraising access for industrial automation issuer Estun under 002747.,"Official issuer-market announcement; the exchange is a market channel, with company-wide proceeds and revenues retaining their own scope.",I052:S1,https://www.szse.cn/aboutus/trends/news/t20150320_518583.html
+I046,SIA,Institutions 50,Industrial technology transfer,SIA supported industrial-robot technology transfer through research-team commercialization and Siasun's formation.,The SIA-hosted historical account documents team and core-technology transfer. The Shenyang/Liaoning testing website identifies a separate location within the national testing network.,"I046:S1
+I046:S2
+I046:S3
+I046:S4","https://sia.cas.cn/xwzx/mtjj/201610/t20161031_4687882.html
+https://rlab.sia.cas.cn/
+https://robot.sia.cn/
+https://rtc.sia.cn/"
+I042,Toyota Research Institute,Institutions 50,Robot learning and control research,Toyota Research Institute co-developed and supported Drake and provided manipulation research and public benchmarks used in robotics work.,"Development, research and benchmark-use records; Toyota manufacturing results and TRI research retain separate scope.","I042:S1
+I042:S2
+I042:S3","https://pressroom.toyota.com/toyota-research-institute-unveils-breakthrough-in-teaching-robots-new-behaviors/
+https://drake.mit.edu/credits.html
+https://drake.mit.edu/gallery.html"
+I043,UC Berkeley BAIR: RAIL BridgeData,Institutions 50,Shared robot data and training tools,"Berkeley RAIL’s BridgeData provides shared robot data, training code and access conditions used through documented external data-format workflows.",Evidence covers the RAIL activity within BAIR; shared Open X-Embodiment data events are cross-referenced without duplicate counting.,"I043:S1
+I043:S2
+I043:S3
+I043:S4","https://rail-berkeley.github.io/bridgedata/
+https://www.microsoft.com/en-gb/download/details.aspx?id=105937
+https://github.com/rail-berkeley/bridge_data_v2
+https://robotics-transformer-x.github.io/"
+I044,XbotPark,Institutions 50,Startup manufacturing support,"XbotPark provided startup funding support to Narwal, as described alongside direction-finding assistance in HKCRC material.","HKCRC’s account describes XbotPark funding support to Narwal, whose products and operating results retain company attribution.","I044:S1
+I044:S2
+I044:S3","https://au.narwal.com/blogs/know-narwal/hi-narwal
+https://www.xbotpark.com/team/
+https://hkcrc.hk/news/incubated-products-frequently-catch-eyes-general-secretary-how-xbotpark-paradigm-new"
+I045,Zhejiang University Robotics Research,Institutions 50,Robotics education,Zhejiang University provided robotics education using two Jueying robots brought by project leader Zhu Qiuguo for a completed course in September 2021.,"EDP course record dated 2021-09-25 to 2021-09-26; evidence covers demonstration and interaction, with learning effects unmeasured.","I045:S1
+I045:S2
+I045:S3
+I045:S4","https://edp.zju.edu.cn/news/1140
+https://atc.zju.edu.cn/instrument/detail-3877.html
+https://www.zju.edu.cn/2018/0531/c33065a1512697/pagem.htm
+https://zjuequip.zju.edu.cn/webSite/websiteAction.do?e_no=21026005&ms=goBasic"

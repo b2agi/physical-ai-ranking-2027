@@ -1,5 +1,9 @@
 # Revision history
 
+## 2026-10-12 — Institutions 50 and full edition exports
+
+Published 50 institution profiles with distinct contributions, the existing concept artwork, JSON/CSV and a safety-evidence selection comparison. The edition directory now links all seven sections. Full exports contain 390 records and 1,024 source references, reusing the corrected country release and existing public cluster, company and people records. Prior profiles and ARC design updates are unchanged.
+
 ## 2026-10-12 — Influence 50 and Ecosystem Builders 50 first release
 
 Published 100 people profiles in two contribution-based groups with portrait-artwork overviews, directories, JSON/CSV and group-assignment comparisons. IDs, names, groups, roles, shared attribution, rationales, scopes and 250 source references retain the 11 October source revision. Image credits distinguish studio portrait artwork from source photographs. Existing geographic and company releases, including ARC visual updates, are unchanged.
