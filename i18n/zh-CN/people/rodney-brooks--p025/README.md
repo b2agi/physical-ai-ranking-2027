@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P025` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Rodney Brooks proposed layered robot control in an authored paper. Later researchers explicitly implemented the method.

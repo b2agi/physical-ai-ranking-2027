@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P019` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Masayoshi Son and Yoshimitsu Goto received delegated authority to determine the final terms of SoftBank’s ABB Robotics acquisition agreement. The board resolution and October 2025 agreement document his role in that capital decision.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:15` · 排名 15
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Aichi provides robot testing and support facilities serving manufacturing development.

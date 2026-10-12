@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I054` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 NIOSH contributed to joint workplace-robotics guidance and published fatality and nonfatal-injury research relevant to worker protection.

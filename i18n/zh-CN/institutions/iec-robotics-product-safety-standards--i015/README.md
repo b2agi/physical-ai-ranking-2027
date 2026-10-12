@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I015` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 IEC robotics-product safety work provides a lawn-robot standard edition cited in a manufacturer’s conformity declaration.

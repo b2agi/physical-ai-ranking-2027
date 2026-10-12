@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P010` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Gill Pratt led DARPA's Robotics Challenge program, providing common disaster-response tasks and test conditions for competing robot teams.

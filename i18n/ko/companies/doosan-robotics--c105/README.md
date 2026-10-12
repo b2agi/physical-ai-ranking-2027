@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C105` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 An external Royal IHC project team used Doosan's 1013 arm in a vision-guided welding prototype. Doosan supplied the manipulation platform; the team developed the vision, integration and welding application.

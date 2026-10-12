@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:01` · 순위 1
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Shenzhen and Dongguan connect sensor and robot development with engineering education, prototyping facilities and manufacturing access. XbotPark's university and startup programmes link talent development to product engineering.

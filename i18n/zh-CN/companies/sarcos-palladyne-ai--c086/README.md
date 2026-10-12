@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C086` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Palladyne AI supplies learned software for automated surface preparation at Warner Robins. A named customer describes completion of the first contract phase.

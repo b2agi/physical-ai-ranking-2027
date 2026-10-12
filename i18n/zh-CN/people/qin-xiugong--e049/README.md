@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E049` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Qin Xiugong co-drafted a foundational standard whose terminology was reused in T/CESA 1450-2025.

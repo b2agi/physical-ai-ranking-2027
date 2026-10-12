@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I047` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Beijing Humanoid Robot Innovation Center co-developed RoboMIND, with government material naming external institutions using it for training.

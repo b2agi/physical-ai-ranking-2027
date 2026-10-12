@@ -16,8 +16,6 @@ ACR 공동 개발
 
 `P035` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Richie Chen participated with Shengdong Xu and Bing Fang in developing ACR after warehouse visits.

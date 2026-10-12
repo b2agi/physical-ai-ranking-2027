@@ -16,8 +16,6 @@ AMR 容器运输
 
 `C062` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 MiR250 transports KLT containers at BORG Automotive, with MES completion confirmation. Customer and integrator statements describe the workflow.

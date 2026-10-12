@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C081` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Roboto AI supports post-flight QA for BRINC and robot-fault analysis for ANYbotics. Named customer staff describe using the tools.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:09` · 排名 9
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Canada develops physical manipulation learning, industrial tools and truck-OEM integration through distinct product pathways.

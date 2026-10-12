@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N034` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Intel contributes Loihi 2 computing to joint NRL/Intel research converting a reinforcement-learning controller into neuromorphic inference for Astrobee simulation.

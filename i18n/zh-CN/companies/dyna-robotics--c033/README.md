@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C033` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Dyna Robotics applies robot learning to garment folding at Monster Laundry. The owner describes daily folding work.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I029` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 MIT CSAIL conducted gesture-control research connecting EMG, learning and physical-drone experiments, with partial Boeing support.

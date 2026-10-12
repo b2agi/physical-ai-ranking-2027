@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N112` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Wayve's LINGO-2 research model jointly predicts driving trajectories and commentary, with a closed-loop Central London public-road demonstration. Separate Ghost Gym trials compare manoeuvres under different language prompts; explanation/action alignment and reliable real-world language control remain research questions.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E013` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Fei-Fei Li helped build ImageNet’s shared dataset and challenge, which drew participation from multiple institutions.

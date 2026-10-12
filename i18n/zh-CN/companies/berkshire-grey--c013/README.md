@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C013` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Berkshire Grey supplies RPSi parcel sorting at FedEx facilities. FedEx describes existing installations and everyday sorting work.

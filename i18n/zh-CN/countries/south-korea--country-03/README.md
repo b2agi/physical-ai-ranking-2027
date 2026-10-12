@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:03` · 排名 3
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Korea combines research investment with NAVER's cloud-based robot coordination, KAIST's learned locomotion control and university-led robotics commercialization.

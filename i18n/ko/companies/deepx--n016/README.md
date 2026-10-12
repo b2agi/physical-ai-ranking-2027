@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N016` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 DEEPX develops robotics inference computing with Hyundai Motor Group’s Robotics Lab. Hyundai material connects earlier edge-brain work with DAL-e demonstrations, while DX-M2 defines a further development path.

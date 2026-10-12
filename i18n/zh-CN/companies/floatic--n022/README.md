@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N022` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Floatic tested collaborative picking with LogisALL at a named location, documenting the robot, software and human work roles.

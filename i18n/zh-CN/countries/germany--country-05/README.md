@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:05` · 排名 5
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Germany brings industrial customers, intelligent integration providers and external testing and approval into the same deployment pathway.

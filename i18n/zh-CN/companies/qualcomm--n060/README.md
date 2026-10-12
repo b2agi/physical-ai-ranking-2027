@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N060` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Qualcomm provides robotics evaluation boards, ROS 2 and Gazebo samples, with a documented separation of perception and control.

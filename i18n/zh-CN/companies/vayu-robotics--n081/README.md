@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N081` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Vayu’s 2024 announcement describes a physical delivery robot combining transformer-based movement with passive optical sensors, plus application to wheeled platforms.

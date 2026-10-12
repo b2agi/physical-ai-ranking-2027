@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E010` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Elena Messina contributed to named joint standards and testing outputs for robotics.

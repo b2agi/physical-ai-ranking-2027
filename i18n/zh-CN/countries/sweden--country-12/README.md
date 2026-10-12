@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:12` · 排名 12
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.

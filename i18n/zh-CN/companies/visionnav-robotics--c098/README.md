@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C098` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 VisionNav VNL16 transports materials through inbound, shelving and outbound workflows for an equipment manufacturer, following scans and RCS instructions.

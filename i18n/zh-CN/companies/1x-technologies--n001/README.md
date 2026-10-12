@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N001` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 1X’s Redwood describes a policy that learns locomotion and manipulation together. NEO’s ordering and support terms provide a separate product-development record.

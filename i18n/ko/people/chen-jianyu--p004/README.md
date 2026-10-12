@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P004` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Jianyu Chen is the corresponding author of DWL, contributing to its joint research publication.

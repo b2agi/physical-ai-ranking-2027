@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N068` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 RobotEra develops the VPP predictive-visual manipulation-policy programme and supplies XHand used in external LeVR experiments. Hardware supply and each research team's policy retain separate attribution.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E030` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Liu Lianqing supervised named completed doctoral research by Zhou Peilin.

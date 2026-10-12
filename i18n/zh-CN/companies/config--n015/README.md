@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N015` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Config publishes HABIT robot observation and action data, supporting its reported CFG-1 learning and physical-task development.

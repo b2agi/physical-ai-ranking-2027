@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I041` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Shanghai AI Lab’s InternUtopia was used for simulation evaluation by the named external EA-Nav research team.

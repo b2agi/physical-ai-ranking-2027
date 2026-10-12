@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:20` · 순위 20
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Austin-based Apptronik develops Apollo through Mercedes customer trials and growth financing. The customer trials took place in Germany.

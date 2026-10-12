@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:19` · 排名 19
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Pohang brings a robotics-company site together with a steel customer’s joint laboratory for manufacturing-oriented development.

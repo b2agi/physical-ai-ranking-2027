@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C066` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nearthlab’s NearthWind performs autonomous wind-turbine blade inspection. Its materials describe sensing, flight and inspection contracts with Siemens Gamesa, Vestas and GE.

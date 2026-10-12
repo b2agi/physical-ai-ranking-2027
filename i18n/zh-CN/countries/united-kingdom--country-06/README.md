@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:06` · 排名 6
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The United Kingdom develops local robotics models and robot-learning hands through documented joint development.

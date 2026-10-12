@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:03` · 순위 3
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The cluster brings Shanghai’s training infrastructure and Hangzhou’s robots and physical-system research into one analytical region, tracing research into product development.

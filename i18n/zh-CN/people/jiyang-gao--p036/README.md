@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P036` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jiyang Gao co-supervised Galaxea's dataset-and-model research programme with Hang Zhao and Huazhe Xu. This entry recognizes coordination of the team's shared research capability.

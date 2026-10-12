@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C072` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Path Robotics supplies a welding cell used by Millerbernd to fabricate transport and infrastructure poles. The case includes a welder describing the work.

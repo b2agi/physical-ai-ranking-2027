@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E021` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Rolf Dieter Schraft co-authored robot-programming and trajectory-adaptation research with C. Meyer for a gluing robot cell.

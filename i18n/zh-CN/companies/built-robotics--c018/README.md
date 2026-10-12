@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C018` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Built Robotics completed autonomous solar pile installation with its Gen1 system at a named EPC site.

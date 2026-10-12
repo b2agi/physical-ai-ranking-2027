@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N100` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 AeiROBOT and HERoEHS jointly develop ALICE4 walking and competition vision within their humanoid research programme.

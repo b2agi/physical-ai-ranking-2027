@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E004` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Ayanna Howard describes founding Zyrobotics after NSF I-Corps participation and licensing laboratory technology into STEM products for children.

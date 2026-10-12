@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C103` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 UBTECH reports industrial humanoid production and delivery for automotive-factory handling, sorting and inspection. Its selected contribution is the supply of robots for those tasks.

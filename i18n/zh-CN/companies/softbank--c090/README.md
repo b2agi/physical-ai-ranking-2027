@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C090` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 SoftBank completed a secondary Symbotic share purchase and established the GreenBox joint-venture vehicle for warehouse automation.

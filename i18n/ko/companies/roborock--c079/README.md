@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C079` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Roborock Saros Z70 recognizes and picks up a limited range of objects while cleaning. A purchaser’s test records both use and failures.

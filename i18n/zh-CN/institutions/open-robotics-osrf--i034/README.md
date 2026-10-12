@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I034` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The nonprofit OSRF provides and maintains open software used in robotics research and product development under the Open Robotics brand.

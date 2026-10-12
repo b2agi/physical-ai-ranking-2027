@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I053` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 NYSE provided historical trading access for Ouster, recorded in the issuer’s 2021 annual report.

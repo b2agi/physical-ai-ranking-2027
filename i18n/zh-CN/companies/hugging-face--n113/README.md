@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N113` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Hugging Face co-develops SmolVLA, connecting visual observations and instructions to manipulation actions. Its research evaluates SO100 and SO101 physical tasks, with shared credit for academic partners, hardware designers and community data contributors.

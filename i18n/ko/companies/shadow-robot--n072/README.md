@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N072` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Shadow Robot co-developed DEX-EE hardware with DeepMind and supplies the released standard research hand used in DeepMind's DemoStart experiments. Hardware development and supply retain joint credit; DeepMind retains its learning method.

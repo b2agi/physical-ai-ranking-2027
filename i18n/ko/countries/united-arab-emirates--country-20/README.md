@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:20` · 순위 20
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.

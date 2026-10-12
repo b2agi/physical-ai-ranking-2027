@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:15` · 排名 15
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Israel develops observation-based physical manipulation and driver-assistance technology, supported by research investment and national AI computing access for academia and industry.

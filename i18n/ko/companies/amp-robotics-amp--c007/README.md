@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C007` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 AMP installed and operated neural-network-based material sorting at the Portsmouth facility. Its facility case includes a customer manager’s account of the work.

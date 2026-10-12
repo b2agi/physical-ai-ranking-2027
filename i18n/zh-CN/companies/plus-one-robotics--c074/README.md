@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C074` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Plus One’s PickOne provides vision recognition for FedEx parcel sorting, while Yonder supports remote exception handling.

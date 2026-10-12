@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C099` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 XYZ Robotics supplied RockyOne for unloading at Nitori Home Logistics' Satte site, with the supplier reporting stable operational pilots and announcing expansion.

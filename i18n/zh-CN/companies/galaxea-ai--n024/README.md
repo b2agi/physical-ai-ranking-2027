@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N024` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Galaxea’s research connects data collection on a specified robot with policy learning and four physical-task evaluations.

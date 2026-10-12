@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C055` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Keenon’s DINERBOT and cleaning systems perform transport and service tasks at named restaurants and hotels, with staff handoffs and obstacle avoidance.

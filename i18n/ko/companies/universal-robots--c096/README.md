@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C096` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Universal Robots supplies UR5e arms used by eternal.ag for greenhouse harvesting. The case includes the customer CTO’s account.

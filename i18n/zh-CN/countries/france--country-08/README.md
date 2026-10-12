@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:08` · 排名 8
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 France provides open robot-learning tools and develops general-purpose manipulation models alongside hardware integrations.

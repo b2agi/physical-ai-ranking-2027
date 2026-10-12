@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C015` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Booster supplies K1 and T1 robots used by the HTWK team in research and RoboCup. Team documents describe competition operation and a learned kick executed on T1.

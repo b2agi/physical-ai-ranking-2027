@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:14` · 排名 14
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Seattle’s corporate and development network includes large logistics adopters and robot operating-data tools.

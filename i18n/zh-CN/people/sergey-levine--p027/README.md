@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P027` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Sergey Levine co-authored learned visual-feedback grasping research and explained its use of large-scale physical interaction in a signed Google research article.

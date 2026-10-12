@@ -16,8 +16,6 @@ AI 기반 재활용품 수거
 
 `C092` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Superbin’s Nephron uses AI classification in installed recycling-collection units.

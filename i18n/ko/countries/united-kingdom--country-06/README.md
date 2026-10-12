@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:06` · 순위 6
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The United Kingdom develops local robotics models and robot-learning hands through documented joint development.

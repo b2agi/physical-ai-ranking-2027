@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N006` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Anthropic tested Claude on robotics control tasks using MuJoCo and LIBERO. Its published research records model calls, simulation conditions and failures.

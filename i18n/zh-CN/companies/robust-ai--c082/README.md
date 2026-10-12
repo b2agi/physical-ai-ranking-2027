@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C082` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Robust.AI’s Carter transports totes and assists picking at Saddle Creek’s Charlotte site. A named operations manager describes its use.

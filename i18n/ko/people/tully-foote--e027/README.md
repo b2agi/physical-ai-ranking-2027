@@ -16,8 +16,6 @@ ROS 단위 및 좌표계 관례
 
 `E027` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Tully Foote co-authored common ROS unit and coordinate conventions with Mike Purvis, supporting compatibility across developers.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C096` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Universal Robots supplies UR5e arms used by eternal.ag for greenhouse harvesting. The case includes the customer CTO’s account.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N087` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 World Labs supplies Marble-generated worlds for two named researchers' robotics simulation experiments, with exported scenes and manually added task assets.

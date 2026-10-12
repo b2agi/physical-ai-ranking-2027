@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N092` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Xingyuanzhi describes RoboBrain Pro, a jointly developed EP loading and unloading product, robot integration and physical cleaning work.

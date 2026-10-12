@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C041` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Galbot S1 works on CATL module and battery-pack lines. CATL describes deployment, visual positioning and obstacle avoidance.

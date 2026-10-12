@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:11` · 排名 11
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Zurich’s product-development network includes learned control for industrial inspection robots and customer workflows.

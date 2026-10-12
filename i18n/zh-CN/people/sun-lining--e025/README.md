@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E025` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Sun Lining describes establishing a research institute, degree programs and talent-development activities supporting regional industry.

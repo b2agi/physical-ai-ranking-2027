@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C036` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Figure 02 handled sheet-metal parts during BMW's extended Spartanburg production pilot.

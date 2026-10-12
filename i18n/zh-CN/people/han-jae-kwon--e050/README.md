@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E050` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Han Jae-kwon and Lee Byung-joo delivered robotics lectures at Hanyang's August 2022 Robot Day.

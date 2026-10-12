@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I011` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The FAA authorized Zipline to deliver commercial packages beyond visual line of sight in 2023, establishing a defined regulatory route for the operator.

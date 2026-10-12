@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E053` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Cyril Ebersweiler helped found and operate HAX, with Neptune Robotics documenting use and subsequent support.

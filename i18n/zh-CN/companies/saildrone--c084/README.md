@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C084` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Saildrone performs repeated ocean-observation missions for NOAA, transmitting measurements used in public scientific datasets.

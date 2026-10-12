@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P025` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Rodney Brooks proposed layered robot control in an authored paper. Later researchers explicitly implemented the method.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I035` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Open X-Embodiment provides shared data formats and RT-X models used by multiple laboratories in physical-robot evaluations.

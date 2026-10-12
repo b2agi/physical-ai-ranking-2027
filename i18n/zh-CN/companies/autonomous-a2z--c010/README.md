@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C010` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Autonomous a2z’s ROii carried passengers on the Cheonggye A01 shuttle. Seoul’s trial-service notice and a passenger account describe supervised operation.

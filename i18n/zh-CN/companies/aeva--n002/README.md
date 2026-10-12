@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N002` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Aeva’s Eve sensing technology is integrated into a SICK sensor product described in a launch announcement.

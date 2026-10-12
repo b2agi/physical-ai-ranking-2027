@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N095` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nota’s NQRR runtime operated on a Qualcomm board with SO-101 in a color-based cube-transfer demonstration at KRAIN 2026.

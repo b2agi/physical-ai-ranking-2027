@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N068` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 RobotEra develops the VPP predictive-visual manipulation-policy programme and supplies XHand used in external LeVR experiments. Hardware supply and each research team's policy retain separate attribution.

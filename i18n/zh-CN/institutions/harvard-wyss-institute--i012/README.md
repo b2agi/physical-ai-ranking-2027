@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I012` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Harvard Wyss and SEAS researchers developed personalized soft-exosuit assistance from muscle ultrasound and tested it across walking speeds and inclines. Wyss also records technology licensing to ReWalk.

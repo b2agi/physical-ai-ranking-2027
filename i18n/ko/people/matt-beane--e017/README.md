@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E017` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Matt Beane published long-term field research on robotic surgery and shadow learning, contributing knowledge about work and training transitions.

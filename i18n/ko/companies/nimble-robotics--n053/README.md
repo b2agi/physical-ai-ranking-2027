@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N053` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nimble supplies robotic fulfillment used by named brands for picking, packing and shipping; later alliance plans extend that operating contribution.

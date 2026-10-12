@@ -16,8 +16,6 @@ AI 风险管理框架
 
 `E011` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Elham Tabassi authored NIST’s publicly available AI RMF 1.0, providing risk-management language reusable in Physical AI procurement and trust discussions.

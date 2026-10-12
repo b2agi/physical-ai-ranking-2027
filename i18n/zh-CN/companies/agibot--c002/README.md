@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C002` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 AgiBot G2 was deployed on Longcheer’s tablet production line, as described in the customer’s account of its production process.

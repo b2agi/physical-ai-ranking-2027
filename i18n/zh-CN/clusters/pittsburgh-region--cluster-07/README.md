@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:07` · 排名 7
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Pittsburgh translates research into company technology transfer and manufacturing demonstrations.

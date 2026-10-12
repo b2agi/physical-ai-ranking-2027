@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C085` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Samsung’s filings document acquisition of control over Rainbow Robotics and its consolidation into the group.

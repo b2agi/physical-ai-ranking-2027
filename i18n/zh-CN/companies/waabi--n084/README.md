@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N084` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Waabi completed integration with a truck platform confirmed by the OEM, taking its simulation-based model toward physical deployment.

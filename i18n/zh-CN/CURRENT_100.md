@@ -2,17 +2,15 @@
 
 ![企业 Current 100](../../assets/current-100-overview-zh-CN.png)
 
-选录已在生产、运营、教育或研究中采用的能力，以及已完成的技术转移和资本贡献。每家企业对应具体的客户任务或供应角色。
+收录已用于生产、运营、教育或研究的技术与产品，以及已完成的技术转移和资本贡献。各条目说明企业承担的客户任务或供应角色。
 
-2027版 · 评估基准为2026年10月。国家与集群采用定性排名，其他类别按贡献选录。ID为固定标识。
+2027版 · 2026年10月评估 · 按贡献选录 · ID不代表排名。
 
-本版提供中文名称、贡献说明与检索目录。入选依据与证据范围保留英文原文，封面沿用B2AGI既有作品、标识与人物肖像。
+入选依据与证据范围：英文原文。
 
 ### 推荐阅读条目
 
 [NVIDIA](companies/nvidia--c067/README.md) · [Boston Dynamics](companies/boston-dynamics--c016/README.md) · [Unitree Robotics](companies/unitree-robotics--c095/README.md)
-
-
 
 | ID | 名称 | 贡献与角色 |
 | --- | --- | --- |

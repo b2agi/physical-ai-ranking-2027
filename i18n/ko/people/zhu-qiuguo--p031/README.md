@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P031` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Zhu Qiuguo held a principal research role in dynamic stability control for the Jueying quadruped.

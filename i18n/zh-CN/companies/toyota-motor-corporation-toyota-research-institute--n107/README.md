@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N107` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Toyota Research Institute jointly develops language-conditioned large behavior models with Boston Dynamics. The partners connect teleoperated training data to physical Atlas manipulation and recovery tests.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N020` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Farm-ng supplies Amiga as an adopted agricultural education platform in the recurring Farm Robotics Challenge, including CMU's seedling-planting project; university teams retain attachments and task development.

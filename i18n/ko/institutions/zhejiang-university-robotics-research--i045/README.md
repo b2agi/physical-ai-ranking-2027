@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I045` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Zhejiang University provided robotics education using two Jueying robots brought by project leader Zhu Qiuguo for a completed course in September 2021.

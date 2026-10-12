@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N015` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Config publishes HABIT robot observation and action data, supporting its reported CFG-1 learning and physical-task development.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I008` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 DFKI’s Robotics Innovation Center participated in TransFit research with Bremen and Siemens, producing joint research outputs.

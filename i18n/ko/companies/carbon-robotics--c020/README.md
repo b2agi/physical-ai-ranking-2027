@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C020` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Carbon Robotics uses plant recognition to guide LaserWeeder’s laser weeding. Named farms describe using the equipment.

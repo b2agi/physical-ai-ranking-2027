@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N047` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Meta publishes PARTNR data and benchmarks, with research describing application to Spot and tests of collaboration, failure and recovery.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P011` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Hod Lipson contributed to research conception, analysis support and review of robot self-modeling work.

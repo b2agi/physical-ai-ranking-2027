@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E041` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Yuh Joon-ku co-edited a research-direction workshop report, providing a historical public research and education resource.

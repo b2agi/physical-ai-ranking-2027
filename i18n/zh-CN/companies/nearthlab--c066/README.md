@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C066` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Nearthlab’s NearthWind performs autonomous wind-turbine blade inspection. Its materials describe sensing, flight and inspection contracts with Siemens Gamesa, Vestas and GE.

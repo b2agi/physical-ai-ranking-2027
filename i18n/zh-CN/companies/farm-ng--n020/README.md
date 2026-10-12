@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N020` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Farm-ng supplies Amiga as an adopted agricultural education platform in the recurring Farm Robotics Challenge, including CMU's seedling-planting project; university teams retain attachments and task development.

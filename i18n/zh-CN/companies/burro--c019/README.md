@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C019` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Burro provides autonomous transport at Sierra Gold. A named operations manager describes workers using the robots in nursery tasks.

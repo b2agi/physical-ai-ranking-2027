@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N100` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 AeiROBOT and HERoEHS jointly develop ALICE4 walking and competition vision within their humanoid research programme.

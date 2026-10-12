@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P004` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jianyu Chen is the corresponding author of DWL, contributing to its joint research publication.

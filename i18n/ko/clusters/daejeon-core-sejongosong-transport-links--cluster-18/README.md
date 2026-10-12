@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:18` · 순위 18
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Daejeon combines research platforms, technology transfer and robot startups with a physical AI demonstration lab.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P003` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Andrea Thomaz explains choosing interdepartmental item delivery as the hospital robot’s product task.

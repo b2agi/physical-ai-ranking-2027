@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C102` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Waymo operates rider-only passenger services across multiple US regions. Its operating disclosure and California deployment-permit record identify autonomous passenger-service operation.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C069` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 OrionStar CarryBot transports materials between processes at a Yanai Denki factory in Japan.

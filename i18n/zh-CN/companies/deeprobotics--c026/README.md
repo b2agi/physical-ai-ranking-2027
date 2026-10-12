@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C026` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 DEEP Robotics provides the X30 platform behind SPock power-tunnel patrols. SP Group’s operating account and the integrator’s hardware description identify the customer task and platform.

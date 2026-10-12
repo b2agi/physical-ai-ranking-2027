@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N059` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Physical Intelligence’s openpi provides models, checkpoints and documented inference and fine-tuning procedures.

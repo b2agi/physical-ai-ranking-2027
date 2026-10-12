@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C075` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 PUDU CC1 Pro cleans carpets and floors in shared areas of a Walmart US office facility, using navigation and path planning.

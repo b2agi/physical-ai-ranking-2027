@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C063` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Momenta supplies driving intelligence for named production customers including SAIC IM and Lynk.

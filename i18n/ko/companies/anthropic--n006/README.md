@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N006` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Anthropic tested Claude on robotics control tasks using MuJoCo and LIBERO. Its published research records model calls, simulation conditions and failures.

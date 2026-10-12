@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N007` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Apple’s ARMADA research collects manipulation trajectories with AR feedback and replays them on physical robots. ELEGNT adds research on expressive robot movement.

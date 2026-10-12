@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C026` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 DEEP Robotics provides the X30 platform behind SPock power-tunnel patrols. SP Group’s operating account and the integrator’s hardware description identify the customer task and platform.

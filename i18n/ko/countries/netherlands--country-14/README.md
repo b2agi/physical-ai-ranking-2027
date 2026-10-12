@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:14` · 순위 14
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The Netherlands combines a documented warehouse-automation installation with an automation-finance role serving an overseas site.

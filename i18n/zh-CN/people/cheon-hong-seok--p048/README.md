@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P048` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Cheon Hong-seok describes product launches, initial fundraising and donations to medical institutions in a joint interview with Cheon Yeong-seok.

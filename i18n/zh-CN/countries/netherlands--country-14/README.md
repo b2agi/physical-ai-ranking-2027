@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:14` · 排名 14
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The Netherlands combines a documented warehouse-automation installation with an automation-finance role serving an overseas site.

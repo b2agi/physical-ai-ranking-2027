@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N012` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 BeyondHoneycomb develops cooking systems that use AI and sensors to measure and reproduce cooking states.

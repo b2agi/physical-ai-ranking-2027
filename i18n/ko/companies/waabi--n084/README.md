@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N084` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Waabi completed integration with a truck platform confirmed by the OEM, taking its simulation-based model toward physical deployment.

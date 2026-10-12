@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P006` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Daniela Rus supervised Joseph DelPreto's completed doctorate and supported his research direction and lab community.

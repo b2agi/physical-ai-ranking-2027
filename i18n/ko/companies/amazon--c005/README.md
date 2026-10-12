@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C005` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Amazon deploys, tests and expands robotics within its order-fulfillment operations, acting as the customer responsible for logistics tasks.

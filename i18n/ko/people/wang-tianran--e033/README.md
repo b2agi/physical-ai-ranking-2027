@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E033` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Wang Tianran led historical integration of team-developed controllers with purchased robot bodies and pursued factory applications.

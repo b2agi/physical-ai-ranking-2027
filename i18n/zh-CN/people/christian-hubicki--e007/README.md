@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E007` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Christian Hubicki led optimal-control and simulation teaching at IMSI, with links to code and answers for participants.

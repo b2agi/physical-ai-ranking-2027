@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E036` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jung Kim led KAIST’s Robot Valley program, with the university identifying actual startup-competition beneficiaries.

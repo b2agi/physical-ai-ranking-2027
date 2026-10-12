@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C002` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 AgiBot G2 was deployed on Longcheer’s tablet production line, as described in the customer’s account of its production process.

@@ -16,8 +16,6 @@ AMR 컨테이너 운송
 
 `C062` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 MiR250 transports KLT containers at BORG Automotive, with MES completion confirmation. Customer and integrator statements describe the workflow.

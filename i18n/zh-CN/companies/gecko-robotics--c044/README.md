@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C044` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.

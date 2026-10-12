@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C079` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Roborock Saros Z70 recognizes and picks up a limited range of objects while cleaning. A purchaser’s test records both use and failures.

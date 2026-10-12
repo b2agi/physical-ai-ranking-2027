@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I032` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 NHTSA provides public safety-recall reporting, including Waymo's manufacturer-submitted report on an automated-driving flooding hazard.

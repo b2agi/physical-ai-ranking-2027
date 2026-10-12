@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N008` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Apptronik develops Apollo for repetitive manufacturing tasks through Mercedes' production-environment data collection and employee teleoperation-based training.

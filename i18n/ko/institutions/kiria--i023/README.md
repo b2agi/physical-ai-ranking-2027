@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I023` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 KIRIA issued KS certification for a wearable-robot product, confirmed in Hyundai’s announcement.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C104` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 DJI supplies drones used in China Southern Power Grid's route-based inspection. Its later Dock workflow account documents further vendor-reported inspection use in oil and gas.

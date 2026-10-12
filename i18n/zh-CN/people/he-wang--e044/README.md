@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E044` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 He Wang was corresponding author of BODex's joint benchmark, data and code release; UltraDexGrasp documents adapting its code.

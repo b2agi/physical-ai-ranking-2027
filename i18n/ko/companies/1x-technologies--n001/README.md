@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N001` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 1X’s Redwood describes a policy that learns locomotion and manipulation together. NEO’s ordering and support terms provide a separate product-development record.

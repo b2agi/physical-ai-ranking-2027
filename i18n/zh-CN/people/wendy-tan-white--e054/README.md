@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E054` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Wendy Tan White organized shared robotics development through integration of OSRC’s business and staff, with partner use in actual development tasks.

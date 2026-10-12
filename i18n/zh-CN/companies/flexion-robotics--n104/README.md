@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N104` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Flexion’s June 2026 Reflect v1.0 report describes a humanoid retrieving a parcel, navigating between floors and interacting with doors and elevators. Learned motion policies and whole-body control connect those steps into a research demonstration.

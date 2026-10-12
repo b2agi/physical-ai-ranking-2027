@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C048` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 HAI Robotics supplies ACR and AMR warehouse systems, including a Hyundai Mobis application.

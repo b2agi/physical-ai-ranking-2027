@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C094` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Syrius provides picking-assistance AMRs through Syrius Japan and ROBOCREW at STOCKCREW. The customer announced completed trials and full deployment beginning in 2022.

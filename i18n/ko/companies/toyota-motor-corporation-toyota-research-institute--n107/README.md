@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N107` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Toyota Research Institute jointly develops language-conditioned large behavior models with Boston Dynamics. The partners connect teleoperated training data to physical Atlas manipulation and recovery tests.

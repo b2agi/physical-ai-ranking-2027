@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I004` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 BIGAI co-authored RoboVerse, with RLinf documenting its integration into research workflows.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C047` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 GXO operates Digit at its SPANX site, integrating tote transfers with existing mobile robots and conveyors under a multiyear RaaS agreement.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:13` · 排名 13
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Odense provides shared supply and development sites for mobile and collaborative robots.

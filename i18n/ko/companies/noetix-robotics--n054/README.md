@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N054` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Noetix publishes N2 reinforcement-learning code, model export and sim-to-sim procedures.

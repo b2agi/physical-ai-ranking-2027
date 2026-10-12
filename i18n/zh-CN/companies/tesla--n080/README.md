@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N080` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Tesla’s Q2 2026 materials describe Optimus production-line installation, training-data collection and autonomy-compute infrastructure.

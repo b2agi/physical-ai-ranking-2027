@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C008` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 ANYmal applies learned control to industrial inspection. ANYbotics describes customer operations using the robots.

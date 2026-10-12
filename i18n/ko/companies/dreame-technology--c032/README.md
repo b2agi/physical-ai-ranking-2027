@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C032` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Dreame X40 Master performs navigation, obstacle recognition and floor cleaning in a hands-on review that also records recognition errors.

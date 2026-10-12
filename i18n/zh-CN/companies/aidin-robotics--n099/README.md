@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N099` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 AIDIN supplies AFT200 force/torque sensing used in demonstration capture and physical Franka manipulation research.

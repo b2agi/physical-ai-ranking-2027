@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N111` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Hello Robot maintains the developing Stretch AI integration for language-directed mobile manipulation, connecting semantic memory, navigation and task execution. Its team reports physical pick-and-place demonstrations; inherited Meta HomeRobot and other research methods retain their original attribution.

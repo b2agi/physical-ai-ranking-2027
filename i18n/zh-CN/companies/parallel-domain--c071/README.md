@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C071` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Parallel Domain supplies synthetic perception-training data used by named organizations including Google, Woven and Toyota Research Institute.

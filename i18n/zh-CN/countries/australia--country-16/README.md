@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:16` · 排名 16
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Australia hosts autonomous construction at a solar site and shared physical testing by public research teams.

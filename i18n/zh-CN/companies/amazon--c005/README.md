@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C005` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Amazon deploys, tests and expands robotics within its order-fulfillment operations, acting as the customer responsible for logistics tasks.

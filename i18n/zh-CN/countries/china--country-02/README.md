@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:02` · 排名 2
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 China combines sensing, robot hardware and electronics manufacturing with product development and dense supply chains. Industrial-robot demand supports this manufacturing base.

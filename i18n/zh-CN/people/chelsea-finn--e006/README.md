@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E006` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Chelsea Finn contributed policy training and research to pi0.5.

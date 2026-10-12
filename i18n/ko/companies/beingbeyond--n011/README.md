@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N011` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 BeingBeyond trains robot behavior from human video. Being-H0.5 reports tests on five robot platforms, and its repository provides an SO101 deployment procedure.

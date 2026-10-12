@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E032` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Xiong Rong guided Zhejiang University's robotics competition training and its ZJUNlict student team.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P047` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Kyu-Jin Cho served as corresponding author on a folding drone arm and explained its variable-stiffness design.

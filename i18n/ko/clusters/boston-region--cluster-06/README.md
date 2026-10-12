@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:06` · 순위 6
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Greater Boston combines robot research, hardware companies and shared experimental space, with documented links to customer logistics.

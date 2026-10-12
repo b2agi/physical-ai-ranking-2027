@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E029` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Zhang Jianwei coordinated the six-institution RACE robotics consortium from December 2011 to November 2014.

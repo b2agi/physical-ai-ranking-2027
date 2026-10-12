@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C099` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 XYZ Robotics supplied RockyOne for unloading at Nitori Home Logistics' Satte site, with the supplier reporting stable operational pilots and announcing expansion.

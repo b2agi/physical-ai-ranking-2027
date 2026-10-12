@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P015` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Karol Hausman contributed robot infrastructure and writing to pi0.5.

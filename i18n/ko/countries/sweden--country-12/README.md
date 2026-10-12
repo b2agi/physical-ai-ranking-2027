@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:12` · 순위 12
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.

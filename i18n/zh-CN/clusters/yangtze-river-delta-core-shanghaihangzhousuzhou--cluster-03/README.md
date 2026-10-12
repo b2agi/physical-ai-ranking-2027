@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:03` · 排名 3
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The cluster brings Shanghai’s training infrastructure and Hangzhou’s robots and physical-system research into one analytical region, tracing research into product development.

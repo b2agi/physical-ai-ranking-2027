@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E020` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Pieter Abbeel repeatedly provided robotics-control education with documented student activities.

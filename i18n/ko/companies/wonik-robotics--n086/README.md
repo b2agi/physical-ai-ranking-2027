@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N086` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Wonik’s Allegro V6 F adds contact sensing and a control interface, extending its hand platform for learning-data development.

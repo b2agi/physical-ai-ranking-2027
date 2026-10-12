@@ -2,17 +2,15 @@
 
 ![城市与产业集群 Top 20](../../assets/cluster-atlas-overview-zh-CN.png)
 
-考察研究人员、工程师、供应商与客户相互连接的20个产业区域。分析区域的规模和边界不同，具体活动地点在各条目中单独说明。
+选取20个连接研究、制造与客户应用的产业区域。各区域边界不同，具体活动地点见各条目。
 
-2027版 · 评估基准为2026年10月。国家与集群采用定性排名，其他类别按贡献选录。ID为固定标识。
+2027版 · 2026年10月评估 · 定性排名
 
-本版提供中文名称、贡献说明与检索目录。入选依据与证据范围保留英文原文，封面沿用B2AGI既有作品、标识与人物肖像。
+入选依据与证据范围：英文原文。
 
 ### 推荐阅读条目
 
 [珠三角核心区（深圳—东莞）](clusters/pearl-river-delta-core-shenzhendongguan--cluster-01/README.md) · [旧金山湾区](clusters/san-francisco-bay-area--cluster-02/README.md) · [长三角核心区（上海—杭州—苏州）](clusters/yangtze-river-delta-core-shanghaihangzhousuzhou--cluster-03/README.md)
-
-
 
 | 排名 | 名称 | 贡献与角色 |
 | --- | --- | --- |

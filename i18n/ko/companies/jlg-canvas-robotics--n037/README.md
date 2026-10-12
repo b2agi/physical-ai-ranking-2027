@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N037` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 JLG acquired Canvas core technology and integrated its team, carrying forward construction-robotics capabilities through a completed technology transfer.

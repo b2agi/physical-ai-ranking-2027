@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E003` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Andra Keay provided advice, community connections and sustained support described in Women in Robotics records and Sue Keay’s account.

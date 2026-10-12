@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:17` · 排名 17
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The Waterloo core brings industrial AMR products into large-scale automation integration and services.

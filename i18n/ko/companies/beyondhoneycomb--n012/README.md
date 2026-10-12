@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N012` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 BeyondHoneycomb develops cooking systems that use AI and sensors to measure and reproduce cooking states.

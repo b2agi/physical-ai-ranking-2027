@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C025` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Covariant Brain supports everyday learned picking and sorting at Radial’s TradePort2 facility in Louisville.

@@ -16,8 +16,6 @@ AI 기반 음료 조작
 
 `N066` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Richtech’s ADAM uses vision and control AI to observe drinks and adjust movement and pouring, as described in its FY2025 filing and later development announcement.

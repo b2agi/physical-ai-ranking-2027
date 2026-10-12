@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N083` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Vueron describes road tests with defined US routes and safety-driver conditions, alongside a documented 2021 Korean trial.

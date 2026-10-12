@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:15` · 순위 15
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Aichi provides robot testing and support facilities serving manufacturing development.

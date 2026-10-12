@@ -16,8 +16,6 @@ LiDAR(라이다) 부품
 
 `C049` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Hesai’s Pandar sensors are used on WeRide vehicles. Supplier materials include the customer’s account of sensor adoption.

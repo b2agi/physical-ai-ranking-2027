@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N017` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Elephant Robotics supplies arms and AI kits used in named university teaching and physical student projects.

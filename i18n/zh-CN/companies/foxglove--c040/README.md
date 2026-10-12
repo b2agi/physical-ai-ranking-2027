@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C040` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Foxglove provides development and operating-log tools used by Square Robot for field analysis.

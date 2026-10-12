@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N036` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 JD.com’s JoyAI-RA research describes learning from multiple data sources and evaluation in simulation and physical benchmarks.

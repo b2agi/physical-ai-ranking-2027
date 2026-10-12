@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E004` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Ayanna Howard describes founding Zyrobotics after NSF I-Corps participation and licensing laboratory technology into STEM products for children.

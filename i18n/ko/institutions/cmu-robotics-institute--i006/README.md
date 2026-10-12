@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I006` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 CMU’s Robotics Institute supports robotics research and education. Its NREC partnered with Carnegie Robotics to commercialize robotic components and systems.

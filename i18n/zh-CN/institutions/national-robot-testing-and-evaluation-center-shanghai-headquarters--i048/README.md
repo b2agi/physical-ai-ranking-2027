@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I048` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The National Robot Testing and Evaluation Center's Shanghai headquarters issued CR certification for AgiBot Genie G2 through Shanghai Robot Industry Technology Research Institute.

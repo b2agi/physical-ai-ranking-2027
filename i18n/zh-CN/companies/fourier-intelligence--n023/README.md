@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N023` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Fourier publishes GRx code connecting reinforcement-learning training, MuJoCo validation and physical-robot deployment.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I012` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Harvard Wyss and SEAS researchers developed personalized soft-exosuit assistance from muscle ultrasound and tested it across walking speeds and inclines. Wyss also records technology licensing to ReWalk.

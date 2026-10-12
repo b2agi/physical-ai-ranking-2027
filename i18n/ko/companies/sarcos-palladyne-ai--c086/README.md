@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C086` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Palladyne AI supplies learned software for automated surface preparation at Warner Robins. A named customer describes completion of the first contract phase.

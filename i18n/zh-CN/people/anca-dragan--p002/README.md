@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P002` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Anca Dragan’s dissertation incorporates an observer’s inference of intent into motion planning and evaluates physical collaboration.

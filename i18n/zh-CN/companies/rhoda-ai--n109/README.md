@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N109` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Rhoda tests how web-video pretraining affects robot-policy performance in industrial bearing unpacking. Its physical evaluation connects model choices to a defined multistep handling task.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E016` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Li Zexiang connects practical education with startup mentoring, early capital and supply-chain support through documented ecosystem-building work.

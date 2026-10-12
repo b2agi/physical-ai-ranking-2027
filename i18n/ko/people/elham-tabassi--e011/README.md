@@ -16,8 +16,6 @@ AI 리스크 관리 프레임워크
 
 `E011` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Elham Tabassi authored NIST’s publicly available AI RMF 1.0, providing risk-management language reusable in Physical AI procurement and trust discussions.

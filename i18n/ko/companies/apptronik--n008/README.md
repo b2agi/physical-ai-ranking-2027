@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N008` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Apptronik develops Apollo for repetitive manufacturing tasks through Mercedes' production-environment data collection and employee teleoperation-based training.

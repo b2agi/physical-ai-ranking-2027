@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N103` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Standard Bots combines physical robots with development and education packages, extending its equipment offering toward learning from demonstrations.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C097` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Viam provides fleet data, status checks and code deployment for Tennibot. Named customer leaders describe practical use.

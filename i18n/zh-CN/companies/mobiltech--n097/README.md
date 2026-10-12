@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N097` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Mobiltech supplies documented 3D spatial assets and links them to named test grounds and simulators.

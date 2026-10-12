@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N085` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 WIRobotics publishes MJCF, URDF and USD models, replay examples and evaluation procedures for its v2 research prototype.

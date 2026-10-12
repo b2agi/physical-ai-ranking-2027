@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P024` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Peng Zhihui led X-Lab development associated with the 2025 X2 release.

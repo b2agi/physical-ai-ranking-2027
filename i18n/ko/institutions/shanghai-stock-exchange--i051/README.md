@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I051` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Shanghai Stock Exchange provided market access for welding-robot issuer Kaierda, with trading beginning on 2021-10-25 under 688255.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P029` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Ding Han led a project on robotic machining of large complex surfaces, with documented joint development and industrial application pathways.

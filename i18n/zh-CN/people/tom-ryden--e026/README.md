@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E026` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Tom Ryden took on operations supporting shared facilities, programs and resident companies at MassRobotics.

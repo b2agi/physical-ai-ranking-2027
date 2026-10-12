@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C076` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Quicktron M-Series moves shelves in Coupang’s goods-to-person workflow. RCS and higher-level systems allocate warehouse tasks.

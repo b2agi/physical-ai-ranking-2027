@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N086` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Wonik’s Allegro V6 F adds contact sensing and a control interface, extending its hand platform for learning-data development.

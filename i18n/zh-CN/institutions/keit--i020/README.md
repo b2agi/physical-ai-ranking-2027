@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I020` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KEIT supported humanoid balance-recovery research whose paper identifies the funded project and partial support.

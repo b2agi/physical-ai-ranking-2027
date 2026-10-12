@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I014` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 HKEX and HKSCC provided listing and clearing access used by UBTECH, whose listing began on 2023-12-29.

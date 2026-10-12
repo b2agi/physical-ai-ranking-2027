@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E049` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Qin Xiugong co-drafted a foundational standard whose terminology was reused in T/CESA 1450-2025.

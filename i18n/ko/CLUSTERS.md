@@ -2,17 +2,15 @@
 
 ![도시·산업 클러스터 Top 20](../../assets/cluster-atlas-overview-ko.png)
 
-연구자·엔지니어·공급사·고객이 연결되는 산업권 20곳을 살핀다. 분석 권역의 크기와 경계가 서로 다르므로 실제 활동 장소는 각 프로필에서 확인한다.
+연구와 제조, 고객 도입이 만나는 산업권 20곳을 다룬다. 권역마다 범위가 다르므로 프로필에 실제 활동 장소를 따로 적었다.
 
-2027판 · 평가 기준 2026년 10월. 국가·클러스터는 정성 순위, 나머지는 기여별 선정 목록이다. ID는 고정 식별자다.
+2027판 · 2026년 10월 평가 · 정성 순위
 
-이 판은 이름·기여·탐색을 한국어로 제공한다. 선정 근거와 근거 범위는 영문 원문을 유지한다. 표지는 기존 B2AGI 작품·로고·초상을 활용했다.
+선정 근거·근거 범위: 영문 원문.
 
 ### 먼저 읽을 사례
 
 [주강삼각주 핵심—선전·둥관](clusters/pearl-river-delta-core-shenzhendongguan--cluster-01/README.md) · [샌프란시스코 베이 에어리어](clusters/san-francisco-bay-area--cluster-02/README.md) · [장강삼각주 핵심 — 상하이·항저우·쑤저우](clusters/yangtze-river-delta-core-shanghaihangzhousuzhou--cluster-03/README.md)
-
-
 
 | 순위 | 이름 | 기여·역할 |
 | --- | --- | --- |

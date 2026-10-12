@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:06` · 排名 6
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Greater Boston combines robot research, hardware companies and shared experimental space, with documented links to customer logistics.

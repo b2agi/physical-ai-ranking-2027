@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:14` · 순위 14
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Seattle’s corporate and development network includes large logistics adopters and robot operating-data tools.

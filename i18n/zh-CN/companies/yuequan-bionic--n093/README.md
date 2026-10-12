@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N093` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Yuequan Bionic’s hand prototype performed movements observed in an exhibition report.

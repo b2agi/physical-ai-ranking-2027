@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N044` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Machina Labs combines closed-loop forming with scan-based correction, including a Toyota demonstration pathway.

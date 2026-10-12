@@ -16,8 +16,6 @@ MES와 AMR의 통합
 
 `C083` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Rockwell integrates MES with OTTO transport at its Twinsburg factory, dispatching moves from production orders.

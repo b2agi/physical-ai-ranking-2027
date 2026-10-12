@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C065` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 NAVER and NAVER LABS operate repeated internal deliveries at 1784, integrating robots with the building and elevators.

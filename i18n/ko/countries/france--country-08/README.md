@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:08` · 순위 8
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 France provides open robot-learning tools and develops general-purpose manipulation models alongside hardware integrations.

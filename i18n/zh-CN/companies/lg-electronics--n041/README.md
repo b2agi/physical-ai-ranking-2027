@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N041` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 LG’s CLOiD development combines VLM and VLA systems with a wheeled, dual-arm structure for household tasks and appliance integration.

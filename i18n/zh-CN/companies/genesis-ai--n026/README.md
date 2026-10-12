@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N026` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Genesis AI describes GENE-26.5 physical manipulation demonstrations and its data and hand architecture.

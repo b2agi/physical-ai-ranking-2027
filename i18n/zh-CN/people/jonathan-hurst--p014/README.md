@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P014` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jonathan Hurst explains Cassie’s design choices, including changes to motor interaction, steering, feet and enclosure compared with ATRIAS.

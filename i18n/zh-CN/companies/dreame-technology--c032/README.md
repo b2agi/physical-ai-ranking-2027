@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C032` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Dreame X40 Master performs navigation, obstacle recognition and floor cleaning in a hands-on review that also records recognition errors.

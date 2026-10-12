@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:04` · 순위 4
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Beijing brings robot-learning resources, developers, district-level driving trials and growth funding into the same regional network.

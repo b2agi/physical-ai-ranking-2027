@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P027` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Sergey Levine co-authored learned visual-feedback grasping research and explained its use of large-scale physical interaction in a signed Google research article.

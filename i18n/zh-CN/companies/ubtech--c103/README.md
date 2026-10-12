@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C103` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 UBTECH reports industrial humanoid production and delivery for automotive-factory handling, sorting and inspection. Its selected contribution is the supply of robots for those tasks.

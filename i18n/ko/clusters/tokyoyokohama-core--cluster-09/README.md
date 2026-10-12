@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:09` · 순위 9
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The Tokyo-centered region brings control and robotics companies together with capital and testing access.

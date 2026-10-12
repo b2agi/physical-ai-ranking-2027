@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C006` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 AmbiSort applies Sim2Real technology to logistics sorting. Pitney Bowes describes using the system in customer statements published with the product materials.

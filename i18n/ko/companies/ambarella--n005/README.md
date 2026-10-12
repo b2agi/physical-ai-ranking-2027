@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N005` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Ambarella supplies CV72 inference computing for e-con's ROS 2 rover demonstration of object search, approach, alignment and imaging. The partners' selected robotics integration remains a development contribution.

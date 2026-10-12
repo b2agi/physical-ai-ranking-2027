@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N016` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 DEEPX develops robotics inference computing with Hyundai Motor Group’s Robotics Lab. Hyundai material connects earlier edge-brain work with DAL-e demonstrations, while DX-M2 defines a further development path.

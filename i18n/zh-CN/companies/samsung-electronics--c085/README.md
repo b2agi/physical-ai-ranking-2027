@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C085` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Samsung’s filings document acquisition of control over Rainbow Robotics and its consolidation into the group.

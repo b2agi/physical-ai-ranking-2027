@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N073` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Skild develops robot manipulation through tests and partner pilots. Zebra announced the sale of its Robotics Automation business to Skild in April 2026.

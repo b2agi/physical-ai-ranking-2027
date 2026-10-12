@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N039` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KNOWIN’s GLOW report describes a model and real-robot one-shot and closed-loop evaluations.

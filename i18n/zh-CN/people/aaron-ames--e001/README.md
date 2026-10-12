@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E001` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Aaron Ames co-authored FROST with Hereid, providing a public MATLAB tool for gait planning.

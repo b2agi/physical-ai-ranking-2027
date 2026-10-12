@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N110` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 RIVR develops wheeled-legged robots for parcel delivery with Veho. The customer's initial field experiment tests stairs, gates and uneven sidewalks while staff accompany the robot and collect learning data.

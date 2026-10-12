@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N103` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Standard Bots combines physical robots with development and education packages, extending its equipment offering toward learning from demonstrations.

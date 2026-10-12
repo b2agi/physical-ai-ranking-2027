@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N010` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Autodesk combines planning and reinforcement learning in physical dual-arm assembly research.

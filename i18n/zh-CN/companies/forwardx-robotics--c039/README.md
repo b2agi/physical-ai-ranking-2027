@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C039` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 ForwardX Flex assists picking in Li & Fung’s IKEA e-commerce warehouse. Its product materials describe visual perception and movement responses.

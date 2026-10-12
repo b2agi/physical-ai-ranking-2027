@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P041` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Leng Xiaokun describes reinvesting income from smaller products into large-robot research.

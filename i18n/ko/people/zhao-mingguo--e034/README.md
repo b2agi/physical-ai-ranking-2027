@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E034` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Zhao Mingguo's team developed vision-driven reactive soccer research; Zhao served as corresponding author and Wang Yushi as first author.

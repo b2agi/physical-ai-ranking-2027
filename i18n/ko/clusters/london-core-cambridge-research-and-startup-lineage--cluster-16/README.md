@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:16` · 순위 16
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 London develops action models, robot learning and vehicle systems toward physical products, with Cambridge represented through its research and founding lineage.

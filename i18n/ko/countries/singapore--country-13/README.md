@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:13` · 순위 13
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Singapore brings foreign robot hardware into power-tunnel inspection through local integration and operation.

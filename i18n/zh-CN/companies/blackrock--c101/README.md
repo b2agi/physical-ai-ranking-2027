@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C101` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 BlackRock operates RBOT as an investment route into listed robotics and automation companies.

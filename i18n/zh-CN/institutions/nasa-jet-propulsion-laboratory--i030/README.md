@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I030` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 JPL built and operated a Mars rover whose records describe autonomous perception, planning and physical driving.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C022` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Cognex supplies neural-network-based vision for industrial inspection. Its filings document a perception role within production processes.

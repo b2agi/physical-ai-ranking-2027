@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:04` · 순위 4
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Japan brings perception and motion generation into established manufacturing processes, building on robotics and precision-control capabilities.

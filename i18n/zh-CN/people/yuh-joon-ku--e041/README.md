@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E041` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Yuh Joon-ku co-edited a research-direction workshop report, providing a historical public research and education resource.

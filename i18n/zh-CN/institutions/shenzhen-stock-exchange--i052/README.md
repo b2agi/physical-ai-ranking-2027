@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I052` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Shenzhen Stock Exchange provided listing and new-share fundraising access for industrial automation issuer Estun under 002747.

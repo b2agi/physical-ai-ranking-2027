@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:13` · 排名 13
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Singapore brings foreign robot hardware into power-tunnel inspection through local integration and operation.

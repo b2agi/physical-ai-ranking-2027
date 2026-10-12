@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N031` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Helm.ai develops driving models under a collaboration whose scope and application pathway are confirmed by a named OEM.

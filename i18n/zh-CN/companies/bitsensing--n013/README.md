@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N013` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 bitsensing’s pilot material describes an actual road shuttle at FIX 2025.

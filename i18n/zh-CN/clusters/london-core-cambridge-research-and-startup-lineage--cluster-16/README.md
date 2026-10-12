@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:16` · 排名 16
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 London develops action models, robot learning and vehicle systems toward physical products, with Cambridge represented through its research and founding lineage.

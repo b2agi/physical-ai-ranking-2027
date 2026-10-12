@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I017` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 ISO/TC 299 develops shared robotics standards through published outputs, participating countries and industrial organizations.

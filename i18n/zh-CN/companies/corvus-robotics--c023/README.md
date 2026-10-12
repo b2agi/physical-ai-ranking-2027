@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C023` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Corvus supplies inventory drones used at multiple MSI Surfaces warehouse sites.

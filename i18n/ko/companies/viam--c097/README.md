@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C097` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Viam provides fleet data, status checks and code deployment for Tennibot. Named customer leaders describe practical use.

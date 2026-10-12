@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P051` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nikita Rudin co-authored a massively parallel locomotion-training approach and curriculum evaluated on ANYmal and transferred to a physical robot.

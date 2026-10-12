@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N029` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Google DeepMind’s Gemini Robotics On-Device combines a local model, SDK and physical adaptation tests.

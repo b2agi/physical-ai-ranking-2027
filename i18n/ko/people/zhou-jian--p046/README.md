@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P046` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Zhou Jian decided to fund and continue large-humanoid research in 2015 despite internal objections, according to a retrospective account.

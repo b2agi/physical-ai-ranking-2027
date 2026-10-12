@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N003` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Aigen’s Element began use at the named Bowles farm. Customer quotations describe early evaluation in the field.

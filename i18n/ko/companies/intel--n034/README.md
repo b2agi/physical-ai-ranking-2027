@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N034` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Intel contributes Loihi 2 computing to joint NRL/Intel research converting a reinforcement-learning controller into neuromorphic inference for Astrobee simulation.

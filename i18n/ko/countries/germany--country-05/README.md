@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:05` · 순위 5
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Germany brings industrial customers, intelligent integration providers and external testing and approval into the same deployment pathway.

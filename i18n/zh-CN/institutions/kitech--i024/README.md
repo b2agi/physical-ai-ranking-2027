@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I024` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KITECH researchers connected a physical robot with Isaac Sim and compared forward motion, turning and LiDAR messages.

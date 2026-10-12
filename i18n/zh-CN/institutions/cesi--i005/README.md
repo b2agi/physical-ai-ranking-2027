@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I005` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.

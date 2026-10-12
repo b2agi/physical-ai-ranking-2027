@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P021` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Nick Paine’s dissertation documents UT-SEA design and control research, including application of some control methods to Valkyrie.

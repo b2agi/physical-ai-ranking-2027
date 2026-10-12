@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C030` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Diligent Robotics’ Moxi handles hospital deliveries. CHLA documents repeated deliveries and use by its hospital teams.

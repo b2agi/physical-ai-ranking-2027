@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N002` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Aeva’s Eve sensing technology is integrated into a SICK sensor product described in a launch announcement.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C070` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 OSARO provides learned vision and control for Zenni packaging, with later records describing transition into production.

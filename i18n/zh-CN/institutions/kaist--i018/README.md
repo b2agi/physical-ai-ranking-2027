@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I018` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KAIST’s HUBO platform supports outside research and education. Drexel describes using HUBO Lab hardware and student software in performances and joint research.

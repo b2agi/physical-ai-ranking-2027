@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:20` · 排名 20
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Austin-based Apptronik develops Apollo through Mercedes customer trials and growth financing. The customer trials took place in Germany.

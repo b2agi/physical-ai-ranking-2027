@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N109` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Rhoda tests how web-video pretraining affects robot-policy performance in industrial bearing unpacking. Its physical evaluation connects model choices to a defined multistep handling task.

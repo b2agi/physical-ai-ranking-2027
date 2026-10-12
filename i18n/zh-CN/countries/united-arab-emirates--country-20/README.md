@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:20` · 排名 20
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.

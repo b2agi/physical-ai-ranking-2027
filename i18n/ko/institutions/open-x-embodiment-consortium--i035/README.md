@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I035` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Open X-Embodiment provides shared data formats and RT-X models used by multiple laboratories in physical-robot evaluations.

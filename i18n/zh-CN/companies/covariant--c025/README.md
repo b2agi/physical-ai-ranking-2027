@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C025` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Covariant Brain supports everyday learned picking and sorting at Radial’s TradePort2 facility in Louisville.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N101` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Black Sesame reports initial supply of its Aura development kit, extending automotive computing toward robotics development.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N111` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Hello Robot maintains the developing Stretch AI integration for language-directed mobile manipulation, connecting semantic memory, navigation and task execution. Its team reports physical pick-and-place demonstrations; inherited Meta HomeRobot and other research methods retain their original attribution.

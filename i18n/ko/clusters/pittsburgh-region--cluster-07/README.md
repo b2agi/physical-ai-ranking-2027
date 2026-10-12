@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:07` · 순위 7
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Pittsburgh translates research into company technology transfer and manufacturing demonstrations.

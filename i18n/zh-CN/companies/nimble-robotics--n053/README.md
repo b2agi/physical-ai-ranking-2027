@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N053` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Nimble supplies robotic fulfillment used by named brands for picking, packing and shipping; later alliance plans extend that operating contribution.

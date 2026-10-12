@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C094` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Syrius provides picking-assistance AMRs through Syrius Japan and ROBOCREW at STOCKCREW. The customer announced completed trials and full deployment beginning in 2022.

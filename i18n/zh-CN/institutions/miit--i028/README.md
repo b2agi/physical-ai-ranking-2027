@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I028` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 MIIT jointly implemented selection and dissemination of 2024 mining-robot applications under the Robot+ plan.

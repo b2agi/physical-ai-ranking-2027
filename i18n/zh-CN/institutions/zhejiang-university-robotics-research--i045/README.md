@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I045` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Zhejiang University provided robotics education using two Jueying robots brought by project leader Zhu Qiuguo for a completed course in September 2021.

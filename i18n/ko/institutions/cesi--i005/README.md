@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I005` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N037` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 JLG acquired Canvas core technology and integrated its team, carrying forward construction-robotics capabilities through a completed technology transfer.

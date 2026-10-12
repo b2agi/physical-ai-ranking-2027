@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C080` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 ROBOTIS supplies actuators and physical platforms used in research and education, including dual-arm learning work.

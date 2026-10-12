@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N065` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Reliable Robotics tested sensor tracking and ACAS-Xr alerts in actual flight for detect-and-avoid development.

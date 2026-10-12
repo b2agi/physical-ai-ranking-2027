@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I007` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 DARPA’s SubT competition provided shared physical test environments and tasks used by teams including CSIRO Data61, Emesent and Georgia Tech.

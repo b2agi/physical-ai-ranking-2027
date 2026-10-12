@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:09` · 排名 9
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The Tokyo-centered region brings control and robotics companies together with capital and testing access.

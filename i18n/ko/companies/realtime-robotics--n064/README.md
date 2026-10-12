@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N064` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Realtime Robotics applied motion-planning tools in a Volkswagen cell proof of concept and described resulting adjustments.

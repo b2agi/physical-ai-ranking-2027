@@ -16,8 +16,6 @@ AI 제조 통합
 
 `N035` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Intrinsic integrates perception and path planning into TRUMPF’s SortMaster Vision development.

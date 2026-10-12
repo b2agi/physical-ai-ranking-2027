@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C051` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Hyundai Motor Group completed its controlling investment in Boston Dynamics in 2021. The joint announcement recorded an 80% group stake at closing.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N018` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 EngineAI publishes PM01 reinforcement-learning training, simulation validation and physical deployment procedures.

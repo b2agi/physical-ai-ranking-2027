@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N072` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Shadow Robot co-developed DEX-EE hardware with DeepMind and supplies the released standard research hand used in DeepMind's DemoStart experiments. Hardware development and supply retain joint credit; DeepMind retains its learning method.

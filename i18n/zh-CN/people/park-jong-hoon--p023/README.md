@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P023` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Park Jong Hoon describes choosing vertical integration after encountering limits in demand.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P012` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jeff Cardenas describes a funding strategy focused on development and early entry into industrial customer applications.

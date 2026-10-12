@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N033` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Honda describes a dexterous hand using intent estimation and contact feedback, including repeated learning of screwdriver regrasping.

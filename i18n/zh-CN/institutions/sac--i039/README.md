@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I039` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.

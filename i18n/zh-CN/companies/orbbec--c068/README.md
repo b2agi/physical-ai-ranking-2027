@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C068` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Orbbec’s Gemini 336L supplies RGB and depth streams for Quasi Model C2. A customer engineer describes SDK integration into Q.AI.

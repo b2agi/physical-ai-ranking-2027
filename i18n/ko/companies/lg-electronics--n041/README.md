@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N041` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 LG’s CLOiD development combines VLM and VLA systems with a wheeled, dual-arm structure for household tasks and appliance integration.

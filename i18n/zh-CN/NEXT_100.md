@@ -2,17 +2,15 @@
 
 ![企业 Next 100](../../assets/next-100-overview-zh-CN.png)
 
-关注处于开发、原型测试或研究验证阶段的机器人产品、动作模型与应用。分类针对所选贡献，不代表企业的全部业务。
+收录处于开发、原型测试或研究验证阶段的产品、动作模型与应用。Current与Next的划分针对本次收录的贡献，不代表企业全部业务所处的阶段。
 
-2027版 · 评估基准为2026年10月。国家与集群采用定性排名，其他类别按贡献选录。ID为固定标识。
+2027版 · 2026年10月评估 · 按贡献选录 · ID不代表排名。
 
-本版提供中文名称、贡献说明与检索目录。入选依据与证据范围保留英文原文，封面沿用B2AGI既有作品、标识与人物肖像。
+入选依据与证据范围：英文原文。
 
 ### 推荐阅读条目
 
 [Tesla](companies/tesla--n080/README.md) · [Google DeepMind](companies/google-deepmind--n029/README.md) · [Physical Intelligence](companies/physical-intelligence--n059/README.md)
-
-
 
 | ID | 名称 | 贡献与角色 |
 | --- | --- | --- |

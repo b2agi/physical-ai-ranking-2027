@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C076` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Quicktron M-Series moves shelves in Coupang’s goods-to-person workflow. RCS and higher-level systems allocate warehouse tasks.

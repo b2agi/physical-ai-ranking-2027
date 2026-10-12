@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N036` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 JD.com’s JoyAI-RA research describes learning from multiple data sources and evaluation in simulation and physical benchmarks.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P047` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Kyu-Jin Cho served as corresponding author on a folding drone arm and explained its variable-stiffness design.

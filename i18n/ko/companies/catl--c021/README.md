@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C021` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 CATL describes deploying Galbot S1 on module and battery-pack production lines. Its contribution combines customer adoption with battery supply for robotics.

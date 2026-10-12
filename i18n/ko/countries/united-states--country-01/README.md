@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:01` · 순위 1
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The United States brings general-purpose models and robotics platforms into named customer tasks, supported by growth capital and operating records.

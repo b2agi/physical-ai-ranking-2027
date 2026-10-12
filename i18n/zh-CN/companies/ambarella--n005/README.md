@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N005` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Ambarella supplies CV72 inference computing for e-con's ROS 2 rover demonstration of object search, approach, alignment and imaging. The partners' selected robotics integration remains a development contribution.

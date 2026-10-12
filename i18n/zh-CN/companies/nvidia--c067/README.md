@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C067` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 NVIDIA’s Isaac Sim, Isaac Lab and GR00T support robot simulation, learning and deployment. Its May 2025 announcement names platform users including Agility, Boston Dynamics and Galbot.

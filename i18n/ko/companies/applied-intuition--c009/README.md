@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C009` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Applied Intuition supplies vehicle simulation and testing software. TRATON confirms their existing collaboration on development tools.

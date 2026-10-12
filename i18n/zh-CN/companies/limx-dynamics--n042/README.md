@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N042` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 LimX publishes development tools and robot-specific execution procedures for hardware-linked engineering. In a separate humanoid navigation demonstration, RealSense supplies RGB-D camera input, NVIDIA supplies cuVSLAM odometry and LimX integrates the navigation system.

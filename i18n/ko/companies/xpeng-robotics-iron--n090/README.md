@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N090` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 XPENG describes IRON’s physical autonomous walking, onboard model and production-line development.

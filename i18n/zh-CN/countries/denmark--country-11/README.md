@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:11` · 排名 11
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Denmark supplies AMRs for transport and collaborative robots for AI greenhouse harvesting, with named customer tasks.

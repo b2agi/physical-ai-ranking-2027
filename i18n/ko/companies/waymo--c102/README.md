@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C102` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Waymo operates rider-only passenger services across multiple US regions. Its operating disclosure and California deployment-permit record identify autonomous passenger-service operation.

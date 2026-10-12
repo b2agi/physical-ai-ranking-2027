@@ -16,8 +16,6 @@ AI 制造集成
 
 `N035` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Intrinsic integrates perception and path planning into TRUMPF’s SortMaster Vision development.

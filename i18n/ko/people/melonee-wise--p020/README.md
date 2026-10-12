@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P020` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Melonee Wise describes building and reorganizing Agility’s engineering and product teams, alongside technology-roadmap work at Zebra.

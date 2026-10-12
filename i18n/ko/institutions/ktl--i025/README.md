@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I025` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 KTL provided testing used by Dari Technology, whose history records wearable-robot IP55, payload and weight test reports.

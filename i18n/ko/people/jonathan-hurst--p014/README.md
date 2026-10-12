@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P014` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Jonathan Hurst explains Cassie’s design choices, including changes to motor interaction, steering, feet and enclosure compared with ATRIAS.

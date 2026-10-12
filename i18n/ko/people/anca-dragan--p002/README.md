@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P002` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Anca Dragan’s dissertation incorporates an observer’s inference of intent into motion planning and evaluates physical collaboration.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C020` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Carbon Robotics uses plant recognition to guide LaserWeeder’s laser weeding. Named farms describe using the equipment.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P022` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Oussama Khatib led OceanOne research and contributed to a remotely operated underwater recovery task.

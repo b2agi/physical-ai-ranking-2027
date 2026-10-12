@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N112` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Wayve's LINGO-2 research model jointly predicts driving trajectories and commentary, with a closed-loop Central London public-road demonstration. Separate Ghost Gym trials compare manoeuvres under different language prompts; explanation/action alignment and reliable real-world language control remain research questions.

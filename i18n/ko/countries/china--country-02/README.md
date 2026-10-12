@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:02` · 순위 2
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 China combines sensing, robot hardware and electronics manufacturing with product development and dense supply chains. Industrial-robot demand supports this manufacturing base.

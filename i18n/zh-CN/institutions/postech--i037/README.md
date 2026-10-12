@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I037` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 POSTECH's Keehoon Kim and Jaewon Byun co-developed hospital disinfection robotics with KIST, KIRO, Elphoton and Pohang St. Mary's Hospital.

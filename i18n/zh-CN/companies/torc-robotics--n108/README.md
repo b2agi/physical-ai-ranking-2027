@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N108` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Torc validates a highway-freight driving system using production-intent hardware in driver-out closed-course tests. Its public-road testing and commercial-launch target describe a continuing development programme.

@@ -16,8 +16,6 @@ AI 饮料操作
 
 `N066` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Richtech’s ADAM uses vision and control AI to observe drinks and adjust movement and pouring, as described in its FY2025 filing and later development announcement.

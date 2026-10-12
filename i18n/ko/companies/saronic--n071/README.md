@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N071` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Saronic’s Corsair completed multi-day trials described as funded by the company’s own research and development budget.

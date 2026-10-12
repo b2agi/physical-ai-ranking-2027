@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:02` · 순위 2
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The Bay Area combines model and robotics-platform development with Berkeley's robot-learning education and Stanford's shared physical research facilities. Reusable software and product companies connect research to physical systems.

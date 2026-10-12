@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C004` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Digit transfers totes to a conveyor at GXO’s SPANX distribution center. GXO announced the deployment and a multiyear service agreement in 2024.

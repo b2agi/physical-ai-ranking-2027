@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C046` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 GelSight supplies the Mini sensor used by Politecnico di Milano researchers to acquire tactile measurements on industrial components with a FANUC collaborative robot. The researchers retain the anomaly-detection methods and evaluation.

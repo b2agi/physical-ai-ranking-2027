@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N071` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Saronic’s Corsair completed multi-day trials described as funded by the company’s own research and development budget.

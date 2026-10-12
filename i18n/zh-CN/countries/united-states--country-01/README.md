@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:01` · 排名 1
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The United States brings general-purpose models and robotics platforms into named customer tasks, supported by growth capital and operating records.

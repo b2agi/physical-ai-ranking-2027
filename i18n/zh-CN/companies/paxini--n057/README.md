@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N057` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 PaXini describes tactile-feedback control for DexH13 grasping and handle manipulation, and TORA-ONE cup and wafer tasks.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C037` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Flexiv’s delivered Rizon 4 solution locates fish fillets on a moving conveyor and shapes them using force control.

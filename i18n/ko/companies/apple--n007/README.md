@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N007` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Apple’s ARMADA research collects manipulation trajectories with AR feedback and replays them on physical robots. ELEGNT adds research on expressive robot movement.

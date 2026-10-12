@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N011` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 BeingBeyond trains robot behavior from human video. Being-H0.5 reports tests on five robot platforms, and its repository provides an SO101 deployment procedure.

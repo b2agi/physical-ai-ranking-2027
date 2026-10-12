@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N019` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Faraday Dynamics develops Direct Drive and QDD actuator components, with sample fabrication and trial-production history described in an event profile.

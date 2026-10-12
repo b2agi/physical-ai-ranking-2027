@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I022` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KIAT funded project P0014166, whose researchers reported implementation and experiments on a robotics safety testbed.

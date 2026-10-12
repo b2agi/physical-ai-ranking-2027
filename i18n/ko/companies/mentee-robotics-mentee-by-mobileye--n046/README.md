@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N046` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Mentee describes observation, offline reinforcement learning and physical execution for battery replacement and handing over cans.

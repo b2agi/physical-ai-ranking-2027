@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N089` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Xiaomi publishes model and code paths for physical tasks including LEGO disassembly and towel folding.

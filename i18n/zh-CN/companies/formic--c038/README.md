@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C038` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Formic supplies vision-based packaging and palletizing as a service. Its product account includes customers describing active production use.

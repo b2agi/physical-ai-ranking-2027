@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P024` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Peng Zhihui led X-Lab development associated with the 2025 X2 release.

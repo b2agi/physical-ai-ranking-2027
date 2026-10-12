@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P006` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Daniela Rus supervised Joseph DelPreto's completed doctorate and supported his research direction and lab community.

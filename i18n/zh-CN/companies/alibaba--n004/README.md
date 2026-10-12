@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N004` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Alibaba’s RynnBrain release provides model and code resources, with VLA transfer reported on G1, Astribot and Tianji-Wuji platforms.

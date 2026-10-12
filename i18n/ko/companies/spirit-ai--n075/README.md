@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N075` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Spirit provides documentation for fine-tuning PI05 and deploying inference on a physical Moz robot.

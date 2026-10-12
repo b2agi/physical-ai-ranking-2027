@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P017` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Jim Fan co-led Eureka and served as corresponding author on research generating and optimizing reward code for robot learning.

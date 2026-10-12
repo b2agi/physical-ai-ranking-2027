@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N079` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Tencent’s platform describes model and RoboFusion components used in a Unitree G1 trial at Dunhuang’s digital exhibition center.

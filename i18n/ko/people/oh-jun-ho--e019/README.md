@@ -16,8 +16,6 @@ DRC-HUBO 공동 연구 리더십
 
 `E019` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Oh Jun Ho co-led Team KAIST with In So Kweon and Rainbow researchers in the 2015 DARPA Robotics Challenge.

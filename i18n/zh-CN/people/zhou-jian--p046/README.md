@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P046` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Zhou Jian decided to fund and continue large-humanoid research in 2015 despite internal objections, according to a retrospective account.

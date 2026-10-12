@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E044` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 He Wang was corresponding author of BODex's joint benchmark, data and code release; UltraDexGrasp documents adapting its code.

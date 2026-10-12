@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E012` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Erico Guizzo co-created the concept and content of Robots Guide, providing an editorial route into robotics knowledge.

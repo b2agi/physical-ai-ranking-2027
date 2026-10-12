@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P023` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Park Jong Hoon describes choosing vertical integration after encountering limits in demand.

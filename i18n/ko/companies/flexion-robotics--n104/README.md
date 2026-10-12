@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N104` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Flexion’s June 2026 Reflect v1.0 report describes a humanoid retrieving a parcel, navigating between floors and interacting with doors and elevators. Learned motion policies and whole-body control connect those steps into a research demonstration.

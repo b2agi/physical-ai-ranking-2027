@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P029` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Ding Han led a project on robotic machining of large complex surfaces, with documented joint development and industrial application pathways.

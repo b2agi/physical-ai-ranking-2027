@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I048` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The National Robot Testing and Evaluation Center's Shanghai headquarters issued CR certification for AgiBot Genie G2 through Shanghai Robot Industry Technology Research Institute.

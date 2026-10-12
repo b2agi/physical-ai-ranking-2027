@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C105` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 An external Royal IHC project team used Doosan's 1013 arm in a vision-guided welding prototype. Doosan supplied the manipulation platform; the team developed the vision, integration and welding application.

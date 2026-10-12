@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C068` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Orbbec’s Gemini 336L supplies RGB and depth streams for Quasi Model C2. A customer engineer describes SDK integration into Q.AI.

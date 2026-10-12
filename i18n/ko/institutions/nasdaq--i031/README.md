@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I031` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nasdaq provided public-market access for Serve through a completed share offering and Nasdaq Capital Market trading.

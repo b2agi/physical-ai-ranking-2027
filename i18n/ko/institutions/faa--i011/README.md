@@ -16,8 +16,6 @@ BVLOS(가시권 밖) 택배 배송 승인
 
 `I011` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The FAA authorized Zipline to deliver commercial packages beyond visual line of sight in 2023, establishing a defined regulatory route for the operator.

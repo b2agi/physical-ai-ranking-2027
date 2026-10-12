@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I034` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 The nonprofit OSRF provides and maintains open software used in robotics research and product development under the Open Robotics brand.

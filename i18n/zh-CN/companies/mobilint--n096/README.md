@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N096` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Mobilint supplies Aries2 hardware for an external study of robot-policy encoder offloading, retaining hardware credit separately from the researchers' policy and evaluation.

@@ -16,8 +16,6 @@ MES 与 AMR 集成
 
 `C083` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Rockwell integrates MES with OTTO transport at its Twinsburg factory, dispatching moves from production orders.

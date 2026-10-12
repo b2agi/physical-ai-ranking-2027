@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:02` · 排名 2
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 The Bay Area combines model and robotics-platform development with Berkeley's robot-learning education and Stanford's shared physical research facilities. Reusable software and product companies connect research to physical systems.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I028` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 MIIT jointly implemented selection and dissemination of 2024 mining-robot applications under the Robot+ plan.

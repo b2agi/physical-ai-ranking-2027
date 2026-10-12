@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E014` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Francesca Rossi co-chaired IEEE EAD’s embedding-values committee and participated in named IBM research.

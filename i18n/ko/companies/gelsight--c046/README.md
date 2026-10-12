@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C046` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 GelSight supplies the Mini sensor used by Politecnico di Milano researchers to acquire tactile measurements on industrial components with a FANUC collaborative robot. The researchers retain the anomaly-detection methods and evaluation.

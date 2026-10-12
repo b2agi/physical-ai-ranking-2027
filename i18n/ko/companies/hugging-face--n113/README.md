@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N113` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Hugging Face co-develops SmolVLA, connecting visual observations and instructions to manipulation actions. Its research evaluates SO100 and SO101 physical tasks, with shared credit for academic partners, hardware designers and community data contributors.

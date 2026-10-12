@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E007` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Christian Hubicki led optimal-control and simulation teaching at IMSI, with links to code and answers for participants.

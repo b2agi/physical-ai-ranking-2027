@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N021` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Flexxbotics describes integration that turns inspection results into robot rework and equipment correction.

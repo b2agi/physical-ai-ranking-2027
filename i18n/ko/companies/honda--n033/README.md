@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N033` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Honda describes a dexterous hand using intent estimation and contact feedback, including repeated learning of screwdriver regrasping.

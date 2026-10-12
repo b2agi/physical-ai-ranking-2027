@@ -1,8 +1,6 @@
 # B2AGI Physical AI 2027
 
-本版提供中文名称、贡献说明与检索目录。入选依据与证据范围保留英文原文，封面沿用B2AGI既有作品、标识与人物肖像。
-
-本 Atlas 通过390个国家、产业区域、企业、人物与机构条目，考察 Physical AI 的研究与实际应用。2027版的评估基准为2026年10月。
+本Atlas收录390个条目，包括国家与产业集群排名，以及企业、人物和机构名单。可按条目查阅Physical AI的研究、产品开发与客户运营。2027版采用2026年10月的评估基准。
 
 | 类别 | 条目 |
 | --- | ---: |
@@ -16,6 +14,8 @@
 
 [JSON](data/ranking2027.zh-CN.json) · [CSV](data/ranking2027.zh-CN.csv) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/README.md)
 
-国家与区域的产业路径从 Intelligence、Physical、Capital、Trust、Beyond 五个视角比较。企业、人物与机构依据记录中的具体贡献选录。各条目分别保留客户运营、供应商披露、研究测试与未来计划的证据范围。
+国家与产业区域从Intelligence、Physical、Capital、Trust、Beyond五个视角进行比较。企业、人物与机构根据记录中的具体贡献选录，各条目注明客户运营、供应商披露、研究测试或未来计划所对应的证据范围。
+
+名称与贡献说明为中文，入选依据与证据范围保留英文原文。封面采用B2AGI既有作品、标识与人物肖像。
 
 [方法](../../METHODOLOGY.md) · [比较记录](../../COMPARISONS.md) · [引用与使用条件](../../RIGHTS.md)

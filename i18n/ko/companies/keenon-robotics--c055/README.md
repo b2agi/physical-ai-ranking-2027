@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C055` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Keenon’s DINERBOT and cleaning systems perform transport and service tasks at named restaurants and hotels, with staff handoffs and obstacle avoidance.

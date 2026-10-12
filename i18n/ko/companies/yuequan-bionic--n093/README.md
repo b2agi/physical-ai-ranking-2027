@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N093` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Yuequan Bionic’s hand prototype performed movements observed in an exhibition report.

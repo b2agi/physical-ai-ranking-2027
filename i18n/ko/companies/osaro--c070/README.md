@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C070` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 OSARO provides learned vision and control for Zenni packaging, with later records describing transition into production.

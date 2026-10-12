@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I023` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 KIRIA issued KS certification for a wearable-robot product, confirmed in Hyundai’s announcement.

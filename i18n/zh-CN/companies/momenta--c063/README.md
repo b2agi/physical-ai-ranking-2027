@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C063` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Momenta supplies driving intelligence for named production customers including SAIC IM and Lynk.

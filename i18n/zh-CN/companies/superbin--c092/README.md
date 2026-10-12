@@ -16,8 +16,6 @@ AI 回收收集
 
 `C092` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Superbin’s Nephron uses AI classification in installed recycling-collection units.

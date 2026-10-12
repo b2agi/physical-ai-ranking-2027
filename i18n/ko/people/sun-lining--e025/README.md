@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E025` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Sun Lining describes establishing a research institute, degree programs and talent-development activities supporting regional industry.

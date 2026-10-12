@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N057` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 PaXini describes tactile-feedback control for DexH13 grasping and handle manipulation, and TORA-ONE cup and wafer tasks.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:08` · 排名 8
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Munich’s robotics integration companies develop business around industrial customer logistics and growth financing.

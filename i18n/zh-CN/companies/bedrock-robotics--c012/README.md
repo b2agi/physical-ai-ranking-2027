@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C012` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Bedrock retrofits excavators for autonomous digging at named infrastructure customers including Sundt. Its announcement describes sensing, learned models and operation beyond the supervised trial stage.

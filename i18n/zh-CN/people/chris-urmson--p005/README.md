@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P005` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.

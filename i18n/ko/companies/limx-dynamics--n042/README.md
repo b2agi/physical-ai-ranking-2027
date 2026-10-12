@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N042` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 LimX publishes development tools and robot-specific execution procedures for hardware-linked engineering. In a separate humanoid navigation demonstration, RealSense supplies RGB-D camera input, NVIDIA supplies cuVSLAM odometry and LimX integrates the navigation system.

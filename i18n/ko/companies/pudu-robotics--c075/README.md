@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C075` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 PUDU CC1 Pro cleans carpets and floors in shared areas of a Walmart US office facility, using navigation and path planning.

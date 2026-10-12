@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C054` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 John Deere’s See & Spray recognizes plants and applies selective spraying in customer fields. Its commercial approach includes performance-linked charging.

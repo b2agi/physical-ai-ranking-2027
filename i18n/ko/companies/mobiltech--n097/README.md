@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N097` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Mobiltech supplies documented 3D spatial assets and links them to named test grounds and simulators.

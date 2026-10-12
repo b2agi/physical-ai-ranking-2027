@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I044` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 XbotPark provided startup funding support to Narwal, as described alongside direction-finding assistance in HKCRC material.

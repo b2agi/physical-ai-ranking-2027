@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:11` · 순위 11
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Zurich’s product-development network includes learned control for industrial inspection robots and customer workflows.

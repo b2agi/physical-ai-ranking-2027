@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N083` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Vueron describes road tests with defined US routes and safety-driver conditions, alongside a documented 2021 Korean trial.

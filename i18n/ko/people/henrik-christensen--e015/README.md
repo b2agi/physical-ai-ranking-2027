@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E015` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Henrik Christensen served as a principal writer of repeated Robotics Roadmap editions, organizing a shared research agenda.

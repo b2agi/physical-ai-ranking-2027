@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C003` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Agile Robots brought idealworks into its group through an acquisition, combining robotics development with BMW logistics automation.

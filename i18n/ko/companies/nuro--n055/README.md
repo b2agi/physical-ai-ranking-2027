@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N055` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Nuro’s driving system entered employee ride tests confirmed by Uber, extending its development path beyond delivery vehicles.

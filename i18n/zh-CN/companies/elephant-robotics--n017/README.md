@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N017` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Elephant Robotics supplies arms and AI kits used in named university teaching and physical student projects.

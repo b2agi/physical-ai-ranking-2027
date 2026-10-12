@@ -16,8 +16,6 @@ AI 操控与汽车测试基础设施
 
 `cluster:10` · 排名 10
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Stuttgart brings manufacturing and logistics customers together with AI manipulation and automotive testing requirements.

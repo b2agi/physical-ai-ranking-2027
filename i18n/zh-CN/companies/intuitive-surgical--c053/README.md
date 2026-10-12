@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C053` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Intuitive Surgical’s Ion supports shape-sensing catheter manipulation for bronchoscopy and biopsy. North Tees describes trial adoption and actual biopsies in 2025.

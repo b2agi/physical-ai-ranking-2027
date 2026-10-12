@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:04` · 排名 4
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Beijing brings robot-learning resources, developers, district-level driving trials and growth funding into the same regional network.

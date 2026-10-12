@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N061` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Raion Robotics records a long-distance mobility test in its company history and describes quadruped-control development.

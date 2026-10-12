@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I042` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Toyota Research Institute co-developed and supported Drake and provided manipulation research and public benchmarks used in robotics work.

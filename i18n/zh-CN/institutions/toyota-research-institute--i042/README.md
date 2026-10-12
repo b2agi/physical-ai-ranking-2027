@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I042` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Toyota Research Institute co-developed and supported Drake and provided manipulation research and public benchmarks used in robotics work.

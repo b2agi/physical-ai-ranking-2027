@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C006` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 AmbiSort applies Sim2Real technology to logistics sorting. Pitney Bowes describes using the system in customer statements published with the product materials.

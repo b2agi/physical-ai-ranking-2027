@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P020` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Melonee Wise describes building and reorganizing Agility’s engineering and product teams, alongside technology-roadmap work at Zebra.

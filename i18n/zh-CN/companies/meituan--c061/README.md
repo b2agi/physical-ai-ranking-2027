@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C061` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Meituan operates drone and ground delivery systems. Its technical account connects sensing and autonomous movement with actual delivery orders.

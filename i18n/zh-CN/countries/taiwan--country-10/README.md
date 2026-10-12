@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:10` · 排名 10
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Taiwan combines semiconductor fabrication and packaging with R&D, robotics investment and industrial testing infrastructure.

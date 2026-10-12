@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:19` · 순위 19
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 1X’s April 2024 announcement describes development of a Moss, Norway facility linking engineering, actuator manufacture, robot assembly and testing.

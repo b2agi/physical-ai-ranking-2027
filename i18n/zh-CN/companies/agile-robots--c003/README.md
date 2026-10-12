@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C003` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Agile Robots brought idealworks into its group through an acquisition, combining robotics development with BMW logistics automation.

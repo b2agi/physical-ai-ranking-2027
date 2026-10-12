@@ -16,8 +16,6 @@ DRC-HUBO 联合研究领导工作
 
 `P038` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 In So Kweon co-led Team KAIST with Jun-Ho Oh and Rainbow researchers at the 2015 DARPA Robotics Challenge. Their DRC-HUBO robot completed the competition’s eight tasks and won the finals.

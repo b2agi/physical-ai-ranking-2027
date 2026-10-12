@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P044` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Seok Sang-ok presented a direction for shared human-robot spaces and integrated services in 2019, later reflected in NAVER 1784’s operating pathway.

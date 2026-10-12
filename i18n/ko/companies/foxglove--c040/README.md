@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C040` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Foxglove provides development and operating-log tools used by Square Robot for field analysis.

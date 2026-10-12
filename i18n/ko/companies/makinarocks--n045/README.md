@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N045` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 MakinaRocks develops maintenance models for HD Hyundai Samho welding robots, using simulated-fault tests described in its September 2026 technical account.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N056` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Outrider’s 2024 material describes customer-site movement trials and deep-learning-based connection tasks.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N080` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Tesla’s Q2 2026 materials describe Optimus production-line installation, training-data collection and autonomy-compute infrastructure.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I029` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 MIT CSAIL conducted gesture-control research connecting EMG, learning and physical-drone experiments, with partial Boeing support.

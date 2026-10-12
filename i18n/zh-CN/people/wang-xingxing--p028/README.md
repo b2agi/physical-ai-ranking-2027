@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P028` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Wang Xingxing designed XDog and held development responsibility for a quadruped group-control system.

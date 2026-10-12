@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I015` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 IEC robotics-product safety work provides a lawn-robot standard edition cited in a manufacturer’s conformity declaration.

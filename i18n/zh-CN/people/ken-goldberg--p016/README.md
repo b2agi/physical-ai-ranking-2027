@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P016` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Ken Goldberg co-created Dex-Net with Jeff Mahler, providing a shared research output for learned grasping.

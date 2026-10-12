@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P019` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Masayoshi Son and Yoshimitsu Goto received delegated authority to determine the final terms of SoftBank’s ABB Robotics acquisition agreement. The board resolution and October 2025 agreement document his role in that capital decision.

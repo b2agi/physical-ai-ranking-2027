@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N061` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Raion Robotics records a long-distance mobility test in its company history and describes quadruped-control development.

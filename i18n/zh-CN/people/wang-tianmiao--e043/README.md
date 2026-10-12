@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E043` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Wang Tianmiao supported talent and startup development, with Beihang naming beneficiaries and documenting a scholarship donation.

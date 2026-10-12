@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I003` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 ASTM F45 provides performance-test standards for unmanned mobile tasks, with NIST documenting the technical basis of its first four standards.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E013` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Fei-Fei Li helped build ImageNet’s shared dataset and challenge, which drew participation from multiple institutions.

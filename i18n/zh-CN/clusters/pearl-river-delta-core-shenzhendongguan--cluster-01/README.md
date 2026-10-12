@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `cluster:01` · 排名 1
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Shenzhen and Dongguan connect sensor and robot development with engineering education, prototyping facilities and manufacturing access. XbotPark's university and startup programmes link talent development to product engineering.

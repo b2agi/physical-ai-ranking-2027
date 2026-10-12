@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I017` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 ISO/TC 299 develops shared robotics standards through published outputs, participating countries and industrial organizations.

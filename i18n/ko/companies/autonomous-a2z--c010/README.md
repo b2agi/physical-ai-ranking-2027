@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C010` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Autonomous a2z’s ROii carried passengers on the Cheonggye A01 shuttle. Seoul’s trial-service notice and a passenger account describe supervised operation.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:10` · 순위 10
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Taiwan combines semiconductor fabrication and packaging with R&D, robotics investment and industrial testing infrastructure.

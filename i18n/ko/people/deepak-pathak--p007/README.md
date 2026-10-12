@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P007` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Deepak Pathak co-developed Rapid Motor Adaptation with Ashish Kumar, Zipeng Fu and Jitendra Malik.

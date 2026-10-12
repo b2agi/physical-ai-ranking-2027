@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E037` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Liang Jing organized and chaired work described in official annual-meeting records, including organizational reporting and an open project call.

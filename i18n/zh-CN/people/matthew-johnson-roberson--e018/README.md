@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E018` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Matthew Johnson-Roberson advised Tianyi Zhang's completed doctorate on underwater 3D visual perception and generation.

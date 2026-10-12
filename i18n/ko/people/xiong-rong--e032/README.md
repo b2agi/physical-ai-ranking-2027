@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E032` · Ecosystem Builders 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Xiong Rong guided Zhejiang University's robotics competition training and its ZJUNlict student team.

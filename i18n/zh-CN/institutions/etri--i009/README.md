@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I009` · Institutions 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 ETRI transferred FMS to Twinny and supported recipient-specific joint development through staff working at the company.

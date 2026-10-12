@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E002` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Aaron Prather co-organized a 2025 workshop bringing together research, industry and testing participants, with named presentation materials.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C065` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 NAVER and NAVER LABS operate repeated internal deliveries at 1784, integrating robots with the building and elevators.

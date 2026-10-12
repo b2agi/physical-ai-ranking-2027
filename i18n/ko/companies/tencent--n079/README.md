@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N079` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Tencent’s platform describes model and RoboFusion components used in a Unitree G1 trial at Dunhuang’s digital exhibition center.

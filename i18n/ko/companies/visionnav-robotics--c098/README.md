@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C098` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 VisionNav VNL16 transports materials through inbound, shelving and outbound workflows for an equipment manufacturer, following scans and RCS instructions.

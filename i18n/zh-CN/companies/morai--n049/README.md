@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N049` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 MORAI publishes sensor models, path-generation documentation and driving examples for autonomous-driving development.

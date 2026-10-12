@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C058` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Locus robots assist human picking across multiple customer sites with repeated tasks.

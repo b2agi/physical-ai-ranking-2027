@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E009` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Dennis Hong led RoMeLa’s public robotics platforms for research and education.

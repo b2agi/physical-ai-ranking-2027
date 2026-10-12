@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C015` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Booster supplies K1 and T1 robots used by the HTWK team in research and RoboCup. Team documents describe competition operation and a learned kick executed on T1.

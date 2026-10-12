@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N062` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 RealMan describes physical platforms, teleoperation and data QA for RealBot and Darwin development, alongside a data center it reports as operating.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C001` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 TAP handles ride requests and reservations for the Cheonggyecheon autonomous bus. Government service records describe its platform role alongside 42dot’s technical materials.

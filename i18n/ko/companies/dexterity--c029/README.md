@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C029` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Dexterity supplies trailer-loading robotics at FedEx’s Hagerstown hub. The customer describes deployment beyond a pilot.

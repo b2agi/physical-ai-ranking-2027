@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P012` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Jeff Cardenas describes a funding strategy focused on development and early entry into industrial customer applications.

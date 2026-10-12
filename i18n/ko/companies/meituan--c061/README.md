@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C061` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Meituan operates drone and ground delivery systems. Its technical account connects sensing and autonomous movement with actual delivery orders.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N028` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Gole Robotics tested material transport at a named construction site.

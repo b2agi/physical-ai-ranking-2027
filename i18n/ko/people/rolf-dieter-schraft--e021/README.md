@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E021` · Influence 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Rolf Dieter Schraft co-authored robot-programming and trajectory-adaptation research with C. Meyer for a gluing robot cell.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C049` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Hesai’s Pandar sensors are used on WeRide vehicles. Supplier materials include the customer’s account of sensor adoption.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `P051` · Influence 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Nikita Rudin co-authored a massively parallel locomotion-training approach and curriculum evaluated on ANYmal and transferred to a physical robot.

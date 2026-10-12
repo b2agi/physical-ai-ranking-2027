@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N060` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Qualcomm provides robotics evaluation boards, ROS 2 and Gazebo samples, with a documented separation of perception and control.

@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C007` · Current 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 AMP installed and operated neural-network-based material sorting at the Portsmouth facility. Its facility case includes a customer manager’s account of the work.

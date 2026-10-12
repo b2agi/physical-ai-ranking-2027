@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `I018` · Institutions 50
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 KAIST’s HUBO platform supports outside research and education. Drexel describes using HUBO Lab hardware and student software in performances and joint research.

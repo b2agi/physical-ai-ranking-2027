@@ -16,8 +16,6 @@ Robotaxi 员工试运行
 
 `N055` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Nuro’s driving system entered employee ride tests confirmed by Uber, extending its development path beyond delivery vehicles.

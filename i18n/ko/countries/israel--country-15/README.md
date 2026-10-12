@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `country:15` · 순위 15
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Israel develops observation-based physical manipulation and driver-assistance technology, supported by research investment and national AI computing access for academia and industry.

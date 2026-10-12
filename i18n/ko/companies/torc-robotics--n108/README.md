@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `N108` · Next 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Torc validates a highway-freight driving system using production-intent hardware in driver-out closed-course tests. Its public-road testing and commercial-launch target describe a continuing development programme.

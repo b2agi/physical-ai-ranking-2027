@@ -2,17 +2,15 @@
 
 ![기업 Next 100](../../assets/next-100-overview-ko.png)
 
-개발·시제품 시험·연구 검증 단계의 로봇 제품, 행동 모델과 응용을 살핀다. 분류는 선정된 기여에 적용하며 기업의 모든 사업을 뜻하지 않는다.
+개발과 시제품 시험, 연구 검증 단계의 제품·행동 모델·응용을 다룬다. Current·Next 구분은 이 목록에 선정된 기여를 기준으로 하며, 기업 전체 사업의 단계와는 다를 수 있다.
 
-2027판 · 평가 기준 2026년 10월. 국가·클러스터는 정성 순위, 나머지는 기여별 선정 목록이다. ID는 고정 식별자다.
+2027판 · 2026년 10월 평가 · 기여별 선정 · ID는 순위를 뜻하지 않는다.
 
-이 판은 이름·기여·탐색을 한국어로 제공한다. 선정 근거와 근거 범위는 영문 원문을 유지한다. 표지는 기존 B2AGI 작품·로고·초상을 활용했다.
+선정 근거·근거 범위: 영문 원문.
 
 ### 먼저 읽을 사례
 
 [Tesla](companies/tesla--n080/README.md) · [Google DeepMind](companies/google-deepmind--n029/README.md) · [Physical Intelligence](companies/physical-intelligence--n059/README.md)
-
-
 
 | ID | 이름 | 기여·역할 |
 | --- | --- | --- |

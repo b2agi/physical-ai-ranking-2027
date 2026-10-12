@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C088` · Next 100
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Siemens develops control and integration for Humanoid's HMND01 Alpha tote-handling trials at its Erlangen factory.

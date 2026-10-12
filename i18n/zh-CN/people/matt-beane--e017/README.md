@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `E017` · Ecosystem Builders 50
 
-入选依据与证据范围为英文原文。
-
 ## 评估与入选依据 · 英文原文
 
 Matt Beane published long-term field research on robotic surgery and shadow learning, contributing knowledge about work and training transitions.

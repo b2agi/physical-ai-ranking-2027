@@ -16,8 +16,6 @@ evidence_language: "en"
 
 `C035` · Current 100
 
-선정·평가 근거와 근거 범위는 영문 원문이다.
-
 ## 선정·평가 근거 · 영문 원문
 
 Field AI provides autonomy for Spot-based inspection at changing construction sites. Its account describes perception, mapping and use by site managers.
