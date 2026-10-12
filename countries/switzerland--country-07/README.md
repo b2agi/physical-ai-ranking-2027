@@ -30,10 +30,6 @@ Switzerland’s ANYmal brings learned control into industrial inspection workflo
 
 Learned inspection and locomotion, research-to-product transfer, institutional and financial context, with development and customer sites separately attributed.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:07:S1** · [www.anybotics.com](https://www.anybotics.com/news/anybotics-manifesto/) · publication date not recorded

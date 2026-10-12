@@ -32,10 +32,6 @@ China combines sensing, robot hardware and electronics manufacturing with produc
 
 IFR 2025 industrial-robot installations and domestic supplier share; manufacturer and customer records; research, financing, testing and shared development infrastructure.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:02:S1** · [www.hkexnews.hk](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0428/2025042800961.pdf) · publication date not recorded

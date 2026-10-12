@@ -30,10 +30,6 @@ Spain hosts Barcelona robotics-platform development and an AI inspection develop
 
 Barcelona robot engineering, manufacturing robot demand, customer integration and shared European testing resources.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:18:S1** · [pal-robotics.com](https://pal-robotics.com/who-we-are/faq/) · publication date not recorded

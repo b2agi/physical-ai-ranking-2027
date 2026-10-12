@@ -30,10 +30,6 @@ The UAE brings external autonomous-driving technology into local transport servi
 
 Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:20:S1** · [www.rta.ae](https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/robotaxi-surpasses-4-million-kilometres-as-customer-satisfaction-reaches-97percent) · publication date not recorded

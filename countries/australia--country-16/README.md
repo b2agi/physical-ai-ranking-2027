@@ -30,10 +30,6 @@ Australia hosts autonomous construction at a solar site and shared physical test
 
 Komatsu's September 2025 Australian operating fleet, Rio Tinto Pilbara rail and drilling, and a separately staged construction pilot.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:16:S1** · [arena.gov.au](https://arena.gov.au/assets/2025/06/Built-Robotics-Australian-Robotic-Piling-Deployment-for-Large-Scale-Solar%E2%80%AF-Lesson-Learnt-Report-1.pdf) · publication date not recorded

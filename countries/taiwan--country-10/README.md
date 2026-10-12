@@ -30,10 +30,6 @@ Taiwan combines semiconductor fabrication and packaging with R&D, robotics inves
 
 NSTC 2024 R&D expenditure; TSMC fabrication and packaging; electronics and robotics records; ITRI testing and incubation infrastructure.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:10:S1** · [www.honhai.com](https://www.honhai.com/en-us/press-center/press-releases/latest-news/1084) · publication date not recorded

@@ -30,10 +30,6 @@ Israel develops observation-based physical manipulation and driver-assistance te
 
 Manipulation development, eyes-on SuperVision assistance and acquisition records. January 2026 national computing infrastructure is operational; accelerator allocations extend over subsequent years.
 
-## Evidence trail
-
-The assessment above is B2AGI’s interpretation of the listed records. No new source-level verification is claimed for this profile in v1.1. Publication dates are shown where recorded; missing dates remain explicit.
-
 ## Sources
 
 - **country:15:S1** · [menteebot.com](https://menteebot.com/blogs/mentoring-instruction-following.html) · publication date not recorded
