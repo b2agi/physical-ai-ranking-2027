@@ -1,4 +1,4 @@
-# 重要机构 50
+# B2AGI Physical AI 重要机构50 · 2027
 
 ![重要机构 50](../../assets/institutions-50-overview-zh-CN.png)
 
@@ -66,3 +66,5 @@
 | I045 | [Zhejiang University Robotics Research](institutions/zhejiang-university-robotics-research--i045/README.md) | 机器人技术教育 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.zh-CN.json) · [CSV](data/ranking2027.zh-CN.csv)
+
+英文版：[B2AGI Physical AI Institutions 50 · 2027](../../INSTITUTIONS_50.md)

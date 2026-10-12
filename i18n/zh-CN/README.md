@@ -1,16 +1,16 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI 国家与城市排名及企业、人物、机构选录2027
 
 本Atlas收录390个条目，包括国家与产业集群排名，以及企业、人物和机构名单。可按条目查阅Physical AI的研究、产品开发与客户运营。2027版采用2026年10月的评估基准。
 
 | 类别 | 条目 |
 | --- | ---: |
-| [国家竞争力 Top 20](COUNTRIES.md) | 20 |
-| [城市与产业集群 Top 20](CLUSTERS.md) | 20 |
-| [企业 Current 100](CURRENT_100.md) | 100 |
-| [企业 Next 100](NEXT_100.md) | 100 |
-| [影响力人物 50](INFLUENCE_50.md) | 50 |
-| [生态建设者 50](ECOSYSTEM_BUILDERS_50.md) | 50 |
-| [重要机构 50](INSTITUTIONS_50.md) | 50 |
+| [B2AGI Physical AI 国家竞争力排名20 · 2027](COUNTRIES.md) | 20 |
+| [B2AGI Physical AI 城市与产业集群排名20 · 2027](CLUSTERS.md) | 20 |
+| [B2AGI Physical AI 企业选录 · Current 100 · 2027](CURRENT_100.md) | 100 |
+| [B2AGI Physical AI 企业选录 · Next 100 · 2027](NEXT_100.md) | 100 |
+| [B2AGI Physical AI 影响力人物50 · 2027](INFLUENCE_50.md) | 50 |
+| [B2AGI Physical AI 生态建设者50 · 2027](ECOSYSTEM_BUILDERS_50.md) | 50 |
+| [B2AGI Physical AI 重要机构50 · 2027](INSTITUTIONS_50.md) | 50 |
 
 [JSON](data/ranking2027.zh-CN.json) · [CSV](data/ranking2027.zh-CN.csv) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/README.md)
 

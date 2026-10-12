@@ -1,4 +1,4 @@
-# 기업 Next 100
+# B2AGI 피지컬 AI 기업 선정 · Next 100 · 2027
 
 ![기업 Next 100](../../assets/next-100-overview-ko.png)
 
@@ -116,3 +116,5 @@
 | N093 | [Yuequan Bionic](companies/yuequan-bionic--n093/README.md) | 생체 모방형 손 시제품 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI Companies · Next 100 · 2027](../../NEXT_100.md)

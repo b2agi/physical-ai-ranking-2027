@@ -1,4 +1,4 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI Companies · Next 100 · 2027
 
 ## Next 100 · Companies
 

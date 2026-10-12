@@ -1,4 +1,4 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI City & Cluster Ranking 20 · 2027
 
 ## Cluster Atlas · Top 20
 

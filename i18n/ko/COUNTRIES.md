@@ -1,4 +1,4 @@
-# 국가 경쟁력 Top 20
+# B2AGI 피지컬 AI 국가 경쟁력 순위 20 · 2027
 
 ![국가 경쟁력 Top 20](../../assets/country-atlas-overview-ko.png)
 
@@ -36,3 +36,5 @@
 | 20 | [아랍에미리트](countries/united-arab-emirates--country-20/README.md) | 자율주행 여객 서비스 도입·운영 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI Country Ranking 20 · 2027](../../README.md#country-overview)

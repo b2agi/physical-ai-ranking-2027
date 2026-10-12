@@ -1,4 +1,4 @@
-# 도시·산업 클러스터 Top 20
+# B2AGI 피지컬 AI 도시·산업 클러스터 순위 20 · 2027
 
 ![도시·산업 클러스터 Top 20](../../assets/cluster-atlas-overview-ko.png)
 
@@ -36,3 +36,5 @@
 | 20 | [오스틴권](clusters/austin-region--cluster-20/README.md) | 휴머노이드 개발, 고객 대상 실증 및 성장 자금 확보 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI City & Cluster Ranking 20 · 2027](../../CLUSTERS.md)

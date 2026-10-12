@@ -1,4 +1,4 @@
-# 영향력 있는 인물 50
+# B2AGI 피지컬 AI 영향력 인물 50 · 2027
 
 ![영향력 있는 인물 50](../../assets/influence-50-overview-ko.png)
 
@@ -66,3 +66,5 @@
 | P031 | [Zhu Qiuguo](people/zhu-qiuguo--p031/README.md) | 4족 보행 로봇의 안정성 제어 연구 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI People · Influence 50 · 2027](../../INFLUENCE_50.md)

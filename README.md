@@ -1,4 +1,4 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI Rankings & Selections 2027
 
 [English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md)
 
@@ -10,17 +10,17 @@
 
 | Atlas section | Records | Assessment |
 | --- | ---: | --- |
-| [Countries](#country-overview) | 20 | Qualitative ranking |
-| [Cities and industrial clusters](CLUSTERS.md) | 20 | Qualitative ranking |
-| [Current companies](CURRENT_100.md) | 100 | Contribution-based selection |
-| [Next companies](NEXT_100.md) | 100 | Contribution-based selection |
-| [Influence](INFLUENCE_50.md) | 50 | Contribution-based selection |
-| [Ecosystem builders](ECOSYSTEM_BUILDERS_50.md) | 50 | Contribution-based selection |
-| [Institutions](INSTITUTIONS_50.md) | 50 | Contribution-based selection |
+| [B2AGI Physical AI Country Ranking 20 · 2027](#country-overview) | 20 | Qualitative ranking |
+| [B2AGI Physical AI City & Cluster Ranking 20 · 2027](CLUSTERS.md) | 20 | Qualitative ranking |
+| [B2AGI Physical AI Companies · Current 100 · 2027](CURRENT_100.md) | 100 | Contribution-based selection |
+| [B2AGI Physical AI Companies · Next 100 · 2027](NEXT_100.md) | 100 | Contribution-based selection |
+| [B2AGI Physical AI People · Influence 50 · 2027](INFLUENCE_50.md) | 50 | Contribution-based selection |
+| [B2AGI Physical AI People · Ecosystem Builders 50 · 2027](ECOSYSTEM_BUILDERS_50.md) | 50 | Contribution-based selection |
+| [B2AGI Physical AI Institutions 50 · 2027](INSTITUTIONS_50.md) | 50 | Contribution-based selection |
 
 [Full JSON](data/ranking2027.en.json) · [Full CSV](data/ranking2027.en.csv) · [Source references](data/source-references.en.json) · [Search guide](SEARCH_GUIDE.md)
 
-## National Competitiveness · Top 20
+## B2AGI Physical AI Country Ranking 20 · 2027
 
 ![Country Atlas Top 20: United States, China, South Korea and the complete 20-country assessment](assets/country-atlas-overview.png)
 

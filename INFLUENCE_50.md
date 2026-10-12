@@ -1,4 +1,4 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI People · Influence 50 · 2027
 
 ## Influence 50 · People
 

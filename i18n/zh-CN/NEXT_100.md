@@ -1,4 +1,4 @@
-# 企业 Next 100
+# B2AGI Physical AI 企业选录 · Next 100 · 2027
 
 ![企业 Next 100](../../assets/next-100-overview-zh-CN.png)
 
@@ -116,3 +116,5 @@
 | N093 | [Yuequan Bionic](companies/yuequan-bionic--n093/README.md) | 仿生手原型 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.zh-CN.json) · [CSV](data/ranking2027.zh-CN.csv)
+
+英文版：[B2AGI Physical AI Companies · Next 100 · 2027](../../NEXT_100.md)

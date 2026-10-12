@@ -1,4 +1,4 @@
-# 기업 Current 100
+# B2AGI 피지컬 AI 기업 선정 · Current 100 · 2027
 
 ![기업 Current 100](../../assets/current-100-overview-ko.png)
 
@@ -116,3 +116,5 @@
 | C100 | [Zipline](companies/zipline--c100/README.md) | 자율 항공 배송 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI Companies · Current 100 · 2027](../../CURRENT_100.md)

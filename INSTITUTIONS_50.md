@@ -1,4 +1,4 @@
-# B2AGI Physical AI 2027
+# B2AGI Physical AI Institutions 50 · 2027
 
 ## Institutions 50
 

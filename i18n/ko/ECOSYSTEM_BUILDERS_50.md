@@ -1,4 +1,4 @@
-# 생태계 구축 인물 50
+# B2AGI 피지컬 AI 생태계 구축 인물 50 · 2027
 
 ![생태계 구축 인물 50](../../assets/ecosystem-builders-50-overview-ko.png)
 
@@ -66,3 +66,5 @@
 | E029 | [Zhang Jianwei](people/zhang-jianwei--e029/README.md) | 다기관 연구 조정 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.ko.json) · [CSV](data/ranking2027.ko.csv)
+
+영문판: [B2AGI Physical AI People · Ecosystem Builders 50 · 2027](../../ECOSYSTEM_BUILDERS_50.md)

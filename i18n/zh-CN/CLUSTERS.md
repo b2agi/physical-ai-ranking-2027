@@ -1,4 +1,4 @@
-# 城市与产业集群 Top 20
+# B2AGI Physical AI 城市与产业集群排名20 · 2027
 
 ![城市与产业集群 Top 20](../../assets/cluster-atlas-overview-zh-CN.png)
 
@@ -36,3 +36,5 @@
 | 20 | [奥斯汀地区](clusters/austin-region--cluster-20/README.md) | 人形机器人开发、客户试用与增长资本 |
 
 [Atlas](README.md) · [English edition](https://github.com/b2agi/physical-ai-ranking-2027/blob/3dd209a29d38d56f07918da165a50c87dce9a058/) · [JSON](data/ranking2027.zh-CN.json) · [CSV](data/ranking2027.zh-CN.csv)
+
+英文版：[B2AGI Physical AI City & Cluster Ranking 20 · 2027](../../CLUSTERS.md)
