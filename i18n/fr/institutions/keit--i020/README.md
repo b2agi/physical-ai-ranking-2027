@@ -1,0 +1,34 @@
+---
+title: "KEIT | Financement de la recherche robotique | B2AGI Physical AI 2027"
+record_id: "I020"
+language: "fr"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "36e73b0ebc9a852db5d65fd955debd5936cc39bd"
+evidence_language: "en"
+---
+
+# KEIT
+
+Financement de la recherche robotique
+
+`I020` · Institutions 50
+
+## Motifs de sélection et d’évaluation · original anglais
+
+KEIT supported humanoid balance-recovery research whose paper identifies the funded project and partial support.
+
+## Portée des éléments probants · original anglais
+
+2011 paper acknowledgment; KEIT’s funding and management role is distinct from the researchers’ algorithms and experiments.
+
+## Sources
+
+- `I020:S1` · [www.romela.org](https://www.romela.org/wp-content/uploads/2015/05/Learning-full-body-push-recovery-control-for-small-humanoid-robots.pdf)
+- `I020:S2` · [ki-it.com](https://ki-it.com/_PR/view/?aidx=47199&bidx=4264)
+- `I020:S3` · [www.keit.re.kr](https://www.keit.re.kr/menu.es?mid=a10108000000)
+- `I020:S4` · [www.keit.re.kr](https://www.keit.re.kr/gallery.es?act=view&b_list=10&bid=0004&cg_code=&keyField=&keyWord=&list_no=115878&mid=a10202010000&nPage=40&orderby=&tag=)
+
+[Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/institutions/keit--i020/README.md)

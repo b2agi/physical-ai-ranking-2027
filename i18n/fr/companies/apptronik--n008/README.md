@@ -1,0 +1,35 @@
+---
+title: "Apptronik | Essais d’humanoïdes chez les clients | B2AGI Physical AI 2027"
+record_id: "N008"
+language: "fr"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "36e73b0ebc9a852db5d65fd955debd5936cc39bd"
+evidence_language: "en"
+---
+
+# Apptronik
+
+Essais d’humanoïdes chez les clients
+
+`N008` · Next 100
+
+## Motifs de sélection et d’évaluation · original anglais
+
+Apptronik develops Apollo for repetitive manufacturing tasks through Mercedes' production-environment data collection and employee teleoperation-based training.
+
+## Portée des éléments probants · original anglais
+
+Mercedes customer account, 2025-03-18: integration testing, training data and autonomous-development step.
+
+## Sources
+
+- `N008:S1` · [group.mercedes-benz.com](https://group.mercedes-benz.com/unternehmen/produktion/produktionsnetzwerk/mbdfc-humanoide-roboter.html)
+- `N008:S2` · [apptronik.com](https://apptronik.com/company/leadership)
+- `N008:S3` · [group.mercedes-benz.com](https://group.mercedes-benz.com/unternehmen/produktion/produktionsnetzwerk/mbdfc-humanoide-roboter.html)
+- `N008:S4` · [apptronik.com](https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a)
+- `N008:S5` · [group.mercedes-benz.com](https://group.mercedes-benz.com/company/production/production-network/mbdfc-humanoid-robots.html)
+
+[Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/companies/apptronik--n008/README.md)

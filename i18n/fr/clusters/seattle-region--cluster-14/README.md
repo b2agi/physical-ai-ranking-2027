@@ -1,0 +1,35 @@
+---
+title: "Région de Seattle | Utilisateurs logistiques, ingénierie de drones et outils de données robotiques | B2AGI Physical AI 2027"
+record_id: "cluster:14"
+language: "fr"
+selection_group: null
+rank: 14
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "36e73b0ebc9a852db5d65fd955debd5936cc39bd"
+evidence_language: "en"
+---
+
+# Région de Seattle
+
+Utilisateurs logistiques, ingénierie de drones et outils de données robotiques
+
+`cluster:14` · Rang 14
+
+## Motifs de sélection et d’évaluation · original anglais
+
+Seattle’s corporate and development network includes large logistics adopters and robot operating-data tools.
+
+## Portée des éléments probants · original anglais
+
+Located drone engineering and manufacture, robot-data work and university research. BRINC's human-piloted missions and Amazon's external operating sites retain their respective attribution.
+
+## Sources
+
+- `cluster:14:S1` · [www.aboutamazon.com](https://www.aboutamazon.com/news/operations/how-amazon-deploys-robots-in-its-operations-facilities)
+- `cluster:14:S2` · [www.roboto.ai](https://www.roboto.ai/customers/)
+- `cluster:14:S3` · [robotics.cs.washington.edu](https://robotics.cs.washington.edu/)
+- `cluster:14:S4` · [www.wipo.int](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-en-global-innovation-index-2026.pdf)
+- `cluster:14:S5` · [brincdrones.com](https://brincdrones.com/news/brinc-announces-new-seattle-factory-and-launch-of-next-generation-911-response-drone/) · 2026-03-24
+
+[Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/clusters/seattle-region--cluster-14/README.md)

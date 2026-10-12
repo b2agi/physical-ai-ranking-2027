@@ -1,6 +1,6 @@
 # B2AGI Physical AI 国家与城市排名及企业、人物、机构选录2027
 
-[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md)
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
 
 本Atlas收录390个条目，包括国家与产业集群排名，以及企业、人物和机构名单。可按条目查阅Physical AI的研究、产品开发与客户运营。2027版采用2026年10月的评估基准。
 

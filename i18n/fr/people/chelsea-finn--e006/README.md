@@ -1,0 +1,36 @@
+---
+title: "Chelsea Finn | Recherche et entraînement de politiques de commande robotique | B2AGI Physical AI 2027"
+record_id: "E006"
+language: "fr"
+selection_group: "Influence 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "36e73b0ebc9a852db5d65fd955debd5936cc39bd"
+evidence_language: "en"
+---
+
+# Chelsea Finn
+
+Recherche et entraînement de politiques de commande robotique
+
+`E006` · Influence 50
+
+## Motifs de sélection et d’évaluation · original anglais
+
+Chelsea Finn contributed policy training and research to pi0.5.
+
+## Portée des éléments probants · original anglais
+
+The joint paper's Appendix A-A names Finn under policy training and research. MAML authorship and public-code reuse are separately documented contributions.
+
+## Sources
+
+- `E006:S1` · [ai.stanford.edu](https://ai.stanford.edu/~cbfinn/_files/dissertation.pdf)
+- `E006:S2` · [garage.readthedocs.io](https://garage.readthedocs.io/en/v2020.06.1/_apidoc/garage.envs.mujoco.html)
+- `E006:S3` · [github.com](https://github.com/cbfinn/maml_rl/blob/master/README.md)
+- `E006:S4` · [arxiv.org](https://arxiv.org/abs/1703.03400)
+- `E006:S5` · [arxiv.org](https://arxiv.org/html/2504.16054v1) · 2025-04-22
+- `E006:S6` · [proceedings.mlr.press](https://proceedings.mlr.press/v70/finn17a.html)
+
+[Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/people/chelsea-finn--e006/README.md)

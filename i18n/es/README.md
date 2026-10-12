@@ -1,6 +1,6 @@
 # B2AGI Physical AI · Clasificaciones y selecciones 2027
 
-[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md)
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
 
 Este Atlas reúne 390 registros sobre investigación, desarrollo de productos y operaciones de clientes. Incluye clasificaciones de países y clústeres, y selecciones de empresas, personas e instituciones. La edición 2027 se evalúa con una base de octubre de 2026.
 

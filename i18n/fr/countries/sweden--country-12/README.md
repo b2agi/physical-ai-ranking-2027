@@ -1,0 +1,37 @@
+---
+title: "Suède | Recherche robotique liée à l’industrie et formation doctorale | B2AGI Physical AI 2027"
+record_id: "country:12"
+language: "fr"
+selection_group: null
+rank: 12
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "36e73b0ebc9a852db5d65fd955debd5936cc39bd"
+evidence_language: "en"
+---
+
+# Suède
+
+Recherche robotique liée à l’industrie et formation doctorale
+
+`country:12` · Rang 12
+
+## Motifs de sélection et d’évaluation · original anglais
+
+Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.
+
+## Portée des éléments probants · original anglais
+
+WARA's December 2024 industry-linked challenge and WASP's May 2026 graduate statistic; domestic ABB development and multinational Hexagon activity retain their locations. The new ABB campus is scheduled for 2027.
+
+## Sources
+
+- `country:12:S1` · [hexagon.com](https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform) · 2026-08-19
+- `country:12:S2` · [www.iso.org](https://www.iso.org/committee/5915511.html)
+- `country:12:S3` · [new.abb.com](https://new.abb.com/news/sv/detail/126891/startskott-for-abbs-robotics-campus-i-vasteras-idag-togs-forsta-spadtaget)
+- `country:12:S4` · [ifr.org](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) · 2026-09-24
+- `country:12:S5` · [www.wipo.int](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx)
+- `country:12:S6` · [wasp-sweden.org](https://wasp-sweden.org/phd-students-challenged-by-the-industry-at-wara-robotics-challenge/) · 2025-01-21
+- `country:12:S7` · [wasp-sweden.org](https://wasp-sweden.org/graduate-school/)
+
+[Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/countries/sweden--country-12/README.md)
