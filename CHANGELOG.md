@@ -1,5 +1,9 @@
 # Revision history
 
+## 2026-10-12 — Cluster Atlas first release
+
+Published 20 industrial-cluster profiles, a black-and-gold landscape overview, JSON and CSV, and the existing cluster comparison method. Cluster IDs, full names, ranks, rationales, evidence scopes and source-reference URLs are preserved. Short display names and distinct assessment focuses help navigation. Country v1.1 remains intact.
+
 ## 2026-10-12 — v1.1
 
 - Replaced the repeated country-role label with 20 distinct assessment focuses in the overview, profiles, JSON and CSV.

@@ -1,0 +1,119 @@
+id,rank,name,role,selection_rationale,evidence_scope,source_references,source_urls
+cluster:01,1,Pearl River Delta Core — Shenzhen–Dongguan,"Robot engineering, incubation and manufacturing access","Shenzhen and Dongguan connect sensor and robot development with engineering education, prototyping facilities and manufacturing access. XbotPark's university and startup programmes link talent development to product engineering.",Located development and incubation in Shenzhen and Dongguan; named XbotPark startup outcomes and HKUST's April 2026 educational visit. Shenzhen's 2024 academy incubation total covers hardware entrepreneurship. Overseas customers and Hong Kong educational origins retain their locations.,"cluster:01:S1
+cluster:01:S2
+cluster:01:S3
+cluster:01:S4
+cluster:01:S5
+cluster:01:S6
+cluster:01:S7
+cluster:01:S8
+cluster:01:S9","https://www.hkexnews.hk/listedco/listconews/sehk/2025/0428/2025042800961.pdf
+https://www.pudurobotics.com/en/case-studies/walmart-deploys-12-cc1-pro-cleaning-robots
+https://www.xbotpark.com/en/aboutus/
+https://enterprise-insights.dji.com/user-stories/china-southern-grid-powerline-inspection
+https://www.xbotpark.com/en/TalentDevelopment/
+https://www.xbotpark.com/en/TrainingPrograms/
+https://www.hkust-gz.edu.cn/2022/10/15/li-zexiang-and-ko-ping-keung-talk-about-innovation-and-entrepreneurship-at-hkust-gz/
+https://ec-gba.hkust.edu.hk/news/gba-entrepreneurship-learning-trip-2d1n-journey-30-aspiring-minds
+https://www.sz.gov.cn/zfgb/2025/1366/content/post_12090037.html"
+cluster:02,2,San Francisco Bay Area,"Robotics platforms, learning research and shared facilities",The Bay Area combines model and robotics-platform development with Berkeley's robot-learning education and Stanford's shared physical research facilities. Reusable software and product companies connect research to physical systems.,"Development across San Francisco, San Mateo, Santa Clara and Alameda counties; Berkeley's Spring 2026 course and Stanford Robotics Center's physical research bays. Global platform adoption and site-specific operations retain separate geographic scopes.","cluster:02:S1
+cluster:02:S2
+cluster:02:S3
+cluster:02:S4
+cluster:02:S5
+cluster:02:S6","https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023
+https://nvidianews.nvidia.com/news/nvidia-powers-humanoid-robot-industry-with-cloud-to-robot-computing-platforms-for-physical-ai
+https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/
+https://www.waymo.com/safety/impact/
+https://rail.eecs.berkeley.edu/deeprlcourse/
+https://src.stanford.edu/the-center"
+cluster:03,3,Yangtze River Delta Core — Shanghai–Hangzhou–Suzhou,"Training infrastructure, robot products and physical research","The cluster brings Shanghai’s training infrastructure and Hangzhou’s robots and physical-system research into one analytical region, tracing research into product development.","The analytical region covers Shanghai, Hangzhou and Suzhou. Cited robot manufacture, R&D, training and product development are located in Shanghai and Hangzhou; customer sites retain their locations.","cluster:03:S1
+cluster:03:S2
+cluster:03:S3
+cluster:03:S4
+cluster:03:S5
+cluster:03:S6","https://www.ssme.sh.gov.cn/public/news!loadNewsDetail.do?id=2c9e88329463f42301948b939b7b2747
+https://www.longcheer.com/en/col76/262.html
+https://longcheer.com/en/col76/281.html
+https://www.unitree.com/operate/company/
+https://arxiv.org/abs/2507.07356
+https://new.abb.com/news/detail/127379/abb-strengthens-china-robotics-leadership-with-three-new-robot-families"
+cluster:04,4,Beijing Region,"Robot learning, driving trials and growth funding","Beijing brings robot-learning resources, developers, district-level driving trials and growth funding into the same regional network.","Located developers, research, driving and delivery activity in Beijing municipality, with operating supervision and external customer locations separately recorded.","cluster:04:S1
+cluster:04:S2
+cluster:04:S3","https://www.beijing.gov.cn/ywdt/gzdt/202304/t20230414_3033670.html
+https://www.prnewswire.com/news-releases/galbot-secures-over-300-million-in-new-funding-breaking-records-with-3-billion-valuation-in-chinas-humanoid-robot-sector-302647204.html
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-en-global-innovation-index-2026.pdf"
+cluster:05,5,Seoul Capital Area,"Building deliveries, robot development and capital access",The Seoul Capital Area connects research and manufacturing demand with internal building deliveries and capital-market access.,"Seoul, Incheon and Gyeonggi research and development; distinct activities at NAVER 1784 in Seongnam, ROBOTIS in Magok and Doosan in Suwon.","cluster:05:S1
+cluster:05:S2
+cluster:05:S3
+cluster:05:S4","https://navercorp.com/story/storyDetail?seq=32450
+https://www.naverlabs.com/blogDetail?seq=34326
+https://www.doosanrobotics.com/pdf/s_report_2023_en.pdf
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-en-global-innovation-index-2026.pdf"
+cluster:06,6,Boston Region,Hardware startups and shared robotics experimentation,"Greater Boston combines robot research, hardware companies and shared experimental space, with documented links to customer logistics.","Greater Boston product development, research and shared experimentation linked to external customer operations; customer sites retain their locations.","cluster:06:S1
+cluster:06:S2","https://group.dhl.com/en/media-relations/press-releases/2025/dhl-group-signs-mou-with-boston-dynamics-and-accelerates-cross-business-automation-strategy.html
+https://www.massrobotics.org/startups/massrobotics-resident-startups/"
+cluster:07,7,Pittsburgh Region,Research transfer and manufacturing demonstrations,Pittsburgh translates research into company technology transfer and manufacturing demonstrations.,"Pittsburgh and Allegheny County research, industrial product development, customer-pilot connections and shared manufacturing resources.","cluster:07:S1
+cluster:07:S2","https://www.ri.cmu.edu/carnegie-robotics-partners-with-nrec-to-make-components-systems/
+https://arminstitute.org/news/2023-year-in-review/"
+cluster:08,8,Munich Region,Industrial logistics integration and growth financing,Munich’s robotics integration companies develop business around industrial customer logistics and growth financing.,"Munich city and Landkreis product, integration, research and financing activity; customer plants outside the region retain their locations.","cluster:08:S1
+cluster:08:S2","https://www.agile-robots.com/de/news/detail/agile-robots-uebernimmt-bmw-group-spin-off-idealworks-vollstaendig/
+https://www.rob.co/resources/news/press/lightspeed-as-investor"
+cluster:09,9,Tokyo–Yokohama Core,"Robot control, integration and testing access",The Tokyo-centered region brings control and robotics companies together with capital and testing access.,"Tokyo-centered control, integration and research within the Tokyo-Yokohama-Kawasaki analytical region. Manufacturing and customer events retain their documented city locations.","cluster:09:S1
+cluster:09:S2
+cluster:09:S3
+cluster:09:S4","https://www.jqa.jp/about_jqa/file/sustainability_report2024v4.pdf
+https://www.honhai.com/en-us/press-center/press-releases/latest-news/1084
+https://global.honda/en/tech/Avatar_robot/
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-en-global-innovation-index-2026.pdf"
+cluster:10,10,Stuttgart Region,AI manipulation and automotive testing infrastructure,Stuttgart brings manufacturing and logistics customers together with AI manipulation and automotive testing requirements.,"Region Stuttgart development and shared industrial testing, including Fraunhofer IPA, University of Stuttgart and ARENA2036 facilities; partner facilities retain their own locations.","cluster:10:S1
+cluster:10:S2
+cluster:10:S3","https://sereact.ai/posts/sereact-fundraising-series-a
+https://www.tuv.com/press/en/press-releases/automated-lane-keeping-system.html
+https://de.ai-matters.eu/en/"
+cluster:11,11,Zurich Region,Learned inspection control and research commercialization,Zurich’s product-development network includes learned control for industrial inspection robots and customer workflows.,"Located product development and research-commercialization links, with external inspection sites separately attributed.",cluster:11:S1,https://www.anybotics.com/news/anybotics-manifesto/
+cluster:12,12,Singapore,Robot integration for customer infrastructure,"Singapore integrates foreign robots into customer infrastructure, with local inspection and operating responsibility.","Located tunnel and retail integration, operator training and research resources; shared country and cluster events are cross-referenced.","cluster:12:S1
+cluster:12:S2","https://www.spgroup.com.sg/about-us/media-resources/energy-hub/reliability/How-this-technical-officer-and-robot-SPock-hunt-hazards-to-protect-Singapore-power-tunnels
+https://egpvision.com/"
+cluster:13,13,Odense,Mobile and collaborative-robot development,Odense provides shared supply and development sites for mobile and collaborative robots.,"UR-MiR development infrastructure and DTI equipment, mentoring and incubation in Odense. National industry totals and customer operations retain separate scopes.","cluster:13:S1
+cluster:13:S2","https://www.universal-robots.com/news-and-media/news-center/universal-robots-and-mir-open-new-robotics-hub-in-denmark/
+https://www.dti.dk/services/startup-incubator/47174"
+cluster:14,14,Seattle Region,"Logistics adopters, drone engineering and robot-data tools",Seattle’s corporate and development network includes large logistics adopters and robot operating-data tools.,"Located drone engineering and manufacture, robot-data work and university research. BRINC's human-piloted missions and Amazon's external operating sites retain their respective attribution.","cluster:14:S1
+cluster:14:S2
+cluster:14:S3
+cluster:14:S4
+cluster:14:S5","https://www.aboutamazon.com/news/operations/how-amazon-deploys-robots-in-its-operations-facilities
+https://www.roboto.ai/customers/
+https://robotics.cs.washington.edu/
+https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-en-global-innovation-index-2026.pdf
+https://brincdrones.com/news/brinc-announces-new-seattle-factory-and-launch-of-next-generation-911-response-drone/"
+cluster:15,15,Aichi Manufacturing Region,Manufacturing development and robot testing facilities,Aichi provides robot testing and support facilities serving manufacturing development.,DENSO WAVE development and manufacture in Agui; Toyota City research and technology transfer. Toyota Motor East Japan customer production retains its external location.,"cluster:15:S1
+cluster:15:S2
+cluster:15:S3","https://media.mujin.co.jp/news/9462/
+https://www.denso-wave.com/en/about/outline/index.html
+https://global.toyota/en/mobility/frontier-research/43588128.html"
+cluster:16,16,London Core — Cambridge Research and Startup Lineage,"Action models, robot learning and driving development","London develops action models, robot learning and vehicle systems toward physical products, with Cambridge represented through its research and founding lineage.","Greater London development and supervised driving trials; joint dexterity research, reusable tools and completed financing. Cambridge retains its distinct lineage role.","cluster:16:S1
+cluster:16:S2
+cluster:16:S3","https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/
+https://wayve.ai/thinking/science-at-wayve/
+https://deepmind.google/blog/advances-in-robot-dexterity/"
+cluster:17,17,Waterloo Core,"Industrial AMRs, automation integration and services",The Waterloo core brings industrial AMR products into large-scale automation integration and services.,"Kitchener-Waterloo-Cambridge supplier and research ecosystem, including ATS, OTTO, Avidbots, Deep Trekker, RoboHub and SMART Centre.","cluster:17:S1
+cluster:17:S2","https://ottomotors.com/company/newsroom/press-releases/otto-motors-focuses-on-innovative-manufacturing-autonomous-production-logistics-following-acquisition/
+https://www.waterlooedc.ca/blog/4-pillars-canada-largest-robotics-automation-cluster"
+cluster:18,18,Daejeon Core — Sejong–Osong Transport Links,"Research platforms, technology transfer and demonstration labs","Daejeon combines research platforms, technology transfer and robot startups with a physical AI demonstration lab.","Located KAIST and ETRI research, planning and fleet-management transfer. Sejong and Osong retain their transport-link roles and site-specific attribution.","cluster:18:S1
+cluster:18:S2
+cluster:18:S3
+cluster:18:S4","https://www.etri.re.kr/webzine/20230602/sub02.html
+https://www.korea.kr/news/policyNewsView.do?newsId=148961289
+https://drexel.edu/engineering/news-events/news/archive/2012/April/drexelhuborobotstakethestageandperformcometogether/
+https://news.sejong.go.kr/news/articleView.html?idxno=4183"
+cluster:19,19,Pohang Industrial Robotics and Manufacturing Research Region,Robot manufacture and steel-industry development,Pohang brings a robotics-company site together with a steel customer’s joint laboratory for manufacturing-oriented development.,"January 2026 photographed factory visit: Indy and OPTi assembly, actuator and motor production, calibration, aging and precision checks. Located learning-data hardware development and POSTECH research remain separately staged.","cluster:19:S1
+cluster:19:S2
+cluster:19:S3
+cluster:19:S4","https://www.neuromeka.com/history
+https://zdnet.co.kr/view/?no=20260203100624
+https://www.neuromeka.com/news/page/6
+https://rnb.postech.ac.kr/"
+cluster:20,20,Austin Region,"Humanoid development, customer trials and growth capital",Austin-based Apptronik develops Apollo through Mercedes customer trials and growth financing. The customer trials took place in Germany.,Austin MSA robot development and completed financing linked to Apptronik's Mercedes customer trials in Germany; training and production operation retain their distinct stages.,"cluster:20:S1
+cluster:20:S2","https://group.mercedes-benz.com/unternehmen/produktion/produktionsnetzwerk/mbdfc-humanoide-roboter.html
+https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a"

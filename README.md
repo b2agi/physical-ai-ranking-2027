@@ -1,5 +1,7 @@
 # B2AGI Physical AI 2027
 
+[Country Atlas · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md)
+
 ## Country Atlas · Top 20
 
 ![Country Atlas Top 20: United States, China, South Korea and the complete 20-country assessment](assets/country-atlas-overview.png)

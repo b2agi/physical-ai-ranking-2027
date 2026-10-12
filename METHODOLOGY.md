@@ -2,7 +2,7 @@
 
 ## What We Select
 
-B2AGI Physical AI Ranking 2027 examines how intelligence reaches physical work. This release contains the 20 countries and economies from the 2027 edition.
+B2AGI Physical AI Ranking 2027 examines how intelligence reaches physical work. The geographic releases contain 20 countries and economies and 20 industrial clusters from the 2027 edition.
 
 Physical AI connects perception, learning, planning or adaptive control to action in a physical environment. Components, development tools, operators, capital providers and institutions enter the selection through a documented contribution to that chain. Each rationale identifies the contribution being recognized.
 
@@ -131,7 +131,7 @@ Statistics retain their observation year, unit, denominator and geographic defin
 
 To request a correction, identify the record ID, the disputed statement and a dated primary source with an exact page or section. A rank change requires comparison with the relevant alternatives through the same five lenses. Factual corrections and changes to the ranking are recorded separately.
 
-Record IDs stay stable when the order changes. Missing source access dates remain blank. The JSON preserves the original source references and related record IDs; related profiles are outside this country-only release.
+Record IDs stay stable when the order changes. Missing source access dates remain blank. The JSON preserves the original source references and related record IDs; Related country profiles are available in the country release; other related profiles remain outside the current geographic releases.
 
 Send corrections to [aei.b2agi@gmail.com](mailto:aei.b2agi@gmail.com).
 
@@ -143,3 +143,57 @@ Assessment baseline: October 2026. Source revision: 2026-10-11. [Revision histor
 Current text: v1.1, 12 October 2026. The source baseline remains 11 October 2026. Source publication dates, recorded access dates and last-checked dates are separate fields. A missing publication date is marked “publication date not recorded”; it is not inferred from an access date or the edition year. Only statements identified as rechecked evidence have a new original-source reading claim.
 
 [Publisher and reuse terms](RIGHTS.md).
+
+
+## Cluster comparison
+
+
+
+Shenzhen-Dongguan connects sensing and robot engineering with university-linked product development. XbotPark's incubation history names Narwal and Hai Robotics. An April 2026 HKUST student visit documents continuing education and industry contact at its Dongguan base. Shenzhen's report on 2024 activity also records use of the Nanshan entrepreneurship academy and 16 incubated angel-stage projects. That academy total covers hardware entrepreneurship, rather than 16 robotics companies.
+
+The Bay Area combines reusable robotics platforms with Berkeley's robot-learning curriculum and Stanford's shared physical research facilities. Stanford Robotics Center opened in November 2024 and includes experimental space for logistics, manufacturing and medical robotics. Physical experimentation and engineering education belong to both regional profiles.
+
+### Cluster Comparison Record
+
+| Question | Shenzhen-Dongguan | San Francisco Bay Area |
+| --- | --- | --- |
+| What intelligence is developed? | Located sensing and robot products, including RoboSense's perception hardware | Model, simulation and robot-learning platforms, including NVIDIA's developer tools |
+| How are people and future capabilities developed? | University-linked engineering, incubation and supplier-supported prototyping | Berkeley's dated learning curriculum and Stanford's collaborative experimental facilities |
+| What activity connects these resources to use? | Named incubation outcomes; HKUST's April 2026 educational visit; Shenzhen's reported academy incubation | Named platform adopters; published course work; Stanford's task-focused research bays |
+| What remains distinct? | Incubation totals include non-robotics hardware; Hong Kong educational origins and overseas customers retain their locations | Global platform adoption is distinct from local use; facility descriptions are distinct from completed transfer outcomes |
+
+Shenzhen-Dongguan ranks first for the documented connection between university-linked engineering education, incubation and local robot product development with manufacturing access. XbotPark's named incubation outcomes give this pathway concrete company examples; the April 2026 visit documents continuing educational contact. The Bay Area ranks second with reusable robotics tools, Berkeley's learning curriculum and Stanford's shared physical research facilities. Both develop intelligence and future engineering capacity. The local education-and-incubation connection to robot engineering carries the leading-place decision. Incubation records, educational visits and product outcomes retain their distinct dates and scopes in the sources.
+
+Sources: [HKUST incubation account](https://www.hkust-gz.edu.cn/2022/10/15/li-zexiang-and-ko-ping-keung-talk-about-innovation-and-entrepreneurship-at-hkust-gz/), 2022-10-15, named startup outcomes; [HKUST educational visit](https://ec-gba.hkust.edu.hk/news/gba-entrepreneurship-learning-trip-2d1n-journey-30-aspiring-minds), 2026-04-24, Dongguan visit; [Shenzhen government report](https://www.sz.gov.cn/zfgb/2025/1366/content/post_12090037.html), published 2025-03-24, section on 2024 education and research activity; [Stanford Robotics Center](https://src.stanford.edu/the-center), research bays and 2024-11-01 launch. Existing developer and course references accompany cluster:01 and cluster:02.
+
+The Yangtze River Delta profile combines Shanghai's training infrastructure with Hangzhou's robots and physical-system research. Beijing brings together learning resources, developers, local autonomous-driving tests and funding. The Seoul Capital Area connects research, manufacturing and logistics demand, office deliveries and capital-market access. These are different industrial pathways, assessed as defined regions rather than equal-sized administrative units.
+
+Cluster boundaries and the footprint of cited evidence are recorded separately. A three-city analytical boundary does not establish activity in every city. Customer sites outside the boundary retain their own locations.
+
+Training sources: [XbotPark Robotics Academy](https://www.xbotpark.com/en/TalentDevelopment/), [XbotPark professional training](https://www.xbotpark.com/en/TrainingPrograms/) and [UC Berkeley CS 185/285, Spring 2026](https://rail.eecs.berkeley.edu/deeprlcourse/). The academy account dates its establishment to 2015; its programme descriptions identify training and facilities, while Berkeley publishes a dated 2026 course. Each retains its own reporting period.
+
+| Rank | Cluster | Record |
+| ---: | --- | --- |
+| 1 | Pearl River Delta Core — Shenzhen–Dongguan | cluster:01 |
+| 2 | San Francisco Bay Area | cluster:02 |
+| 3 | Yangtze River Delta Core — Shanghai–Hangzhou–Suzhou | cluster:03 |
+| 4 | Beijing Region | cluster:04 |
+| 5 | Seoul Capital Area | cluster:05 |
+| 6 | Boston Region | cluster:06 |
+| 7 | Pittsburgh Region | cluster:07 |
+| 8 | Munich Region | cluster:08 |
+| 9 | Tokyo–Yokohama Core | cluster:09 |
+| 10 | Stuttgart Region | cluster:10 |
+| 11 | Zurich Region | cluster:11 |
+| 12 | Singapore | cluster:12 |
+| 13 | Odense | cluster:13 |
+| 14 | Seattle Region | cluster:14 |
+| 15 | Aichi Manufacturing Region | cluster:15 |
+| 16 | London Core — Cambridge Research and Startup Lineage | cluster:16 |
+| 17 | Waterloo Core | cluster:17 |
+| 18 | Daejeon Core — Sejong–Osong Transport Links | cluster:18 |
+| 19 | Pohang Industrial Robotics and Manufacturing Research Region | cluster:19 |
+| 20 | Austin Region | cluster:20 |
+
+
+[Cluster overview and linked profiles](CLUSTERS.md). The cluster source baseline remains 11 October 2026; first public GitHub release: 12 October 2026.
