@@ -32,6 +32,8 @@ South Korea's case combines investment in research with several distinct technic
 
 ### Country Comparison Record
 
+[Read the comparison notes for all 20 countries](COMPARISONS.md). The notes were added on 12 October 2026; the original comparison date below is unchanged.
+
 Comparison date: 11 October 2026. Intelligence and Beyond remain the assessment priorities. The evidence concerns technical contributions, investment and the institutions developing future capabilities.
 
 | Country | Intelligence contribution | Beyond contribution | Strongest competing case |
@@ -134,3 +136,10 @@ Record IDs stay stable when the order changes. Missing source access dates remai
 Send corrections to [aei.b2agi@gmail.com](mailto:aei.b2agi@gmail.com).
 
 Assessment baseline: October 2026. Source revision: 2026-10-11. [Revision history](CHANGELOG.md).
+
+
+## Reading this revision
+
+Current text: v1.1, 12 October 2026. The source baseline remains 11 October 2026. Source publication dates, recorded access dates and last-checked dates are separate fields. A missing publication date is marked “publication date not recorded”; it is not inferred from an access date or the edition year. Only statements identified as rechecked evidence have a new original-source reading claim.
+
+[Publisher and reuse terms](RIGHTS.md).

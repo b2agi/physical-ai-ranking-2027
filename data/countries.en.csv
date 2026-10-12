@@ -1,5 +1,5 @@
 id,rank,name,role,selection_rationale,evidence_scope,source_references,source_urls
-country:01,1,United States,National industrialization assessment,"The United States brings general-purpose models and robotics platforms into named customer tasks, supported by growth capital and operating records.","IFR 2025 installation data, operating and customer records, technical platforms, completed financing and operating permissions.","country:01:S1
+country:01,1,United States,"Robotics platforms, customer deployment and growth capital","The United States brings general-purpose models and robotics platforms into named customer tasks, supported by growth capital and operating records.","IFR 2025 installation data, operating and customer records, technical platforms, completed financing and operating permissions.","country:01:S1
 country:01:S2
 country:01:S3
 country:01:S4
@@ -16,7 +16,7 @@ https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles
 https://ifr.org/ifr-press-releases/news/global-robot-density-in-factories-doubled-in-seven-years
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:02,2,China,National industrialization assessment,"China combines sensing, robot hardware and electronics manufacturing with product development and dense supply chains. Industrial-robot demand supports this manufacturing base.","IFR 2025 industrial-robot installations and domestic supplier share; manufacturer and customer records; research, financing, testing and shared development infrastructure.","country:02:S1
+country:02,2,China,Robot hardware and integrated manufacturing networks,"China combines sensing, robot hardware and electronics manufacturing with product development and dense supply chains. Industrial-robot demand supports this manufacturing base.","IFR 2025 industrial-robot installations and domestic supplier share; manufacturer and customer records; research, financing, testing and shared development infrastructure.","country:02:S1
 country:02:S2
 country:02:S3
 country:02:S4
@@ -37,7 +37,7 @@ https://www.oecd.org/en/data/insights/statistical-releases/2026/03/oecd-overall-
 https://new.abb.com/news/detail/127379/abb-strengthens-china-robotics-leadership-with-three-new-robot-families
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:03,3,South Korea,National industrialization assessment,"Korea combines research investment with NAVER's cloud-based robot coordination, KAIST's learned locomotion control and university-led robotics commercialization.",NAVER's internal operations; KAIST's July 2026 HOUND experiments and February 2026 report on technology-transfer and investment activity. The March 2026 testbed demonstration and planned external access retain separate stages. Economy-wide research indicators provide context.,"country:03:S1
+country:03,3,South Korea,"Robot coordination, learned control and research commercialization","Korea combines research investment with NAVER's cloud-based robot coordination, KAIST's learned locomotion control and university-led robotics commercialization.",NAVER's internal operations; KAIST's July 2026 HOUND experiments and February 2026 report on technology-transfer and investment activity. The March 2026 testbed demonstration and planned external access retain separate stages. Economy-wide research indicators provide context.,"country:03:S1
 country:03:S2
 country:03:S3
 country:03:S4
@@ -62,7 +62,7 @@ https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-facto
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx
 https://www.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=64450
 https://www.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=58790"
-country:04,4,Japan,National industrialization assessment,"Japan brings perception and motion generation into established manufacturing processes, building on robotics and precision-control capabilities.","JARA calendar-2025 production and shipments, IFR installations, robot-control and customer records. JARA includes dedicated manipulators; production and installation measures retain separate definitions.","country:04:S1
+country:04,4,Japan,Perception and motion planning in factory processes,"Japan brings perception and motion generation into established manufacturing processes, building on robotics and precision-control capabilities.","JARA calendar-2025 production and shipments, IFR installations, robot-control and customer records. JARA includes dedicated manipulators; production and installation measures retain separate definitions.","country:04:S1
 country:04:S2
 country:04:S3
 country:04:S4
@@ -83,7 +83,7 @@ https://www.jara.jp/e/data/dl/year/IR_CY2025_e.pdf
 https://global.toyota/en/mobility/frontier-research/43588128.html
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:05,5,Germany,National industrialization assessment,"Germany brings industrial customers, intelligent integration providers and external testing and approval into the same deployment pathway.","Manufacturing demand, customer-process integration, industrial fleets and testing services. Overseas customer installations retain their operating locations.","country:05:S1
+country:05,5,Germany,"Industrial manipulation, integration and testing","Germany brings industrial customers, intelligent integration providers and external testing and approval into the same deployment pathway.","Manufacturing demand, customer-process integration, industrial fleets and testing services. Overseas customer installations retain their operating locations.","country:05:S1
 country:05:S2
 country:05:S3
 country:05:S4
@@ -102,7 +102,7 @@ https://ifr.org/ifr-press-releases/news/global-robot-density-in-factories-double
 https://de.ai-matters.eu/en/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:06,6,United Kingdom,National industrialization assessment,The United Kingdom develops local robotics models and robot-learning hands through documented joint development.,"Driving trials, DEX-EE and DemoStart research, model development, financing and reusable tools. Joint international research retains shared attribution.","country:06:S1
+country:06,6,United Kingdom,On-device robotics models and dexterous learning,The United Kingdom develops local robotics models and robot-learning hands through documented joint development.,"Driving trials, DEX-EE and DemoStart research, model development, financing and reusable tools. Joint international research retains shared attribution.","country:06:S1
 country:06:S2
 country:06:S3
 country:06:S4
@@ -111,12 +111,12 @@ https://deepmind.google/blog/advances-in-robot-dexterity/
 https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:07,7,Switzerland,National industrialization assessment,Switzerland’s ANYmal brings learned control into industrial inspection workflows.,"Learned inspection and locomotion, research-to-product transfer, institutional and financial context, with development and customer sites separately attributed.","country:07:S1
+country:07,7,Switzerland,Learned control for industrial inspection,Switzerland’s ANYmal brings learned control into industrial inspection workflows.,"Learned inspection and locomotion, research-to-product transfer, institutional and financial context, with development and customer sites separately attributed.","country:07:S1
 country:07:S2
 country:07:S3","https://www.anybotics.com/news/anybotics-manifesto/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:08,8,France,National industrialization assessment,France provides open robot-learning tools and develops general-purpose manipulation models alongside hardware integrations.,"Warehouse implementations, robot-learning tools, manufacturing integration, financing and testing access. Joint French-US development retains shared attribution.","country:08:S1
+country:08,8,France,Open robot-learning tools and manipulation models,France provides open robot-learning tools and develops general-purpose manipulation models alongside hardware integrations.,"Warehouse implementations, robot-learning tools, manufacturing integration, financing and testing access. Joint French-US development retains shared attribution.","country:08:S1
 country:08:S2
 country:08:S3
 country:08:S4
@@ -129,7 +129,7 @@ https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles
 https://ai-matters.eu/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:09,9,Canada,National industrialization assessment,"Canada develops physical manipulation learning, industrial tools and truck-OEM integration through distinct product pathways.","Industrial robot suppliers, shared research assets and supervised freight development. Waterloo and Toronto activity retain separate locations.","country:09:S1
+country:09,9,Canada,Manipulation learning and autonomous-truck integration,"Canada develops physical manipulation learning, industrial tools and truck-OEM integration through distinct product pathways.","Industrial robot suppliers, shared research assets and supervised freight development. Waterloo and Toronto activity retain separate locations.","country:09:S1
 country:09:S2
 country:09:S3
 country:09:S4
@@ -142,7 +142,7 @@ https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles
 https://www.waterlooedc.ca/blog/4-pillars-canada-largest-robotics-automation-cluster
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:10,10,Taiwan,National industrialization assessment,"Taiwan combines semiconductor fabrication and packaging with R&D, robotics investment and industrial testing infrastructure.",NSTC 2024 R&D expenditure; TSMC fabrication and packaging; electronics and robotics records; ITRI testing and incubation infrastructure.,"country:10:S1
+country:10,10,Taiwan,"Semiconductor fabrication, packaging and robotics infrastructure","Taiwan combines semiconductor fabrication and packaging with R&D, robotics investment and industrial testing infrastructure.",NSTC 2024 R&D expenditure; TSMC fabrication and packaging; electronics and robotics records; ITRI testing and incubation infrastructure.,"country:10:S1
 country:10:S2
 country:10:S3
 country:10:S4
@@ -153,7 +153,7 @@ https://wsts.nstc.gov.tw/stsweb/technology/TechnologyStatistics.aspx?ID=1&langua
 https://investor.tsmc.com/static/annualReports/2025/english/index.html
 https://itritoday.itri.org/126/content/en/unit_01-3.html
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally"
-country:11,11,Denmark,National industrialization assessment,"Denmark supplies AMRs for transport and collaborative robots for AI greenhouse harvesting, with named customer tasks.","UR and MiR platform supply, Odense development infrastructure, DTI incubation and Danish industry records. National turnover and local cluster activity retain separate scopes.","country:11:S1
+country:11,11,Denmark,Mobile logistics and collaborative-robot platforms,"Denmark supplies AMRs for transport and collaborative robots for AI greenhouse harvesting, with named customer tasks.","UR and MiR platform supply, Odense development infrastructure, DTI incubation and Danish industry records. National turnover and local cluster activity retain separate scopes.","country:11:S1
 country:11:S2
 country:11:S3
 country:11:S4
@@ -164,7 +164,7 @@ https://www.odenserobotics.dk/robotics-industry-explores-new-paths-in-a-challeng
 https://www.dti.dk/services/startup-incubator/47174
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:12,12,Sweden,National industrialization assessment,"Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.",WARA's December 2024 industry-linked challenge and WASP's May 2026 graduate statistic; domestic ABB development and multinational Hexagon activity retain their locations. The new ABB campus is scheduled for 2027.,"country:12:S1
+country:12,12,Sweden,Industry-linked robotics research and doctoral training,"Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.",WARA's December 2024 industry-linked challenge and WASP's May 2026 graduate statistic; domestic ABB development and multinational Hexagon activity retain their locations. The new ABB campus is scheduled for 2027.,"country:12:S1
 country:12:S2
 country:12:S3
 country:12:S4
@@ -177,7 +177,7 @@ https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-facto
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx
 https://wasp-sweden.org/phd-students-challenged-by-the-industry-at-wara-robotics-challenge/
 https://wasp-sweden.org/graduate-school/"
-country:13,13,Singapore,National industrialization assessment,Singapore brings foreign robot hardware into power-tunnel inspection through local integration and operation.,"Power-tunnel inspection, retail integration, local operators, research and institutional context; country and cluster profiles cross-reference shared events.","country:13:S1
+country:13,13,Singapore,Local integration for power-tunnel inspection,Singapore brings foreign robot hardware into power-tunnel inspection through local integration and operation.,"Power-tunnel inspection, retail integration, local operators, research and institutional context; country and cluster profiles cross-reference shared events.","country:13:S1
 country:13:S2
 country:13:S3
 country:13:S4
@@ -186,7 +186,7 @@ https://egpvision.com/
 https://ifr.org/ifr-press-releases/news/global-robot-density-in-factories-doubled-in-seven-years
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:14,14,Netherlands,National industrialization assessment,The Netherlands combines a documented warehouse-automation installation with an automation-finance role serving an overseas site.,"ASML equipment and R&D, domestic warehouse integration, testing services and separately located overseas automation finance.","country:14:S1
+country:14,14,Netherlands,Warehouse integration and automation finance,The Netherlands combines a documented warehouse-automation installation with an automation-finance role serving an overseas site.,"ASML equipment and R&D, domestic warehouse integration, testing services and separately located overseas automation finance.","country:14:S1
 country:14:S2
 country:14:S3
 country:14:S4
@@ -197,7 +197,7 @@ https://www.investor.asml.com/annual-reports
 https://ai-matters.eu/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:15,15,Israel,National industrialization assessment,"Israel develops observation-based physical manipulation and driver-assistance technology, supported by research investment and national AI computing access for academia and industry.","Manipulation development, eyes-on SuperVision assistance and acquisition records. January 2026 national computing infrastructure is operational; accelerator allocations extend over subsequent years.","country:15:S1
+country:15,15,Israel,Manipulation development and national AI computing,"Israel develops observation-based physical manipulation and driver-assistance technology, supported by research investment and national AI computing access for academia and industry.","Manipulation development, eyes-on SuperVision assistance and acquisition records. January 2026 national computing infrastructure is operational; accelerator allocations extend over subsequent years.","country:15:S1
 country:15:S2
 country:15:S3
 country:15:S4
@@ -206,7 +206,7 @@ https://www.sec.gov/Archives/edgar/data/1910139/000110465926048124/tm261059d3_ar
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx
 https://innovationisrael.org.il/en/press_release/supercomputer-access-2026/"
-country:16,16,Australia,National industrialization assessment,Australia hosts autonomous construction at a solar site and shared physical testing by public research teams.,"Komatsu's September 2025 Australian operating fleet, Rio Tinto Pilbara rail and drilling, and a separately staged construction pilot.","country:16:S1
+country:16,16,Australia,Autonomous mining and construction field trials,Australia hosts autonomous construction at a solar site and shared physical testing by public research teams.,"Komatsu's September 2025 Australian operating fleet, Rio Tinto Pilbara rail and drilling, and a separately staged construction pilot.","country:16:S1
 country:16:S2
 country:16:S3
 country:16:S4
@@ -217,7 +217,7 @@ https://www.komatsu.com/en-au/newsroom/2025/500-ahs-trucks-in-operation-in-aus
 https://www.riotinto.com/en/mn/about/innovation/automation
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:17,17,Italy,National industrialization assessment,Italy’s industrial robotics integration extends into AI logistics trials in a named customer environment.,"IFR manufacturing installations, located industrial automation supply, customer integration and European testing infrastructure.","country:17:S1
+country:17,17,Italy,Industrial integration and warehouse validation,Italy’s industrial robotics integration extends into Comau’s AI-enabled warehouse testing and validation for the European MASTERLY project.,"IFR manufacturing installations, Italian automation supply and European testing infrastructure. Comau reported Decathlon warehouse validation on 9 September 2026; the customer warehouse location is not established by that release.","country:17:S1
 country:17:S2
 country:17:S3
 country:17:S4
@@ -228,7 +228,7 @@ https://www.comau.com/en/about-us/global-presence/
 https://ai-matters.eu/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:18,18,Spain,National industrialization assessment,Spain hosts Barcelona robotics-platform development and an AI inspection development site.,"Barcelona robot engineering, manufacturing robot demand, customer integration and shared European testing resources.","country:18:S1
+country:18,18,Spain,Robotics engineering and AI inspection development,Spain hosts Barcelona robotics-platform development and an AI inspection development site.,"Barcelona robot engineering, manufacturing robot demand, customer integration and shared European testing resources.","country:18:S1
 country:18:S2
 country:18:S3
 country:18:S4
@@ -239,12 +239,12 @@ https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles
 https://ai-matters.eu/
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:19,19,Norway,National industrialization assessment,"Norway’s robotics development brings intelligence, actuators, assembly and testing together at the Moss facility.","Quarry operation, training and developing robot manufacture. Planned facilities retain their announced stage; US activities retain separate regional attribution.","country:19:S1
+country:19,19,Norway,Humanoid engineering and manufacturing development,"1X’s April 2024 announcement describes development of a Moss, Norway facility linking engineering, actuator manufacture, robot assembly and testing.","Company-reported manufacturing development in Moss, Norway, announced 2 April 2024. The cited announcement does not establish completion or current operating capacity.","country:19:S1
 country:19:S2
 country:19:S3","https://www.1x.tech/discover/scaling-neo-production-1x-builds-in-house-manufacturing-facility
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:20,20,United Arab Emirates,National industrialization assessment,The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.,"Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.","country:20:S1
+country:20,20,United Arab Emirates,Adoption and operation of autonomous passenger services,The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.,"Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.","country:20:S1
 country:20:S2
 country:20:S3","https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/robotaxi-surpasses-4-million-kilometres-as-customer-satisfaction-reaches-97percent
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally

@@ -1,5 +1,5 @@
 ---
-title: "Sweden | National industrialization assessment | B2AGI Physical AI 2027"
+title: "Sweden | Industry-linked robotics research and doctoral training | B2AGI Physical AI 2027"
 record_id: "country:12"
 name: "Sweden"
 category: "countries"
@@ -7,53 +7,49 @@ selection_group: "Country ranking"
 edition: 2027
 assessment_baseline: "October 2026"
 source_revision: "2026-10-11"
-version: "1.0"
-keywords: ["Sweden", "country:12", "Physical AI", "Embodied AI", "Country ranking", "National industrialization assessment", "humanoid-robotics", "robotics-standards"]
+publication_date: "2026-10-12"
+revision: "2026-10-12"
+version: "1.1"
+assessment_focus: "Industry-linked robotics research and doctoral training"
+keywords: ["Sweden", "country:12", "Physical AI", "Embodied AI", "Country ranking", "Industry-linked robotics research and doctoral training", "humanoid-robotics", "robotics-standards"]
 tags: ["b2agi", "physical-ai", "country-research", "humanoid-robotics", "robotics-standards"]
 rank: 12
 ---
 
-# Sweden — National industrialization assessment
+# Sweden
+
+Industry-linked robotics research and doctoral training.
+
+2027 edition · October 2026 assessment · text revision v1.1, 12 October 2026 · record `country:12` · rank 12.
+
+## Assessment
 
 Sweden connects robotics research and industrial tasks through WARA Robotics and WASP doctoral training, alongside ABB development, ISO standards work and Hexagon's humanoid programme.
-
-## Record and edition
-
-- **Record ID:** `country:12`
-- **List:** Country ranking
-- **Edition:** B2AGI Physical AI Ranking 2027
-- **Assessment baseline:** October 2026
-- **Source revision:** 2026-10-11 · v1.0
-- **Geographic rank:** 12
 
 ## Evidence scope
 
 WARA's December 2024 industry-linked challenge and WASP's May 2026 graduate statistic; domestic ABB development and multinational Hexagon activity retain their locations. The new ABB campus is scheduled for 2027.
 
+## Evidence behind the assessment
+
+Hexagon reported AEON training and validation at Schaeffler’s Humanoid Gym in Germany before planned factory deployment. [country:12:S1](https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform) Published 2026-08-19.
+
+Multinational development contribution; the training site is in Germany, not Sweden.
+
 ## Sources
 
-- **country:12:S1 — hexagon.com:** <https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform>
-- **country:12:S2 — www.iso.org:** <https://www.iso.org/committee/5915511.html>
-- **country:12:S3 — new.abb.com:** <https://new.abb.com/news/sv/detail/126891/startskott-for-abbs-robotics-campus-i-vasteras-idag-togs-forsta-spadtaget> · Recorded access: 2026-10-11
-- **country:12:S4 — Five million robots now operate in factories globally:** <https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally> · Recorded access: 2026-10-11
-- **country:12:S5 — www.wipo.int:** <https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx> · Recorded access: 2026-10-11
-- **country:12:S6 — WARA Robotics industry-linked challenge:** <https://wasp-sweden.org/phd-students-challenged-by-the-industry-at-wara-robotics-challenge/> · Recorded access: 2026-10-11
-- **country:12:S7 — WASP Graduate School:** <https://wasp-sweden.org/graduate-school/> · Recorded access: 2026-10-11
+- **country:12:S1** · [Towards factory deployment: How AEON is trained to perform](https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform) · published 2026-08-19 · checked 2026-10-12
+- **country:12:S2** · [www.iso.org](https://www.iso.org/committee/5915511.html) · publication date not recorded
+- **country:12:S3** · [new.abb.com](https://new.abb.com/news/sv/detail/126891/startskott-for-abbs-robotics-campus-i-vasteras-idag-togs-forsta-spadtaget) · publication date not recorded · recorded access 2026-10-11
+- **country:12:S4** · [Five million robots now operate in factories globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) · published 2026-09-24 · recorded access 2026-10-11
+- **country:12:S5** · [www.wipo.int](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx) · publication date not recorded · recorded access 2026-10-11
+- **country:12:S6** · [WARA Robotics industry-linked challenge](https://wasp-sweden.org/phd-students-challenged-by-the-industry-at-wara-robotics-challenge/) · published 2025-01-21 · recorded access 2026-10-11
+- **country:12:S7** · [WASP Graduate School](https://wasp-sweden.org/graduate-school/) · publication date not recorded · recorded access 2026-10-11
 
-## Related records
+## Comparison and citation
 
-Related record IDs are retained in the JSON. Their profiles are outside this country-only release.
+[Comparison note for Sweden](../../COMPARISONS.md#country-12) · [Country Top 20](../../README.md) · [Methodology](../../METHODOLOGY.md)
 
-## Read the comparison
+Cite *B2AGI Physical AI 2027: Country Atlas Top 20*, record `country:12`, text revision v1.1 (12 October 2026), and the relevant source-reference ID. Record IDs identify entries; they do not indicate rank. Retain the original publisher and reporting period when citing a source.
 
-[Country Top 20](../../README.md) · [Methodology](../../METHODOLOGY.md)
-
-## Search terms
-
-Sweden, country:12, Physical AI, Embodied AI, Country ranking, National industrialization assessment, humanoid-robotics, robotics-standards
-
-**Tags:** b2agi, physical-ai, country-research, humanoid-robotics, robotics-standards
-
-## Citation and corrections
-
-Cite B2AGI Physical AI Ranking 2027, record `country:12`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+[Submit a correction](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Publisher and reuse terms](../../RIGHTS.md)

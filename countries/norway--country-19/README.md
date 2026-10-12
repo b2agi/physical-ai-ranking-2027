@@ -1,5 +1,5 @@
 ---
-title: "Norway | National industrialization assessment | B2AGI Physical AI 2027"
+title: "Norway | Humanoid engineering and manufacturing development | B2AGI Physical AI 2027"
 record_id: "country:19"
 name: "Norway"
 category: "countries"
@@ -7,49 +7,45 @@ selection_group: "Country ranking"
 edition: 2027
 assessment_baseline: "October 2026"
 source_revision: "2026-10-11"
-version: "1.0"
-keywords: ["Norway", "country:19", "Physical AI", "Embodied AI", "Country ranking", "National industrialization assessment"]
+publication_date: "2026-10-12"
+revision: "2026-10-12"
+version: "1.1"
+assessment_focus: "Humanoid engineering and manufacturing development"
+keywords: ["Norway", "country:19", "Physical AI", "Embodied AI", "Country ranking", "Humanoid engineering and manufacturing development"]
 tags: ["b2agi", "physical-ai", "country-research"]
 rank: 19
 ---
 
-# Norway — National industrialization assessment
+# Norway
 
-Norway’s robotics development brings intelligence, actuators, assembly and testing together at the Moss facility.
+Humanoid engineering and manufacturing development.
 
-## Record and edition
+2027 edition · October 2026 assessment · text revision v1.1, 12 October 2026 · record `country:19` · rank 19.
 
-- **Record ID:** `country:19`
-- **List:** Country ranking
-- **Edition:** B2AGI Physical AI Ranking 2027
-- **Assessment baseline:** October 2026
-- **Source revision:** 2026-10-11 · v1.0
-- **Geographic rank:** 19
+## Assessment
+
+1X’s April 2024 announcement describes development of a Moss, Norway facility linking engineering, actuator manufacture, robot assembly and testing.
 
 ## Evidence scope
 
-Quarry operation, training and developing robot manufacture. Planned facilities retain their announced stage; US activities retain separate regional attribution.
+Company-reported manufacturing development in Moss, Norway, announced 2 April 2024. The cited announcement does not establish completion or current operating capacity.
+
+## Evidence behind the assessment
+
+1X described development of a Moss facility bringing engineering, actuator manufacture, robot assembly and testing together. [country:19:S1](https://www.1x.tech/discover/scaling-neo-production-1x-builds-in-house-manufacturing-facility) Published 2024-04-02.
+
+Development announcement; this source does not establish completed facilities or current operating capacity.
 
 ## Sources
 
-- **country:19:S1 — www.1x.tech:** <https://www.1x.tech/discover/scaling-neo-production-1x-builds-in-house-manufacturing-facility>
-- **country:19:S2 — Five million robots now operate in factories globally:** <https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally> · Recorded access: 2026-10-11
-- **country:19:S3 — www.wipo.int:** <https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx> · Recorded access: 2026-10-11
+- **country:19:S1** · [Scaling NEO Production: 1X builds in-house manufacturing facility](https://www.1x.tech/discover/scaling-neo-production-1x-builds-in-house-manufacturing-facility) · published 2024-04-02 · checked 2026-10-12
+- **country:19:S2** · [Five million robots now operate in factories globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) · published 2026-09-24 · recorded access 2026-10-11
+- **country:19:S3** · [www.wipo.int](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx) · publication date not recorded · recorded access 2026-10-11
 
-## Related records
+## Comparison and citation
 
-Related record IDs are retained in the JSON. Their profiles are outside this country-only release.
+[Comparison note for Norway](../../COMPARISONS.md#country-19) · [Country Top 20](../../README.md) · [Methodology](../../METHODOLOGY.md)
 
-## Read the comparison
+Cite *B2AGI Physical AI 2027: Country Atlas Top 20*, record `country:19`, text revision v1.1 (12 October 2026), and the relevant source-reference ID. Record IDs identify entries; they do not indicate rank. Retain the original publisher and reporting period when citing a source.
 
-[Country Top 20](../../README.md) · [Methodology](../../METHODOLOGY.md)
-
-## Search terms
-
-Norway, country:19, Physical AI, Embodied AI, Country ranking, National industrialization assessment
-
-**Tags:** b2agi, physical-ai, country-research
-
-## Citation and corrections
-
-Cite B2AGI Physical AI Ranking 2027, record `country:19`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+[Submit a correction](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Publisher and reuse terms](../../RIGHTS.md)
