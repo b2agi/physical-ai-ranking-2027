@@ -2,15 +2,15 @@
 
 ## Cluster Atlas · Top 20
 
-![Twenty leading industrial clusters, with Shenzhen–Dongguan, the San Francisco Bay Area and Shanghai–Hangzhou–Suzhou at the head of the retained order.](assets/cluster-atlas-overview.png)
+![Cities and Industrial Clusters Top 20, led by Shenzhen–Dongguan, the San Francisco Bay Area and Shanghai–Hangzhou–Suzhou.](assets/cluster-atlas-overview.png)
 
-2027 edition · October 2026 assessment baseline · first published 12 October 2026 · v1.0.
+**2027 edition · October 2026 assessment · First published 12 October 2026 · v1.0**
 
-Physical AI develops in places where research, engineering, suppliers and customers can work together. Shenzhen–Dongguan connects product development with incubation and manufacturing access. The Bay Area brings reusable robotics platforms into shared research facilities. Shanghai and Hangzhou combine training infrastructure with robot products and physical-system research.
+This atlas compares 20 industrial regions through their research networks, engineering capacity and customer activity.
 
-The order reflects qualitative comparison, not a composite numerical score. The panorama is concept artwork. Region sizes and boundaries differ; each profile states where its evidence is actually located.
+Shenzhen–Dongguan links robot engineering and incubation with manufacturing access. The San Francisco Bay Area connects robotics platforms, learning research and shared facilities. Shanghai–Hangzhou–Suzhou brings together training infrastructure, robot products and physical-system research.
 
-[Country Atlas](README.md#country-overview) · [Comparison method](METHODOLOGY.md#cluster-comparison) · [JSON](data/clusters.en.json) · [CSV](data/clusters.en.csv)
+[Explore the regions](#cluster-overview) · [Country Atlas](README.md#country-overview) · [Comparison method](METHODOLOGY.md#cluster-comparison)
 
 ## Cluster overview
 
@@ -37,10 +37,23 @@ The order reflects qualitative comparison, not a composite numerical score. The 
 | 19 | 🇰🇷 [Pohang](clusters/pohang-industrial-robotics-and-manufacturing-research-region--cluster-19/README.md) | Robot manufacture and steel-industry development |
 | 20 | 🇺🇸 [Austin](clusters/austin-region--cluster-20/README.md) | Humanoid development, customer trials and growth capital |
 
-## How to read the regions
+## Regional scope
 
-The full regional names and boundaries are in the profiles. Shanghai–Hangzhou–Suzhou is an analytical region; the cited activities are located in Shanghai and Hangzhou. Cambridge contributes research and founding lineage to the London profile. Sejong and Osong retain their transport-link roles in the Daejeon profile. An overseas customer trial remains at its customer site: Austin’s Apptronik–Mercedes trials were in Germany.
+Each profile defines its regional boundary and identifies the locations of the cited activity.
 
-## Publisher and citation
+- **Shanghai–Hangzhou–Suzhou:** The analytical region includes all three cities. The cited activities are located in Shanghai and Hangzhou.
+- **London and Cambridge:** Cambridge contributes research and founding lineage to the London profile.
+- **Daejeon, Sejong and Osong:** Sejong and Osong retain their transport-link roles in the Daejeon profile.
+- **Austin:** Apptronik's robot development is based in Austin; its Mercedes customer trials took place in Germany.
 
-Published by [B2AGI](https://b2agi.com), 2026. Cite the cluster record, source-reference ID and revision used. [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Reuse terms](RIGHTS.md) · [Contact](mailto:aei.b2agi@gmail.com).
+## Research and data
+
+The assessment uses qualitative comparison. Individual profiles provide the selection rationale, evidence scope and original source references.
+
+[Comparison method](METHODOLOGY.md#cluster-comparison) · [JSON](data/clusters.en.json) · [CSV](data/clusters.en.csv)
+
+## Publication
+
+Published by [B2AGI](https://b2agi.com), 2026. Cite the cluster record, source-reference ID and revision used.
+
+[Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Reuse terms](RIGHTS.md) · [Contact](mailto:aei.b2agi@gmail.com).
