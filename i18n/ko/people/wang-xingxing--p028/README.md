@@ -1,0 +1,34 @@
+---
+title: "Wang Xingxing / 왕싱싱 | 4족 보행 로봇 설계 및 제어 | B2AGI Physical AI 2027"
+record_id: "P028"
+language: "ko"
+selection_group: "Influence 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Wang Xingxing / 왕싱싱
+
+4족 보행 로봇 설계 및 제어
+
+`P028` · Influence 50
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+Wang Xingxing designed XDog and held development responsibility for a quadruped group-control system.
+
+## 근거 범위 · 영문 원문
+
+Shanghai University alumni account; team development and later Unitree business results retain separate attribution.
+
+## 출처
+
+- `P028:S1` · [www.shu.edu.cn](https://www.shu.edu.cn/info/1056/3355.htm)
+- `P028:S2` · [alumni.shu.edu.cn](https://alumni.shu.edu.cn/info/1018/3152.htm)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/people/wang-xingxing--p028/README.md)

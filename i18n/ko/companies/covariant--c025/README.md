@@ -1,0 +1,35 @@
+---
+title: "Covariant | 학습 기반 피킹 | B2AGI Physical AI 2027"
+record_id: "C025"
+language: "ko"
+selection_group: "Current 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Covariant
+
+학습 기반 피킹
+
+`C025` · Current 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+Covariant Brain supports everyday learned picking and sorting at Radial’s TradePort2 facility in Louisville.
+
+## 근거 범위 · 영문 원문
+
+Radial’s 2023 customer announcement; throughput and SKU coverage are customer-reported, while later expansion plans are separate.
+
+## 출처
+
+- `C025:S1` · [www.radial.com](https://www.radial.com/resources/press-room/radial-selects-covariant-to-automate-ecommerce-fulfillment-with-ai-powered-robotics)
+- `C025:S2` · [covariant.ai](https://covariant.ai/resources/radial-turns-to-ai-robotic-automation/)
+- `C025:S3` · [www.ottogroup.com](https://www.ottogroup.com/en/medien/newsroom/meldungen/otto-group-enters-strategic-partnership-with-covariant-to-power-its-logistics-network-with-ai-robotics.php)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/covariant--c025/README.md)

@@ -1,0 +1,35 @@
+---
+title: "모빌테크 / Mobiltech | 공간 데이터 자산 | B2AGI Physical AI 2027"
+record_id: "N097"
+language: "ko"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# 모빌테크 / Mobiltech
+
+공간 데이터 자산
+
+`N097` · Next 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+Mobiltech supplies documented 3D spatial assets and links them to named test grounds and simulators.
+
+## 근거 범위 · 영문 원문
+
+Mobiltech's published simulation and open-data asset records describe the spatial-data contribution.
+
+## 출처
+
+- `N097:S1` · [www.mobiltech.io](https://www.mobiltech.io/application-simulation)
+- `N097:S2` · [www.mobiltech.io](https://www.mobiltech.io/opendata)
+- `N097:S3` · [www.mobiltech.io](https://www.mobiltech.io/opendata/%EA%B0%95%EB%82%A8%EC%97%AD-(a%EA%B5%AC%EC%97%AD))
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/mobiltech--n097/README.md)

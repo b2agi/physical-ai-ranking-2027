@@ -1,0 +1,33 @@
+---
+title: "Vayu Robotics | 학습 기반 배송 모빌리티 | B2AGI Physical AI 2027"
+record_id: "N081"
+language: "ko"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Vayu Robotics
+
+학습 기반 배송 모빌리티
+
+`N081` · Next 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+Vayu’s 2024 announcement describes a physical delivery robot combining transformer-based movement with passive optical sensors, plus application to wheeled platforms.
+
+## 근거 범위 · 영문 원문
+
+Company development report and announcement of a 2,500-unit deployment contract.
+
+## 출처
+
+- `N081:S1` · [www.vayurobotics.com](https://www.vayurobotics.com/press-releases/vayu-robotics-debuts-the-worlds-first-on-road-delivery-robot-powered-by-ai-robotics-foundation-models)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/vayu-robotics--n081/README.md)

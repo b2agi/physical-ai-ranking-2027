@@ -1,0 +1,35 @@
+---
+title: "NHTSA | 자율주행 관련 리콜 보고 | B2AGI Physical AI 2027"
+record_id: "I032"
+language: "ko"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# NHTSA
+
+자율주행 관련 리콜 보고
+
+`I032` · Institutions 50
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+NHTSA provides public safety-recall reporting, including Waymo's manufacturer-submitted report on an automated-driving flooding hazard.
+
+## 근거 범위 · 영문 원문
+
+Recall 26E026, submitted May 6, 2026, records interim operating restrictions and a final remedy under development at filing.
+
+## 출처
+
+- `I032:S1` · [www.nhtsa.gov](https://www.nhtsa.gov/vehicle-manufacturers)
+- `I032:S2` · [static.nhtsa.gov](https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E026-6527.pdf)
+- `I032:S3` · [www.nhtsa.gov](https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-03/2025-annual-recalls-report.pdf)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/nhtsa--i032/README.md)

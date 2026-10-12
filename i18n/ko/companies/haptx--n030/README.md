@@ -1,0 +1,37 @@
+---
+title: "HaptX | 촉각 원격 조작 | B2AGI Physical AI 2027"
+record_id: "N030"
+language: "ko"
+selection_group: "Current 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# HaptX
+
+촉각 원격 조작
+
+`N030` · Current 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+HaptX supplies tactile gloves adopted in Sanctuary's development workflow, providing human teleoperation input.
+
+## 근거 범위 · 영문 원문
+
+Sanctuary customer account and HaptX robotics cases, undated: gloves used in the customer's pilot-rig teleoperation workflow; autonomous robot tasks remain development.
+
+## 출처
+
+- `N030:S1` · [haptx.com](https://haptx.com/)
+- `N030:S2` · [haptx.com](https://haptx.com/company/)
+- `N030:S3` · [haptx.com](https://haptx.com/blogs/)
+- `N030:S4` · [haptx.com](https://haptx.com/use-cases-robotics/)
+- `N030:S5` · [sanctuary.ai](https://sanctuary.ai/news/building-an-ecosystem-designed-to-build-a-human-level-ai/)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/haptx--n030/README.md)

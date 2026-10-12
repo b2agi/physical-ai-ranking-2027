@@ -1,0 +1,35 @@
+---
+title: "RobotEra | 예측형 조작 제어 정책 개발 | B2AGI Physical AI 2027"
+record_id: "N068"
+language: "ko"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# RobotEra
+
+예측형 조작 제어 정책 개발
+
+`N068` · Next 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+RobotEra develops the VPP predictive-visual manipulation-policy programme and supplies XHand used in external LeVR experiments. Hardware supply and each research team's policy retain separate attribution.
+
+## 근거 범위 · 영문 원문
+
+RobotEra VPP repository and LeVR v1, 2025-09-17: policy development and real-robot manipulation evaluation with Franka FER and XHand.
+
+## 출처
+
+- `N068:S1` · [exhibitors.gitex.com](https://exhibitors.gitex.com/gitex-global-2025/Exhibitor/ExbDetails/robotera)
+- `N068:S2` · [github.com](https://github.com/roboterax/video-prediction-policy)
+- `N068:S3` · [arxiv.org](https://arxiv.org/abs/2509.14349)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/robotera--n068/README.md)

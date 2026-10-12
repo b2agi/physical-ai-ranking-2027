@@ -1,0 +1,34 @@
+---
+title: "모빌린트 / Mobilint | 로봇 제어 정책 인코더 통합 연구 | B2AGI Physical AI 2027"
+record_id: "N096"
+language: "ko"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# 모빌린트 / Mobilint
+
+로봇 제어 정책 인코더 통합 연구
+
+`N096` · Next 100
+
+선정·평가 근거와 근거 범위는 영문 원문이다.
+
+## 선정·평가 근거 · 영문 원문
+
+Mobilint supplies Aries2 hardware for an external study of robot-policy encoder offloading, retaining hardware credit separately from the researchers' policy and evaluation.
+
+## 근거 범위 · 영문 원문
+
+Research v1, 2026-08-15: physical Aries2 encoder inference, GPU action computation and simulated rollouts; energy, latency and task-success trade-offs.
+
+## 출처
+
+- `N096:S1` · [arxiv.org](https://arxiv.org/abs/2608.15002)
+- `N096:S2` · [www.mobilint.com](https://www.mobilint.com/developers)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/mobilint--n096/README.md)
