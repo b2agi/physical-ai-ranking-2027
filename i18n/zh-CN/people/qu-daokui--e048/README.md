@@ -1,0 +1,33 @@
+---
+title: "Qu Daokui | 研究成果商业化 | B2AGI Physical AI 2027"
+record_id: "E048"
+language: "zh-CN"
+selection_group: "Ecosystem Builders 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Qu Daokui
+
+研究成果商业化
+
+`E048` · Ecosystem Builders 50
+
+入选依据与证据范围为英文原文。
+
+## 评估与入选依据 · 英文原文
+
+Qu Daokui describes commercializing research through a startup team and distinguishes company industrialization from institute research.
+
+## 证据范围 · 英文原文
+
+Field interview republished by the institute, describing the shared technology-transfer contribution.
+
+## 来源
+
+- `E048:S1` · [sia.cas.cn](https://sia.cas.cn/xwzx/mtjj/201610/t20161031_4687882.html)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/people/qu-daokui--e048/README.md)

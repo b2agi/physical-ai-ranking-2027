@@ -1,0 +1,34 @@
+---
+title: "Erico Guizzo | 机器人技术编辑资源 | B2AGI Physical AI 2027"
+record_id: "E012"
+language: "zh-CN"
+selection_group: "Ecosystem Builders 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Erico Guizzo
+
+机器人技术编辑资源
+
+`E012` · Ecosystem Builders 50
+
+入选依据与证据范围为英文原文。
+
+## 评估与入选依据 · 英文原文
+
+Erico Guizzo co-created the concept and content of Robots Guide, providing an editorial route into robotics knowledge.
+
+## 证据范围 · 英文原文
+
+Project attribution; Randi Klett, Evan Ackerman and the design and development teams retain shared contributions, with readership effects unmeasured.
+
+## 来源
+
+- `E012:S1` · [spectrum.ieee.org](https://spectrum.ieee.org/u/erico-guizzo)
+- `E012:S2` · [robotsguide.com](https://robotsguide.com/about)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/people/erico-guizzo--e012/README.md)

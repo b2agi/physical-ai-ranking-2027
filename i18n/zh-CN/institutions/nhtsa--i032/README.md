@@ -1,0 +1,35 @@
+---
+title: "NHTSA | 自动驾驶召回报告 | B2AGI Physical AI 2027"
+record_id: "I032"
+language: "zh-CN"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# NHTSA
+
+自动驾驶召回报告
+
+`I032` · Institutions 50
+
+入选依据与证据范围为英文原文。
+
+## 评估与入选依据 · 英文原文
+
+NHTSA provides public safety-recall reporting, including Waymo's manufacturer-submitted report on an automated-driving flooding hazard.
+
+## 证据范围 · 英文原文
+
+Recall 26E026, submitted May 6, 2026, records interim operating restrictions and a final remedy under development at filing.
+
+## 来源
+
+- `I032:S1` · [www.nhtsa.gov](https://www.nhtsa.gov/vehicle-manufacturers)
+- `I032:S2` · [static.nhtsa.gov](https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E026-6527.pdf)
+- `I032:S3` · [www.nhtsa.gov](https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-03/2025-annual-recalls-report.pdf)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/nhtsa--i032/README.md)

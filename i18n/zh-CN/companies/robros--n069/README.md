@@ -1,0 +1,34 @@
+---
+title: "ROBROS | 基于学习的积木分拣 | B2AGI Physical AI 2027"
+record_id: "N069"
+language: "zh-CN"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# ROBROS
+
+基于学习的积木分拣
+
+`N069` · Next 100
+
+入选依据与证据范围为英文原文。
+
+## 评估与入选依据 · 英文原文
+
+ROBROS demonstrated learned block sorting on physical hardware.
+
+## 证据范围 · 英文原文
+
+The physical demonstration covers learned block sorting; service rollout is a target. ROBROS and ROBOTIS are separate companies.
+
+## 来源
+
+- `N069:S1` · [www.robros.co.kr](https://www.robros.co.kr/en/news/05d83e1d-9bf1-406a-b6b4-aa2248124ba6)
+- `N069:S2` · [www.robros.co.kr](https://www.robros.co.kr/en/about-us)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/robros--n069/README.md)

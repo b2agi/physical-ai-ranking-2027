@@ -1,0 +1,33 @@
+---
+title: "Shanghai Stock Exchange | 工业发行人市场准入 | B2AGI Physical AI 2027"
+record_id: "I051"
+language: "zh-CN"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_language: "en"
+---
+
+# Shanghai Stock Exchange
+
+工业发行人市场准入
+
+`I051` · Institutions 50
+
+入选依据与证据范围为英文原文。
+
+## 评估与入选依据 · 英文原文
+
+Shanghai Stock Exchange provided market access for welding-robot issuer Kaierda, with trading beginning on 2021-10-25 under 688255.
+
+## 证据范围 · 英文原文
+
+Official listing notice; the exchange provides a market channel, while company proceeds and revenues retain issuer-level scope.
+
+## 来源
+
+- `I051:S1` · [big5.sse.com.cn](https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20211022_83291147.shtml)
+
+[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/shanghai-stock-exchange--i051/README.md)
