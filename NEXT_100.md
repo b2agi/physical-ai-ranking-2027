@@ -49,7 +49,7 @@ Group membership follows the contribution assessed for this edition. Section hea
 | N022 | [Floatic](companies/floatic--n022/README.md) | Collaborative picking trials |
 | N023 | [Fourier Intelligence](companies/fourier-intelligence--n023/README.md) | Robot training and deployment tools |
 | N024 | [Galaxea AI](companies/galaxea-ai--n024/README.md) | Physical manipulation learning |
-| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | Robotic component inspection |
+| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | Robot-assisted component inspection |
 | N025 | [Generalist AI](companies/generalist-ai--n025/README.md) | Manipulation-model research |
 | N026 | [Genesis AI](companies/genesis-ai--n026/README.md) | Physical manipulation development |
 | N027 | [Genisom AI](companies/genisom-ai--n027/README.md) | Robot software development tools |

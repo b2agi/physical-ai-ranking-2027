@@ -1,5 +1,5 @@
 ---
-title: "Chris Urmson | Customer operating decisions | B2AGI Physical AI 2027"
+title: "Chris Urmson | Driverless-trucking operating decision | B2AGI Physical AI 2027"
 record_id: "P005"
 name: "Chris Urmson"
 category: "people"
@@ -9,13 +9,13 @@ assessment_baseline: "October 2026"
 source_revision: "2026-10-11"
 version: "1.0"
 publication_date: "2026-10-12"
-keywords: ["Chris Urmson", "P005", "Physical AI", "Embodied AI", "Influence 50", "Customer operating decisions"]
+keywords: ["Chris Urmson", "P005", "Physical AI", "Embodied AI", "Influence 50", "Driverless-trucking operating decision"]
 tags: ["b2agi", "physical-ai", "research-contributors"]
 ---
 
-# Chris Urmson — Customer operating decisions
+# Chris Urmson — Driverless-trucking operating decision
 
-Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.
+In May 2025, Chris Urmson explained Aurora’s decision to move an observer to the front seat at vehicle partner PACCAR’s request. Aurora said the observer would not drive.
 
 ## Record and edition
 
@@ -28,7 +28,7 @@ Chris Urmson’s signed account describes changing an observer’s position afte
 
 ## Evidence scope
 
-Urmson’s signed account describes a shared operating decision responding to PACCAR’s request.
+Aurora statement dated 16 May 2025, describing a partner-requested seating change. The observer’s non-driving role is Aurora’s account, not an independent operational finding.
 
 ## Sources
 

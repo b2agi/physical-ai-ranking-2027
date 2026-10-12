@@ -1,5 +1,5 @@
 ---
-title: "CESI | Data-quality standards authorship | B2AGI Physical AI 2027"
+title: "CESI | Embodied-intelligence data-quality guidance co-authorship | B2AGI Physical AI 2027"
 record_id: "I005"
 name: "CESI"
 category: "institutions"
@@ -9,13 +9,13 @@ assessment_baseline: "October 2026"
 source_revision: "2026-10-11"
 version: "1.0"
 publication_date: "2026-10-12"
-keywords: ["CESI", "I005", "Physical AI", "Embodied AI", "Institutions 50", "Data-quality standards authorship", "robotics-standards"]
+keywords: ["CESI", "I005", "Physical AI", "Embodied AI", "Institutions 50", "Embodied-intelligence data-quality guidance co-authorship", "robotics-standards"]
 tags: ["b2agi", "physical-ai", "research-institutions", "robotics-standards"]
 ---
 
-# CESI — Data-quality standards authorship
+# CESI — Embodied-intelligence data-quality guidance co-authorship
 
-CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.
+CESI is a joint drafting organization for GB/Z 218.1-2026, guidance on real-data quality for embodied intelligence, published on 27 August 2026.
 
 ## Record and edition
 
@@ -28,7 +28,7 @@ CESI co-authored a published embodied-intelligence data-quality document, contri
 
 ## Evidence scope
 
-The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.
+The official record classifies the document as technical guidance and lists CESI among its drafters. TC28 has committee responsibility, TC28SC42 is the executing body, and SAC is the supervisory authority.
 
 ## Sources
 

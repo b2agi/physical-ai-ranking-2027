@@ -29,7 +29,7 @@ Fundamentos y alcance de la evidencia: original en inglés.
 | E010 | [Elena Messina](people/elena-messina--e010/README.md) | Normas y pruebas conjuntas |
 | E011 | [Elham Tabassi](people/elham-tabassi--e011/README.md) | Marco de gestión de riesgos de IA |
 | E012 | [Erico Guizzo](people/erico-guizzo--e012/README.md) | Recursos editoriales de robótica |
-| E013 | [Fei-Fei Li](people/fei-fei-li--e013/README.md) | Datos de visión y retos compartidos |
+| E013 | [Fei-Fei Li](people/fei-fei-li--e013/README.md) | Datos de visión y competiciones compartidas |
 | E014 | [Francesca Rossi](people/francesca-rossi--e014/README.md) | Ética del diseño de sistemas autónomos |
 | P009 | [Geordie Rose](people/geordie-rose--p009/README.md) | Inversión y apoyo de socios robóticos |
 | P010 | [Gill Pratt](people/gill-pratt--p010/README.md) | Dirección de programas compartidos de pruebas robóticas |

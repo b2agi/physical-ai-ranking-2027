@@ -29,7 +29,7 @@
 | E010 | [Elena Messina](people/elena-messina--e010/README.md) | 联合标准与测试 |
 | E011 | [Elham Tabassi](people/elham-tabassi--e011/README.md) | AI 风险管理框架 |
 | E012 | [Erico Guizzo](people/erico-guizzo--e012/README.md) | 机器人技术编辑资源 |
-| E013 | [李飞飞 / Fei-Fei Li](people/fei-fei-li--e013/README.md) | 共享视觉数据和挑战 |
+| E013 | [李飞飞 / Fei-Fei Li](people/fei-fei-li--e013/README.md) | 共享视觉数据集与挑战赛 |
 | E014 | [Francesca Rossi](people/francesca-rossi--e014/README.md) | 自主系统设计伦理 |
 | P009 | [Geordie Rose](people/geordie-rose--p009/README.md) | 机器人合作伙伴的投资和支持 |
 | P010 | [Gill Pratt](people/gill-pratt--p010/README.md) | 共享机器人测试项目统筹 |

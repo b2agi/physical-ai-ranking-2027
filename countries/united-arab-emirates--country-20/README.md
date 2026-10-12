@@ -28,7 +28,7 @@ The UAE brings external autonomous-driving technology into local transport servi
 
 ## Evidence scope
 
-Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.
+Dubai RTA’s passenger-service report dated 19 August 2026. Operational figures relate to the service period stated in that report; announced expansion and the 2030 transport target remain prospective.
 
 ## Sources
 

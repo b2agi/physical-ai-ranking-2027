@@ -39,7 +39,7 @@
 | N022 | [Floatic](companies/floatic--n022/README.md) | 协作拣选试验 |
 | N023 | [Fourier Intelligence](companies/fourier-intelligence--n023/README.md) | 机器人训练与部署工具 |
 | N024 | [Galaxea AI](companies/galaxea-ai--n024/README.md) | 物理操作学习 |
-| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | 机器人组件检测 |
+| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | 机器人辅助零部件检测 |
 | N025 | [Generalist AI](companies/generalist-ai--n025/README.md) | 操作模型研究 |
 | N026 | [Genesis AI](companies/genesis-ai--n026/README.md) | 物理操作开发 |
 | N027 | [Genisom AI](companies/genisom-ai--n027/README.md) | 机器人软件开发工具 |

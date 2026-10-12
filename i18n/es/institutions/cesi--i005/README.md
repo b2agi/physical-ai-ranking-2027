@@ -1,28 +1,28 @@
 ---
-title: "CESI | Autoría de normas de calidad de datos | B2AGI Physical AI 2027"
+title: "CESI | Coautoría de directrices de calidad de datos para IA corporizada | B2AGI Physical AI 2027"
 record_id: "I005"
 language: "es"
 selection_group: "Institutions 50"
 rank: null
 edition: 2027
 assessment_baseline: "2026-10"
-source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_revision: "2026-10-13"
 evidence_language: "en"
 ---
 
 # CESI
 
-Autoría de normas de calidad de datos
+Coautoría de directrices de calidad de datos para IA corporizada
 
 `I005` · Institutions 50
 
 ## Fundamento de selección y evaluación · original en inglés
 
-CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.
+CESI is a joint drafting organization for GB/Z 218.1-2026, guidance on real-data quality for embodied intelligence, published on 27 August 2026.
 
 ## Alcance de la evidencia · original en inglés
 
-The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.
+The official record classifies the document as technical guidance and lists CESI among its drafters. TC28 has committee responsibility, TC28SC42 is the executing body, and SAC is the supervisory authority.
 
 ## Fuentes
 
@@ -30,4 +30,4 @@ The official document identifies CESI as a joint technical author, with SAC reta
 - `I005:S2` · [www.cc.cesi.cn](https://www.cc.cesi.cn/service/show-4536.aspx)
 - `I005:S3` · [std.samr.gov.cn](https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F)
 
-[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/institutions/cesi--i005/README.md)
+[Atlas en español](../../README.md) · [Perfil en inglés](../../../../institutions/cesi--i005/README.md)

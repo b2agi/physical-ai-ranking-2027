@@ -18,7 +18,7 @@
 | I003 | [ASTM F45](institutions/astm-f45--i003/README.md) | 이동 로봇 성능 표준 |
 | I047 | [Beijing Humanoid Robot Innovation Center](institutions/beijing-humanoid-robot-innovation-center--i047/README.md) | 공유 로봇 학습 데이터 |
 | I004 | [BIGAI](institutions/bigai--i004/README.md) | 공유 로봇공학 연구 도구 |
-| I005 | [CESI](institutions/cesi--i005/README.md) | 데이터 품질 표준 작성 |
+| I005 | [CESI](institutions/cesi--i005/README.md) | 체화지능 데이터 품질 지침 공동 작성 |
 | I006 | [CMU Robotics Institute](institutions/cmu-robotics-institute--i006/README.md) | 로봇공학 연구 및 교육 |
 | I007 | [DARPA SubT 활동단위](institutions/darpa-subt--i007/README.md) | 공용 물리적 테스트 환경 |
 | I008 | [DFKI Robotics Innovation Center](institutions/dfki-robotics-innovation-center--i008/README.md) | 산업용 로봇 연구 |

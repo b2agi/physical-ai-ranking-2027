@@ -10,7 +10,6 @@
   "semantics": "Countries and clusters are qualitative rankings; companies, people and institutions are contribution-based selections. Record IDs are stable identifiers.",
   "language": "es",
   "edition_scope": "localized_directory_with_original_english_evidence",
-  "source_commit": "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7",
   "records": [
     {
       "id": "country:01",
@@ -1824,7 +1823,7 @@
       "group": null,
       "role": "Adopción y operación de servicios autónomos de pasajeros",
       "selection_rationale": "The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.",
-      "evidence_scope": "Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.",
+      "evidence_scope": "Dubai RTA’s passenger-service report dated 19 August 2026. Operational figures relate to the service period stated in that report; announced expansion and the 2030 transport target remain prospective.",
       "sources": [
         {
           "evidence_id": null,
@@ -1832,7 +1831,9 @@
           "url": "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/robotaxi-surpasses-4-million-kilometres-as-customer-satisfaction-reaches-97percent",
           "publisher_domain": "www.rta.ae",
           "recorded_access_date": null,
-          "publication_date_status": "not_recorded"
+          "publication_date_status": "recorded",
+          "publication_date": "2026-08-19",
+          "last_checked_date": "2026-10-13"
         },
         {
           "evidence_id": null,
@@ -1868,7 +1869,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "cluster:01",
@@ -7686,7 +7688,7 @@
       "name": "Gecko Robotics",
       "type": "Companies",
       "group": "Next 100",
-      "role": "Inspección robótica de componentes",
+      "role": "Inspección de componentes asistida por robots",
       "selection_rationale": "Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.",
       "evidence_scope": "Gecko announcement, 2025-07-15: initial component-inspection trials and proposed digital-thread expansion.",
       "sources": [
@@ -7700,7 +7702,7 @@
         }
       ],
       "related_ids": [],
-      "role_en": "Robotic component inspection",
+      "role_en": "Robot-assisted component inspection",
       "display_name": "Gecko Robotics",
       "language": "es",
       "field_languages": {
@@ -7708,7 +7710,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "N025",
@@ -10750,20 +10753,23 @@
       "name": "Chris Urmson",
       "type": "People",
       "group": "Influence 50",
-      "role": "Decisiones de operación para clientes",
-      "selection_rationale": "Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.",
-      "evidence_scope": "Urmson’s signed account describes a shared operating decision responding to PACCAR’s request.",
+      "role": "Decisión operativa sobre transporte de carga sin conductor",
+      "selection_rationale": "In May 2025, Chris Urmson explained Aurora’s decision to move an observer to the front seat at vehicle partner PACCAR’s request. Aurora said the observer would not drive.",
+      "evidence_scope": "Aurora statement dated 16 May 2025, describing a partner-requested seating change. The observer’s non-driving role is Aurora’s account, not an independent operational finding.",
       "sources": [
         {
           "evidence_id": "E11",
           "reference_id": "P005:S1",
           "url": "https://aurora.tech/newsroom/updating-our-driverless-operations",
           "publisher_domain": "aurora.tech",
-          "recorded_access_date": "2026-10-05"
+          "recorded_access_date": "2026-10-05",
+          "publication_date": "2025-05-16",
+          "publication_date_status": "recorded",
+          "last_checked_date": "2026-10-13"
         }
       ],
       "related_ids": [],
-      "role_en": "Customer operating decisions",
+      "role_en": "Driverless-trucking operating decision",
       "display_name": "Chris Urmson",
       "language": "es",
       "field_languages": {
@@ -10771,7 +10777,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "P007",
@@ -12940,7 +12947,7 @@
       "name": "Fei-Fei Li",
       "type": "People",
       "group": "Ecosystem Builders 50",
-      "role": "Datos de visión y retos compartidos",
+      "role": "Datos de visión y competiciones compartidas",
       "selection_rationale": "Fei-Fei Li helped build ImageNet’s shared dataset and challenge, which drew participation from multiple institutions.",
       "evidence_scope": "ImageNet’s historical data and 2010 challenge records identify shared author and organizer contributions.",
       "sources": [
@@ -12968,7 +12975,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "E014",
@@ -14559,16 +14567,19 @@
       "name": "CESI",
       "type": "Institutions",
       "group": "Institutions 50",
-      "role": "Autoría de normas de calidad de datos",
-      "selection_rationale": "CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.",
-      "evidence_scope": "The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.",
+      "role": "Coautoría de directrices de calidad de datos para IA corporizada",
+      "selection_rationale": "CESI is a joint drafting organization for GB/Z 218.1-2026, guidance on real-data quality for embodied intelligence, published on 27 August 2026.",
+      "evidence_scope": "The official record classifies the document as technical guidance and lists CESI among its drafters. TC28 has committee responsibility, TC28SC42 is the executing body, and SAC is the supervisory authority.",
       "sources": [
         {
           "evidence_id": "E792",
           "reference_id": "I005:S1",
           "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD",
           "publisher_domain": "std.samr.gov.cn",
-          "recorded_access_date": "2026-10-05"
+          "recorded_access_date": "2026-10-05",
+          "publication_date": "2026-08-27",
+          "publication_date_status": "recorded",
+          "last_checked_date": "2026-10-13"
         },
         {
           "evidence_id": "E479",
@@ -14586,7 +14597,7 @@
         }
       ],
       "related_ids": [],
-      "role_en": "Data-quality standards authorship",
+      "role_en": "Embodied-intelligence data-quality guidance co-authorship",
       "display_name": "CESI",
       "language": "es",
       "field_languages": {
@@ -14594,7 +14605,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "I006",
@@ -15985,15 +15997,18 @@
       "type": "Institutions",
       "group": "Institutions 50",
       "role": "Administración de normas nacionales",
-      "selection_rationale": "SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.",
-      "evidence_scope": "Official standards-publication record, with CESI credited for technical authorship.",
+      "selection_rationale": "SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.",
+      "evidence_scope": "The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.",
       "sources": [
         {
           "evidence_id": "E792",
           "reference_id": "I039:S1",
           "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD",
           "publisher_domain": "std.samr.gov.cn",
-          "recorded_access_date": "2026-10-05"
+          "recorded_access_date": "2026-10-05",
+          "publication_date": "2026-08-27",
+          "publication_date_status": "recorded",
+          "last_checked_date": "2026-10-13"
         },
         {
           "evidence_id": "E481",
@@ -16019,7 +16034,8 @@
         "role": "es",
         "selection_rationale": "en",
         "evidence_scope": "en"
-      }
+      },
+      "evidence_revision": "2026-10-13"
     },
     {
       "id": "I040",
@@ -16394,5 +16410,7 @@
         "evidence_scope": "en"
       }
     }
-  ]
+  ],
+  "base_source_commit": "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7",
+  "evidence_revision": "2026-10-13"
 }

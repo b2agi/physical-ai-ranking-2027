@@ -18,7 +18,7 @@
 | I003 | [ASTM F45](institutions/astm-f45--i003/README.md) | 移动机器人性能标准 |
 | I047 | [Beijing Humanoid Robot Innovation Center](institutions/beijing-humanoid-robot-innovation-center--i047/README.md) | 共享的机器人训练数据 |
 | I004 | [BIGAI](institutions/bigai--i004/README.md) | 共享的机器人研究工具 |
-| I005 | [CESI](institutions/cesi--i005/README.md) | 数据质量标准的制定 |
+| I005 | [CESI](institutions/cesi--i005/README.md) | 具身智能数据质量指导性文件共同起草 |
 | I006 | [CMU Robotics Institute](institutions/cmu-robotics-institute--i006/README.md) | 机器人技术研究与教育 |
 | I007 | [DARPA SubT](institutions/darpa-subt--i007/README.md) | 共享物理测试环境 |
 | I008 | [DFKI Robotics Innovation Center](institutions/dfki-robotics-innovation-center--i008/README.md) | 工业机器人研究 |

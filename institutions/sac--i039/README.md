@@ -15,7 +15,7 @@ tags: ["b2agi", "physical-ai", "research-institutions", "robotics-standards"]
 
 # SAC — National standards administration
 
-SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.
+SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.
 
 ## Record and edition
 
@@ -28,7 +28,7 @@ SAC administered official publication of a specific national standard, with TC28
 
 ## Evidence scope
 
-Official standards-publication record, with CESI credited for technical authorship.
+The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.
 
 ## Sources
 

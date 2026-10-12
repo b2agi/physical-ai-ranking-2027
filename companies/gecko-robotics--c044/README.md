@@ -1,5 +1,5 @@
 ---
-title: "Gecko Robotics | Robotic component inspection | B2AGI Physical AI 2027"
+title: "Gecko Robotics | Robot-assisted component inspection | B2AGI Physical AI 2027"
 record_id: "C044"
 name: "Gecko Robotics"
 category: "companies"
@@ -9,11 +9,11 @@ assessment_baseline: "October 2026"
 source_revision: "2026-10-11"
 version: "1.0"
 publication_date: "2026-10-12"
-keywords: ["Gecko Robotics", "C044", "Physical AI", "Embodied AI", "Next 100", "Robotic component inspection"]
+keywords: ["Gecko Robotics", "C044", "Physical AI", "Embodied AI", "Next 100", "Robot-assisted component inspection"]
 tags: ["b2agi", "physical-ai", "company-research"]
 ---
 
-# Gecko Robotics — Robotic component inspection
+# Gecko Robotics — Robot-assisted component inspection
 
 Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.
 

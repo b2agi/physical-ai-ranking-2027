@@ -6,7 +6,7 @@ selection_group: "Institutions 50"
 rank: null
 edition: 2027
 assessment_baseline: "2026-10"
-source_commit: "fed89b797534d90e448fec1671a9489389b71a49"
+evidence_revision: "2026-10-13"
 evidence_language: "en"
 ---
 
@@ -18,11 +18,11 @@ evidence_language: "en"
 
 ## 선정·평가 근거 · 영문 원문
 
-SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.
+SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.
 
 ## 근거 범위 · 영문 원문
 
-Official standards-publication record, with CESI credited for technical authorship.
+The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.
 
 ## 출처
 
@@ -30,4 +30,4 @@ Official standards-publication record, with CESI credited for technical authorsh
 - `I039:S2` · [www.sac.gov.cn](https://www.sac.gov.cn/)
 - `I039:S3` · [std.samr.gov.cn](https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F)
 
-[Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/sac--i039/README.md)
+[Atlas](../../README.md) · [English](../../../../institutions/sac--i039/README.md)

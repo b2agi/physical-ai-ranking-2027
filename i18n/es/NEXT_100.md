@@ -39,7 +39,7 @@ Fundamentos y alcance de la evidencia: original en inglés.
 | N022 | [Floatic](companies/floatic--n022/README.md) | Pruebas de recogida colaborativa de pedidos |
 | N023 | [Fourier Intelligence](companies/fourier-intelligence--n023/README.md) | Herramientas de entrenamiento y despliegue robótico |
 | N024 | [Galaxea AI](companies/galaxea-ai--n024/README.md) | Aprendizaje de manipulación física |
-| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | Inspección robótica de componentes |
+| C044 | [Gecko Robotics](companies/gecko-robotics--c044/README.md) | Inspección de componentes asistida por robots |
 | N025 | [Generalist AI](companies/generalist-ai--n025/README.md) | Investigación de modelos de manipulación |
 | N026 | [Genesis AI](companies/genesis-ai--n026/README.md) | Desarrollo de manipulación física |
 | N027 | [Genisom AI](companies/genisom-ai--n027/README.md) | Herramientas de desarrollo de software robótico |

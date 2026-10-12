@@ -21,7 +21,7 @@
 | E006 | [Chelsea Finn](people/chelsea-finn--e006/README.md) | 机器人控制策略研究与训练 |
 | P004 | [Chen Jianyu](people/chen-jianyu--p004/README.md) | 机器人研究通讯作者 |
 | P048 | [Cheon Hong-seok](people/cheon-hong-seok--p048/README.md) | 机器人业务共同经营 |
-| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | 客户运营决策 |
+| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | 无人驾驶货运运营决策 |
 | P007 | [Deepak Pathak](people/deepak-pathak--p007/README.md) | 自适应行走研究 |
 | P029 | [Ding Han](people/ding-han--p029/README.md) | 机器人表面加工领域的领导工作 |
 | P008 | [Euisun Chung](people/euisun-chung--p008/README.md) | 战略性股权参与 |

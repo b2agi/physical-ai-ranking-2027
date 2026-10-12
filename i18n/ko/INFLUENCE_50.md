@@ -21,7 +21,7 @@
 | E006 | [Chelsea Finn](people/chelsea-finn--e006/README.md) | 로봇 제어 정책 연구·학습 |
 | P004 | [Chen Jianyu](people/chen-jianyu--p004/README.md) | 로봇 연구 교신저자 |
 | P048 | [천홍석](people/cheon-hong-seok--p048/README.md) | 공동 로봇 사업 경영 |
-| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | 고객 관련 운영 의사결정 |
+| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | 무인 화물운송 운영 결정 |
 | P007 | [Deepak Pathak](people/deepak-pathak--p007/README.md) | 적응형 보행 연구 |
 | P029 | [Ding Han](people/ding-han--p029/README.md) | 로봇 표면 가공 분야 주도 |
 | P008 | [Euisun Chung / 정의선](people/euisun-chung--p008/README.md) | 전략적 지분 참여 |

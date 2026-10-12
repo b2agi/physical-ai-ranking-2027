@@ -21,7 +21,7 @@ Fundamentos y alcance de la evidencia: original en inglés.
 | E006 | [Chelsea Finn](people/chelsea-finn--e006/README.md) | Investigación y entrenamiento de políticas de control robótico |
 | P004 | [Chen Jianyu](people/chen-jianyu--p004/README.md) | Autor de correspondencia de trabajos de investigación |
 | P048 | [Cheon Hong-seok](people/cheon-hong-seok--p048/README.md) | Gestión compartida del negocio robótico |
-| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | Decisiones de operación para clientes |
+| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | Decisión operativa sobre transporte de carga sin conductor |
 | P007 | [Deepak Pathak](people/deepak-pathak--p007/README.md) | Investigación de locomoción adaptativa |
 | P029 | [Ding Han](people/ding-han--p029/README.md) | Dirección de mecanizado robótico de superficies |
 | P008 | [Euisun Chung](people/euisun-chung--p008/README.md) | Participación estratégica en la propiedad |

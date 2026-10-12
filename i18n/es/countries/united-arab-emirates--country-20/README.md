@@ -6,7 +6,7 @@ selection_group: null
 rank: 20
 edition: 2027
 assessment_baseline: "2026-10"
-source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_revision: "2026-10-13"
 evidence_language: "en"
 ---
 
@@ -22,7 +22,7 @@ The UAE brings external autonomous-driving technology into local transport servi
 
 ## Alcance de la evidencia · original en inglés
 
-Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.
+Dubai RTA’s passenger-service report dated 19 August 2026. Operational figures relate to the service period stated in that report; announced expansion and the 2030 transport target remain prospective.
 
 ## Fuentes
 
@@ -30,4 +30,4 @@ Reported passenger operations and inspection activity, with completed pilots, co
 - `country:20:S2` · [ifr.org](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) · 2026-09-24
 - `country:20:S3` · [www.wipo.int](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx)
 
-[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/countries/united-arab-emirates--country-20/README.md)
+[Atlas en español](../../README.md) · [Perfil en inglés](../../../../countries/united-arab-emirates--country-20/README.md)

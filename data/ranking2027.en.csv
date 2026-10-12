@@ -244,7 +244,7 @@ country:19:S2
 country:19:S3","https://www.1x.tech/discover/scaling-neo-production-1x-builds-in-house-manufacturing-facility
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
 https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2026-tech1.xlsx"
-country:20,country,,20,United Arab Emirates,Adoption and operation of autonomous passenger services,The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.,"Reported passenger operations and inspection activity, with completed pilots, contracts and future rollout distinguished by their dates and stages.","country:20:S1
+country:20,country,,20,United Arab Emirates,Adoption and operation of autonomous passenger services,The UAE brings external autonomous-driving technology into local transport services. Dubai passenger-operation records support its adoption and operations role.,Dubai RTA’s passenger-service report dated 19 August 2026. Operational figures relate to the service period stated in that report; announced expansion and the 2030 transport target remain prospective.,"country:20:S1
 country:20:S2
 country:20:S3","https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/robotaxi-surpasses-4-million-kilometres-as-customer-satisfaction-reaches-97percent
 https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally
@@ -802,7 +802,7 @@ N024:S2
 N024:S3","https://docs.galaxea-ai.com/Guide/R1Lite/R1Lite_Hardware_Introduction/
 https://docs.galaxea-dynamics.com/home/en/
 https://arxiv.org/html/2509.00576v1"
-C044,Companies,Next 100,,Gecko Robotics,Robotic component inspection,Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.,"Gecko announcement, 2025-07-15: initial component-inspection trials and proposed digital-thread expansion.",C044:S1,https://www.geckorobotics.com/news/gecko-robotics-bpmi
+C044,Companies,Next 100,,Gecko Robotics,Robot-assisted component inspection,Gecko develops robotic inspection and AI analysis for a new forged-component workflow with BPMI and suppliers.,"Gecko announcement, 2025-07-15: initial component-inspection trials and proposed digital-thread expansion.",C044:S1,https://www.geckorobotics.com/news/gecko-robotics-bpmi
 N025,Companies,Next 100,,Generalist AI,Manipulation-model research,Generalist’s GEN-0 materials describe robot-specific manipulation tests and model structure.,Company research account describing the model and reporting its training-data hours.,N025:S1,https://generalistai.com/blog/gen-0
 N026,Companies,Next 100,,Genesis AI,Physical manipulation development,Genesis AI describes GENE-26.5 physical manipulation demonstrations and its data and hand architecture.,Genesis AI’s release describes physical research demonstrations and data and hand architecture; Eno customer deployment is planned.,"N026:S1
 N026:S2
@@ -1092,7 +1092,7 @@ https://arxiv.org/html/2408.14472v1"
 P048,People,Influence 50,,Cheon Hong-seok,Shared robotics business management,"Cheon Hong-seok describes product launches, initial fundraising and donations to medical institutions in a joint interview with Cheon Yeong-seok.",Government-supported program interview; evidence concerns shared management choices and their stated execution.,"P048:S1
 P048:S2","https://www.k-global.kr/intro/kBestCaseView.do?board_idx=144
 https://twinny.ai/assets/attachFileList/archive/%28ko%29TWINNY%20Company%20Introduction%202025.pdf"
-P005,People,Influence 50,,Chris Urmson,Customer operating decisions,Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.,Urmson’s signed account describes a shared operating decision responding to PACCAR’s request.,P005:S1,https://aurora.tech/newsroom/updating-our-driverless-operations
+P005,People,Influence 50,,Chris Urmson,Driverless-trucking operating decision,"In May 2025, Chris Urmson explained Aurora’s decision to move an observer to the front seat at vehicle partner PACCAR’s request. Aurora said the observer would not drive.","Aurora statement dated 16 May 2025, describing a partner-requested seating change. The observer’s non-driving role is Aurora’s account, not an independent operational finding.",P005:S1,https://aurora.tech/newsroom/updating-our-driverless-operations
 P007,People,Influence 50,,Deepak Pathak,Adaptive locomotion research,"Deepak Pathak co-developed Rapid Motor Adaptation with Ashish Kumar, Zipeng Fu and Jitendra Malik.",CMU attributes RMA co-development to Pathak and collaborators in physical adaptive-walking research.,"P007:S1
 P007:S2
 P007:S3","https://www.cs.cmu.edu/~dpathak/
@@ -1467,7 +1467,7 @@ I004:S4","https://roboverseorg.github.io/
 https://rlinf.readthedocs.io/en/latest/rst_source/examples/embodied/roboverse.html
 https://eng.bigai.ai/demo/
 https://huggingface.co/bigai"
-I005,Institutions,Institutions 50,,CESI,Data-quality standards authorship,"CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.","The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.","I005:S1
+I005,Institutions,Institutions 50,,CESI,Embodied-intelligence data-quality guidance co-authorship,"CESI is a joint drafting organization for GB/Z 218.1-2026, guidance on real-data quality for embodied intelligence, published on 27 August 2026.","The official record classifies the document as technical guidance and lists CESI among its drafters. TC28 has committee responsibility, TC28SC42 is the executing body, and SAC is the supervisory authority.","I005:S1
 I005:S2
 I005:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
 https://www.cc.cesi.cn/service/show-4536.aspx
@@ -1611,7 +1611,7 @@ I038:S4","https://rai-inst.com/resources/blog/rai-institute-2025-a-year-of-innov
 https://github.com/rai-opensource/vlfm
 https://rai-inst.com/research/
 https://rai-inst.com/privacy-policy/"
-I039,Institutions,Institutions 50,,SAC,National standards administration,"SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.","Official standards-publication record, with CESI credited for technical authorship.","I039:S1
+I039,Institutions,Institutions 50,,SAC,National standards administration,"SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.",The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.,"I039:S1
 I039:S2
 I039:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
 https://www.sac.gov.cn/

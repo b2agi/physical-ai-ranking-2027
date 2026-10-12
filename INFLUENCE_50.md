@@ -33,7 +33,7 @@ Group membership follows the contribution assessed for this edition. Section hea
 | E006 | [Chelsea Finn](people/chelsea-finn--e006/README.md) | Robot-policy research and training |
 | P004 | [Chen Jianyu](people/chen-jianyu--p004/README.md) | Corresponding research authorship |
 | P048 | [Cheon Hong-seok](people/cheon-hong-seok--p048/README.md) | Shared robotics business management |
-| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | Customer operating decisions |
+| P005 | [Chris Urmson](people/chris-urmson--p005/README.md) | Driverless-trucking operating decision |
 | P007 | [Deepak Pathak](people/deepak-pathak--p007/README.md) | Adaptive locomotion research |
 | P029 | [Ding Han](people/ding-han--p029/README.md) | Robotic surface-machining leadership |
 | P008 | [Euisun Chung](people/euisun-chung--p008/README.md) | Strategic ownership participation |

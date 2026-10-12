@@ -29,7 +29,7 @@
 | E010 | [Elena Messina](people/elena-messina--e010/README.md) | 공동 표준 및 테스트 |
 | E011 | [Elham Tabassi](people/elham-tabassi--e011/README.md) | AI 리스크 관리 프레임워크 |
 | E012 | [Erico Guizzo](people/erico-guizzo--e012/README.md) | 로봇공학 관련 편집 콘텐츠 |
-| E013 | [Fei-Fei Li](people/fei-fei-li--e013/README.md) | 공유 비전 데이터 및 챌린지 |
+| E013 | [Fei-Fei Li](people/fei-fei-li--e013/README.md) | 공유 시각 데이터셋·경진대회 |
 | E014 | [Francesca Rossi](people/francesca-rossi--e014/README.md) | 자율 시스템 설계 윤리 |
 | P009 | [Geordie Rose](people/geordie-rose--p009/README.md) | 로봇공학 파트너 투자 및 지원 |
 | P010 | [Gill Pratt](people/gill-pratt--p010/README.md) | 공동 로봇공학 테스트 프로그램 주도 |

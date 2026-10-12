@@ -13,7 +13,7 @@ I004:S4","https://roboverseorg.github.io/
 https://rlinf.readthedocs.io/en/latest/rst_source/examples/embodied/roboverse.html
 https://eng.bigai.ai/demo/
 https://huggingface.co/bigai"
-I005,CESI,Institutions 50,Data-quality standards authorship,"CESI co-authored a published embodied-intelligence data-quality document, contributing technical content to a public standards output.","The official document identifies CESI as a joint technical author, with SAC retaining the standards-administration role.","I005:S1
+I005,CESI,Institutions 50,Embodied-intelligence data-quality guidance co-authorship,"CESI is a joint drafting organization for GB/Z 218.1-2026, guidance on real-data quality for embodied intelligence, published on 27 August 2026.","The official record classifies the document as technical guidance and lists CESI among its drafters. TC28 has committee responsibility, TC28SC42 is the executing body, and SAC is the supervisory authority.","I005:S1
 I005:S2
 I005:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
 https://www.cc.cesi.cn/service/show-4536.aspx
@@ -157,7 +157,7 @@ I038:S4","https://rai-inst.com/resources/blog/rai-institute-2025-a-year-of-innov
 https://github.com/rai-opensource/vlfm
 https://rai-inst.com/research/
 https://rai-inst.com/privacy-policy/"
-I039,SAC,Institutions 50,National standards administration,"SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.","Official standards-publication record, with CESI credited for technical authorship.","I039:S1
+I039,SAC,Institutions 50,National standards administration,"SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.",The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.,"I039:S1
 I039:S2
 I039:S3","https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8779B5E06397BE0A0AD5FD
 https://www.sac.gov.cn/

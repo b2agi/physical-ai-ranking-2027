@@ -26,7 +26,7 @@ Institutions 50 examines the research, testing, standards, regulatory and capita
 | I003 | [ASTM F45](institutions/astm-f45--i003/README.md) | Mobile-robot performance standards |
 | I047 | [Beijing Humanoid Robot Innovation Center](institutions/beijing-humanoid-robot-innovation-center--i047/README.md) | Shared robot-training data |
 | I004 | [BIGAI](institutions/bigai--i004/README.md) | Shared robotics research tools |
-| I005 | [CESI](institutions/cesi--i005/README.md) | Data-quality standards authorship |
+| I005 | [CESI](institutions/cesi--i005/README.md) | Embodied-intelligence data-quality guidance co-authorship |
 | I006 | [CMU Robotics Institute](institutions/cmu-robotics-institute--i006/README.md) | Robotics research and education |
 | I007 | [DARPA SubT](institutions/darpa-subt--i007/README.md) | Shared physical test environments |
 | I008 | [DFKI Robotics Innovation Center](institutions/dfki-robotics-innovation-center--i008/README.md) | Industrial robotics research |

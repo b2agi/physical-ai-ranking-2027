@@ -18,7 +18,7 @@ Fundamentos y alcance de la evidencia: original en inglés.
 | I003 | [ASTM F45](institutions/astm-f45--i003/README.md) | Normas de rendimiento de robots móviles |
 | I047 | [Beijing Humanoid Robot Innovation Center](institutions/beijing-humanoid-robot-innovation-center--i047/README.md) | Datos compartidos de entrenamiento robótico |
 | I004 | [BIGAI](institutions/bigai--i004/README.md) | Herramientas compartidas de investigación robótica |
-| I005 | [CESI](institutions/cesi--i005/README.md) | Autoría de normas de calidad de datos |
+| I005 | [CESI](institutions/cesi--i005/README.md) | Coautoría de directrices de calidad de datos para IA corporizada |
 | I006 | [CMU Robotics Institute](institutions/cmu-robotics-institute--i006/README.md) | Investigación y educación robótica |
 | I007 | [DARPA SubT](institutions/darpa-subt--i007/README.md) | Entornos físicos compartidos de pruebas |
 | I008 | [DFKI Robotics Innovation Center](institutions/dfki-robotics-innovation-center--i008/README.md) | Investigación robótica industrial |

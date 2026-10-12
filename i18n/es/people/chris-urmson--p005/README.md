@@ -1,31 +1,31 @@
 ---
-title: "Chris Urmson | Decisiones de operación para clientes | B2AGI Physical AI 2027"
+title: "Chris Urmson | Decisión operativa sobre transporte de carga sin conductor | B2AGI Physical AI 2027"
 record_id: "P005"
 language: "es"
 selection_group: "Influence 50"
 rank: null
 edition: 2027
 assessment_baseline: "2026-10"
-source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_revision: "2026-10-13"
 evidence_language: "en"
 ---
 
 # Chris Urmson
 
-Decisiones de operación para clientes
+Decisión operativa sobre transporte de carga sin conductor
 
 `P005` · Influence 50
 
 ## Fundamento de selección y evaluación · original en inglés
 
-Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.
+In May 2025, Chris Urmson explained Aurora’s decision to move an observer to the front seat at vehicle partner PACCAR’s request. Aurora said the observer would not drive.
 
 ## Alcance de la evidencia · original en inglés
 
-Urmson’s signed account describes a shared operating decision responding to PACCAR’s request.
+Aurora statement dated 16 May 2025, describing a partner-requested seating change. The observer’s non-driving role is Aurora’s account, not an independent operational finding.
 
 ## Fuentes
 
 - `P005:S1` · [aurora.tech](https://aurora.tech/newsroom/updating-our-driverless-operations)
 
-[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/people/chris-urmson--p005/README.md)
+[Atlas en español](../../README.md) · [Perfil en inglés](../../../../people/chris-urmson--p005/README.md)

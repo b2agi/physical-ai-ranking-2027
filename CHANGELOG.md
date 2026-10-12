@@ -1,5 +1,9 @@
 # Revision history
 
+## 2026-10-13 — Targeted source and attribution corrections
+
+Clarified PACCAR’s vehicle-partner role and Aurora’s description of a non-driving observer. Identified GB/Z 218.1-2026 as technical guidance and separated CESI drafting from SAC supervision. Narrowed the UAE evidence scope to the dated RTA passenger-service report. Clarified robot-assisted component inspection and ImageNet competition terminology in localized roles. IDs, geographic ranks, selection groups and the 1,024 reference URLs are unchanged.
+
 ## 2026-10-12 — Institutions 50 and full edition exports
 
 Published 50 institution profiles with distinct contributions, the existing concept artwork, JSON/CSV and a safety-evidence selection comparison. The edition directory now links all seven sections. Full exports contain 390 records and 1,024 source references, reusing the corrected country release and existing public cluster, company and people records. Prior profiles and ARC design updates are unchanged.

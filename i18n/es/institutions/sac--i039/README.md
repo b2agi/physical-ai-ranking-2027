@@ -6,7 +6,7 @@ selection_group: "Institutions 50"
 rank: null
 edition: 2027
 assessment_baseline: "2026-10"
-source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_revision: "2026-10-13"
 evidence_language: "en"
 ---
 
@@ -18,11 +18,11 @@ Administración de normas nacionales
 
 ## Fundamento de selección y evaluación · original en inglés
 
-SAC administered official publication of a specific national standard, with TC28 attribution and SC42 execution identified in the standards system.
+SAC is the supervisory authority for GB/Z 218.1-2026, the technical guidance document on real-data quality for embodied intelligence published on 27 August 2026.
 
 ## Alcance de la evidencia · original en inglés
 
-Official standards-publication record, with CESI credited for technical authorship.
+The official record identifies TC28 committee responsibility and TC28SC42 execution. CESI and the other listed organizations share drafting credit; SAC’s supervisory role is separate.
 
 ## Fuentes
 
@@ -30,4 +30,4 @@ Official standards-publication record, with CESI credited for technical authorsh
 - `I039:S2` · [www.sac.gov.cn](https://www.sac.gov.cn/)
 - `I039:S3` · [std.samr.gov.cn](https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F)
 
-[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/institutions/sac--i039/README.md)
+[Atlas en español](../../README.md) · [Perfil en inglés](../../../../institutions/sac--i039/README.md)
