@@ -3,7 +3,7 @@
 ## 2026-10-12 — v1.1
 
 - Replaced the repeated country-role label with 20 distinct assessment focuses in the overview, profiles, JSON and CSV.
-- Added the existing first-edition cover and identified it as conceptual artwork.
+- Added a landscape Country Top 20 overview using the existing black-and-gold B2AGI artwork. The text table remains the complete, linked reference; the panorama is identified as conceptual artwork.
 - Added comparison notes for all 20 countries, with links from each profile.
 - Corrected Norway’s Moss facility from implied current capacity to a dated development announcement; removed unsupported quarry and training wording.
 - Clarified Italy’s Comau contribution as project testing and validation, without assigning the customer warehouse to Italy.

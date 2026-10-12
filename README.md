@@ -1,18 +1,26 @@
-# B2AGI Physical AI 2027: Country Atlas Top 20
+# B2AGI Physical AI 2027
 
-<p align="center"><img src="assets/country-atlas-cover.png" width="320" alt="B2AGI Countries and Economies cover in black and gold, with an illustrated waterfront of international city landmarks."></p>
+## Country Atlas · Top 20
 
-<p align="center"><sub>First-edition cover, reused from the B2AGI publication series. Concept artwork, not documentary evidence. Current text: v1.1.</sub></p>
+![Country Atlas Top 20: United States, China, South Korea and the complete 20-country assessment](assets/country-atlas-overview.png)
+
+2027 edition · October 2026 assessment baseline · first published 12 October 2026 · text revision v1.1
+
+The panorama is concept artwork. The country order reflects qualitative comparison, not a composite numerical score.
 
 Physical AI reaches industry through different routes. The United States combines robotics platforms with customer deployment and growth capital. China’s strength lies in hardware development and manufacturing networks. Korea connects operating robot coordination with learned control and research commercialization.
 
 This Atlas compares 20 countries and economies through those industrial pathways. Read the country profiles for the assessment, its evidence scope and the original sources.
 
-2027 edition · October 2026 assessment baseline · first published 12 October 2026 · text revision v1.1.
+[Explore the 20 countries](#country-overview) · [Comparison notes](COMPARISONS.md) · [Methodology](METHODOLOGY.md)
 
-The order reflects qualitative comparison through five analytical lenses: Intelligence, Physical, Capital, Trust and Beyond. It is not a composite numerical score. Record IDs remain stable when the order changes.
+### Leading geographies
 
-[Methodology](METHODOLOGY.md) · [Comparison notes](COMPARISONS.md) · [JSON](data/countries.en.json) · [CSV](data/countries.en.csv) · [Revision history](CHANGELOG.md)
+| Rank | Country / economy | Industrial pathway |
+| --- | --- | --- |
+| 1 | [United States](countries/united-states--country-01/README.md) | Robotics platforms, customer deployment and growth capital |
+| 2 | [China](countries/china--country-02/README.md) | Robot hardware and integrated manufacturing networks |
+| 3 | [South Korea](countries/south-korea--country-03/README.md) | Robot coordination, learned control and research commercialization |
 
 ## Country overview
 
@@ -39,10 +47,16 @@ The order reflects qualitative comparison through five analytical lenses: Intell
 | 19 | [Norway](countries/norway--country-19/README.md) | Humanoid engineering and manufacturing development |
 | 20 | [United Arab Emirates](countries/united-arab-emirates--country-20/README.md) | Adoption and operation of autonomous passenger services |
 
-## Publisher and citation
+### Research framework
 
-Published by [B2AGI](https://b2agi.com), 2026. Cite the country record, source-reference ID and text revision used. Source-reported facts and B2AGI’s editorial assessments are identified separately where a source has been rechecked.
+The assessment compares industrial pathways through Intelligence, Physical, Capital, Trust and Beyond. Record IDs identify entries and remain stable when the order changes.
 
-[Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues) should identify the record, disputed statement and supporting primary source. For reuse requests, contact [aei.b2agi@gmail.com](mailto:aei.b2agi@gmail.com). [Reuse terms](RIGHTS.md) distinguish B2AGI material from third-party sources and statistical snapshots.
+### Data and references
 
-This release covers the Country Top 20 only. It does not publish the other lists in the 2027 edition.
+[Country profiles](#country-overview) · [JSON](data/countries.en.json) · [CSV](data/countries.en.csv) · [Revision history](CHANGELOG.md)
+
+### Publication
+
+Published by [B2AGI](https://b2agi.com), 2026. Country Atlas Top 20 is the country assessment in the Physical AI 2027 publication series.
+
+Cite the country record, source-reference ID and text revision used. [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Reuse terms](RIGHTS.md) · [Contact](mailto:aei.b2agi@gmail.com)
