@@ -4,13 +4,13 @@
 
 ![Ecosystem Builders 50: examples of documented contributions by selected people.](assets/ecosystem-builders-50-overview.png)
 
-*Studio portrait artwork from the existing B2AGI edition. [Image credits](PEOPLE_IMAGE_CREDITS.md).*
+*Editorial portrait artwork · [Image credits](PEOPLE_IMAGE_CREDITS.md).*
 
 **2027 edition · October 2026 assessment · First published 12 October 2026 · v1.0**
 
 Ecosystem Builders 50 examines the shared capabilities that allow others to develop and use Physical AI: tools, education, standards, finance, research facilities and testing programmes. Each profile identifies the person’s documented contribution.
 
-[Explore all 50 people](#people-directory) · [Influence 50](INFLUENCE_50.md) · [Ecosystem Builders 50](ECOSYSTEM_BUILDERS_50.md) · [Selection method](METHODOLOGY.md#people-selection)
+[Explore all 50 people](#people-directory) · [Influence 50](INFLUENCE_50.md) · [Selection method](METHODOLOGY.md#people-selection) · [Download data](#research-and-data)
 
 ### Selected contributions
 
@@ -20,7 +20,7 @@ Ecosystem Builders 50 examines the shared capabilities that allow others to deve
 | E022 | [Russ Tedrake](people/russ-tedrake--e022/README.md) | Shared control software |
 | P010 | [Gill Pratt](people/gill-pratt--p010/README.md) | Shared robotics test-program leadership |
 
-The groups describe the contribution assessed for this edition. They are not numerical rankings of prestige. Record IDs remain stable across group changes.
+Group membership follows the contribution assessed for this edition. Section headings identify the group; record IDs remain stable across group changes.
 
 ## People directory
 
@@ -79,7 +79,7 @@ The groups describe the contribution assessed for this edition. They are not num
 
 ## Research and data
 
-Profiles preserve the selection rationale, evidence scope and source references. Joint work retains shared attribution; a contribution to one programme does not establish sole authorship of the wider field.
+Profiles document the selection rationale, evidence scope and original sources, with shared attribution for joint work.
 
 [Group-assignment comparisons](PEOPLE_SELECTIONS.md) · [JSON](data/ecosystem-builders-50.en.json) · [CSV](data/ecosystem-builders-50.en.csv) · [Current 100](CURRENT_100.md) · [Next 100](NEXT_100.md)
 
