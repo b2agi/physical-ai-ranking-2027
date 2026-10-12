@@ -1,6 +1,6 @@
-# 国家与经济体 Top 20
+# 国家竞争力 Top 20
 
-![国家与经济体 Top 20](../../assets/country-atlas-overview-zh-CN.png)
+![国家竞争力 Top 20](../../assets/country-atlas-overview-zh-CN.png)
 
 比较20个国家与经济体的研究能力、产品开发、客户运营及未来产业能力。排名依据五个分析视角作出定性判断，未采用综合分数。
 

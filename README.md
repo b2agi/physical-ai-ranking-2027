@@ -2,7 +2,7 @@
 
 [English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md)
 
-[Country Atlas · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md) · [Current 100 · Companies](CURRENT_100.md) · [Next 100 · Companies](NEXT_100.md) · [Influence 50 · People](INFLUENCE_50.md) · [Ecosystem Builders 50 · People](ECOSYSTEM_BUILDERS_50.md)
+[National Competitiveness · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md) · [Current 100 · Companies](CURRENT_100.md) · [Next 100 · Companies](NEXT_100.md) · [Influence 50 · People](INFLUENCE_50.md) · [Ecosystem Builders 50 · People](ECOSYSTEM_BUILDERS_50.md)
 
 ## Edition directory
 
@@ -20,7 +20,7 @@
 
 [Full JSON](data/ranking2027.en.json) · [Full CSV](data/ranking2027.en.csv) · [Source references](data/source-references.en.json) · [Search guide](SEARCH_GUIDE.md)
 
-## Country Atlas · Top 20
+## National Competitiveness · Top 20
 
 ![Country Atlas Top 20: United States, China, South Korea and the complete 20-country assessment](assets/country-atlas-overview.png)
 

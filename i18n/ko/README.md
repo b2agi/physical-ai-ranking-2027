@@ -4,7 +4,7 @@
 
 | 분야 | 항목 |
 | --- | ---: |
-| [국가·경제권 Top 20](COUNTRIES.md) | 20 |
+| [국가 경쟁력 Top 20](COUNTRIES.md) | 20 |
 | [도시·산업 클러스터 Top 20](CLUSTERS.md) | 20 |
 | [기업 Current 100](CURRENT_100.md) | 100 |
 | [기업 Next 100](NEXT_100.md) | 100 |

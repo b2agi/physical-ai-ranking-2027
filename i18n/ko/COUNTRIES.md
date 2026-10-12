@@ -1,6 +1,6 @@
-# 국가·경제권 Top 20
+# 국가 경쟁력 Top 20
 
-![국가·경제권 Top 20](../../assets/country-atlas-overview-ko.png)
+![국가 경쟁력 Top 20](../../assets/country-atlas-overview-ko.png)
 
 20개 국가·경제권의 연구 역량과 제품 개발, 고객 운영을 비교했다. 미래 산업 역량도 평가에 포함했다. 순위는 다섯 관점에 따른 정성 평가이며 종합 점수를 합산한 결과가 아니다.
 
