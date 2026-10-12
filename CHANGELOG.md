@@ -1,5 +1,9 @@
 # Revision history
 
+## 2026-10-12 — Influence 50 and Ecosystem Builders 50 first release
+
+Published 100 people profiles in two contribution-based groups with portrait-artwork overviews, directories, JSON/CSV and group-assignment comparisons. IDs, names, groups, roles, shared attribution, rationales, scopes and 250 source references retain the 11 October source revision. Image credits distinguish studio portrait artwork from source photographs. Existing geographic and company releases, including ARC visual updates, are unchanged.
+
 ## 2026-10-12 — Current 100 and Next 100 first release
 
 Published 200 company profiles in two contribution-based selections, with separate landscape artwork, directories, JSON/CSV and company selection comparisons. Names, IDs, group membership, contributions, rationales, evidence scopes and 443 source references are preserved from the 11 October source revision. Unpublished people profiles are not linked. Country and cluster profiles remain unchanged, including the ARC reading-layout revision.

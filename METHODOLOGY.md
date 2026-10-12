@@ -230,3 +230,11 @@ Waymo contributes documented driverless passenger operation; UBTECH contributes 
 
 
 [Full company selection comparisons](COMPANY_SELECTIONS.md). Company source revision: 11 October 2026; first public GitHub release: 12 October 2026.
+
+
+## People selection
+
+**Influence 50** recognizes attributed technical methods, robot designs, task-specific research leadership and operating or strategic decisions. **Ecosystem Builders 50** recognizes shared tools, education, standards, finance and research or testing facilities. Each entry names the contribution that determines its group; collaborative results retain shared attribution.
+
+
+[Group-assignment comparisons](PEOPLE_SELECTIONS.md) identify the selected contributions and shared attribution. People source revision: 11 October 2026; first public GitHub release: 12 October 2026.

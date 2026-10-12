@@ -1,0 +1,46 @@
+---
+title: "Linxi “Jim” Fan | Reward-generation research | B2AGI Physical AI 2027"
+record_id: "P017"
+name: "Linxi “Jim” Fan"
+category: "people"
+selection_group: "Influence 50"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Linxi “Jim” Fan", "P017", "Physical AI", "Embodied AI", "Influence 50", "Reward-generation research", "robot-learning", "simulation"]
+tags: ["b2agi", "physical-ai", "research-contributors", "robot-learning", "simulation"]
+---
+
+# Linxi “Jim” Fan — Reward-generation research
+
+Jim Fan co-led Eureka and served as corresponding author on research generating and optimizing reward code for robot learning.
+
+## Record and edition
+
+- **Record ID:** `P017`
+- **List:** Influence 50
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Joint research with Anima Anandkumar and collaborators; the reported 29-environment evaluation is simulation-based.
+
+## Sources
+
+- **P017:S1 — eureka-research.github.io:** <https://eureka-research.github.io/> · Recorded access: 2026-10-05
+- **P017:S2 — research.nvidia.com:** <https://research.nvidia.com/labs/srl/authors/jim-fan/> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Influence 50](../../INFLUENCE_50.md) · [Ecosystem Builders 50](../../ECOSYSTEM_BUILDERS_50.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `P017`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

@@ -1,0 +1,187 @@
+id,name,group,role,selection_rationale,evidence_scope,source_references,source_urls
+P001,Abhinav Gupta,Influence 50,Semantic navigation research,"Abhinav Gupta co-developed SemExp, separating semantic goal selection from path planning in robot navigation.",CMU’s account and the research abstract identify Gupta’s joint SemExp contribution.,"P001:S1
+P001:S2
+P001:S3","https://www.cs.cmu.edu/~abhinavg/
+https://www.cs.cmu.edu/news/2020/which-way-fridge-common-sense-helps-robots-navigate
+https://arxiv.org/abs/2012.02788"
+P002,Anca Dragan,Influence 50,Intent-aware motion planning,Anca Dragan’s dissertation incorporates an observer’s inference of intent into motion planning and evaluates physical collaboration.,Dragan’s dissertation records intent-aware planning and joint physical-collaboration research.,"P002:S1
+P002:S2
+P002:S3","https://people.eecs.berkeley.edu/~anca/research.html
+https://funginstitute.berkeley.edu/capstone-project/optimization-planners-for-a-human-friendly-robot/
+https://publications.ri.cmu.edu/legible-robot-motion-planning"
+P003,Andrea Thomaz,Influence 50,Hospital delivery product strategy,Andrea Thomaz explains choosing interdepartmental item delivery as the hospital robot’s product task.,"Founder interview describing the contribution, with Vivian Chu and the product team sharing the work.","P003:S1
+P003:S2
+P003:S3","https://www.diligentrobots.com/press/interview-with-andrea-thomaz-co-founder-of-diligent-robotics-socially-intelligent-automation-solutions-for-hospitals
+https://www.diligentrobots.com/blog/moving-with-moxi
+https://www.diligentrobots.com/about/"
+P043,Brett Adcock,Influence 50,Humanoid industrial strategy,"Brett Adcock’s named plan chose manufacturing and logistics as early humanoid applications, emphasizing repetitive work in human environments.","Public strategic plan; BMW negotiations, Helix design and commercial returns have separate attribution.","P043:S1
+P043:S2","https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html
+https://www.figure.ai/master-plan"
+E006,Chelsea Finn,Influence 50,Robot-policy research and training,Chelsea Finn contributed policy training and research to pi0.5.,The joint paper's Appendix A-A names Finn under policy training and research. MAML authorship and public-code reuse are separately documented contributions.,"E006:S1
+E006:S2
+E006:S3
+E006:S4
+E006:S5
+E006:S6","https://ai.stanford.edu/~cbfinn/_files/dissertation.pdf
+https://garage.readthedocs.io/en/v2020.06.1/_apidoc/garage.envs.mujoco.html
+https://github.com/cbfinn/maml_rl/blob/master/README.md
+https://arxiv.org/abs/1703.03400
+https://arxiv.org/html/2504.16054v1
+https://proceedings.mlr.press/v70/finn17a.html"
+P004,Chen Jianyu,Influence 50,Corresponding research authorship,"Jianyu Chen is the corresponding author of DWL, contributing to its joint research publication.","Paper author information; Gu, Wang, Zhu and Shi retain their stated equal project-lead contributions.","P004:S1
+P004:S2
+P004:S3
+P004:S4","https://iiis.tsinghua.edu.cn/rydw/qzjs/chenjianyu.htm
+https://iiis.tsinghua.edu.cn/uploadfile/2024/07/12/2024071208472295858.pdf
+https://arxiv.org/abs/2408.14472
+https://arxiv.org/html/2408.14472v1"
+P048,Cheon Hong-seok,Influence 50,Shared robotics business management,"Cheon Hong-seok describes product launches, initial fundraising and donations to medical institutions in a joint interview with Cheon Yeong-seok.",Government-supported program interview; evidence concerns shared management choices and their stated execution.,"P048:S1
+P048:S2","https://www.k-global.kr/intro/kBestCaseView.do?board_idx=144
+https://twinny.ai/assets/attachFileList/archive/%28ko%29TWINNY%20Company%20Introduction%202025.pdf"
+P005,Chris Urmson,Influence 50,Customer operating decisions,Chris Urmson’s signed account describes changing an observer’s position after reviewing PACCAR’s request.,Urmson’s signed account describes a shared operating decision responding to PACCAR’s request.,P005:S1,https://aurora.tech/newsroom/updating-our-driverless-operations
+P007,Deepak Pathak,Influence 50,Adaptive locomotion research,"Deepak Pathak co-developed Rapid Motor Adaptation with Ashish Kumar, Zipeng Fu and Jitendra Malik.",CMU attributes RMA co-development to Pathak and collaborators in physical adaptive-walking research.,"P007:S1
+P007:S2
+P007:S3","https://www.cs.cmu.edu/~dpathak/
+https://arxiv.org/abs/2107.04034
+https://www.cs.cmu.edu/news/2021/ai-allows-legged-robots-adapt-real-time-changing-conditions"
+P029,Ding Han,Influence 50,Robotic surface-machining leadership,"Ding Han led a project on robotic machining of large complex surfaces, with documented joint development and industrial application pathways.",University report covering eight institutions and 30 researchers; application and performance claims are institution-reported.,"P029:S1
+P029:S2","https://mse.hust.edu.cn/info/1107/12449.htm
+https://mse.hust.edu.cn/info/1142/1346.htm"
+P008,Euisun Chung,Influence 50,Strategic ownership participation,Euisun Chung participated as a distinct party in the Boston Dynamics ownership and share-subscription agreement alongside Hyundai affiliates.,SoftBank’s 2020 agreement announcement; valuation and combined ownership have separate scope from personal payments and completed funding.,"P008:S1
+P008:S2","https://group.softbank/en/news/press/20201211_1
+https://www.hyundai.com/worldwide/en/newsroom/detail/0000000516"
+P034,Hang Zhao,Influence 50,Foundation-model research leadership,Hang Zhao co-led foundation-model research with Huazhe Xu.,"University account and profile; the role is joint research leadership, with company revenues and model-wide results separately attributed.","P034:S1
+P034:S2","https://iiis.tsinghua.edu.cn/info/1079/3657.htm
+https://www.ee.tsinghua.edu.cn/info/1076/4939.htm"
+P011,Hod Lipson,Influence 50,Robot self-modeling research,"Hod Lipson contributed to research conception, analysis support and review of robot self-modeling work.","Published contribution statement; Hu and Lin retain their specified method, software, analysis and drafting roles.","P011:S1
+P011:S2
+P011:S3","https://www.nature.com/articles/s42256-025-01006-w
+https://www.engineering.columbia.edu/about/news/robots-learn-how-move-watching-themselves-0
+https://arxiv.org/abs/2311.12151"
+P050,Huang Xiaoqing,Influence 50,Cloud-robot control research,Huang Xiaoqing co-authored research describing HARI and Igor and their implementations.,"Named joint authorship; individual technical divisions are unpublished, while company-wide results retain organizational attribution.","P050:S1
+P050:S2","https://arxiv.org/html/1809.06716v1
+https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2017/www.icra2017.org/sites/default/files/ICRA17FrontMatters.pdf"
+P040,Hyoun Jin Kim,Influence 50,Aerial-manipulation research,Hyoun Jin Kim contributed to aerial-manipulation research that demonstrated physical door opening.,Seoul National University's account identifies Kim's joint aerial-manipulation research and the team's physical door-opening demonstration without assigning individual control-design components.,"P040:S1
+P040:S2","https://aerospace.snu.ac.kr/about/faculty?mode=view&profidx=9
+https://eng.snu.ac.kr/research/research-achievements?bbsidx=2927&md=v&sc=y"
+P038,In So Kweon,Influence 50,DRC-HUBO joint research leadership,In So Kweon co-led Team KAIST with Jun-Ho Oh and Rainbow researchers at the 2015 DARPA Robotics Challenge. Their DRC-HUBO robot completed the competition’s eight tasks and won the finals.,KAIST’s June 2015 competition report identifies shared team leadership and the completed course. It attributes the result to the team rather than assigning individual vision or depth algorithms to Kweon.,"P038:S1
+P038:S2
+P038:S3","https://arxiv.org/abs/1509.06114
+https://news.kaist.ac.kr/newsen/html/news/?skey=keyword&sval=+HUBO
+https://news.kaist.ac.kr/newsen/html/news/?mng_no=4379&mode=V"
+P042,Jaeheung Park,Influence 50,Balance-control research,Jaeheung Park co-authored CP-MPC balance-control research reporting physical and simulated validation.,Paper authorship and abstract identify Park’s joint CP-MPC balance-control research.,"P042:S1
+P042:S2
+P042:S3
+P042:S4","https://robotics.snu.ac.kr/
+https://ipss.snu.ac.kr/en/faculty/professor?mode=view&profidx=24
+https://arxiv.org/abs/2307.13243
+https://arxiv.org/html/2307.13243v3"
+P012,Jeff Cardenas,Influence 50,Industrial market-entry strategy,Jeff Cardenas describes a funding strategy focused on development and early entry into industrial customer applications.,"Founder interview and reporting on shared business decisions; technical design, contract terms and cash recovery have separate attribution.","P012:S1
+P012:S2
+P012:S3
+P012:S4","https://apptronik.com/company/leadership
+https://group.mercedes-benz.com/company/production/production-network/mbdfc-humanoid-robots.html?trk=article-ssr-frontend-pulse_little-text-block
+https://apptronik.com/team/jeff-cardenas
+https://www.forbes.com/sites/amyfeldman/2024/08/09/this-humanoid-robot-could-build-your-next-mercedes-apptronik/"
+P049,Jemin Hwangbo,Influence 50,Sim-to-real control research,"Jemin Hwangbo contributed ideas, learned control and simulation design in joint sim-to-real research.","Published contribution table; experiments are shared and the recovery policy is attributed to J.L., with later Korean commercial use assessed separately.","P049:S1
+P049:S2
+P049:S3","https://urobot.kaist.ac.kr/rp_announcement/?lang=ko&mod=document&pageid=1&uid=252
+https://arxiv.org/abs/1901.08652
+https://arxiv.org/html/1901.08652v1"
+P013,Jensen Huang,Influence 50,Robotics platform strategy,"Jensen Huang presented the public platform direction and releases of GR00T, Cosmos and Isaac.","Public strategy and launch statements; NVIDIA engineers and robot manufacturers retain model, SDK and integration contributions.","P013:S1
+P013:S2","https://nvidianews.nvidia.com/news/nvidia-powers-humanoid-robot-industry-with-cloud-to-robot-computing-platforms-for-physical-ai
+https://blogs.nvidia.com/blog/isaac-gr00t-blueprint-humanoid-robotics/"
+P014,Jonathan Hurst,Influence 50,Biped hardware design,"Jonathan Hurst explains Cassie’s design choices, including changes to motor interaction, steering, feet and enclosure compared with ATRIAS.",Designer explanation and university account; co-founders and university teams retain joint hardware and control contributions.,"P014:S1
+P014:S2
+P014:S3","https://www.agilityrobotics.com/content/building-robots-for-human-spaces
+https://www.agilityrobotics.com/company-overview
+https://engineering.oregonstate.edu/all-stories/cassie-steps-limelight"
+P016,Ken Goldberg,Influence 50,Learned grasping research,"Ken Goldberg co-created Dex-Net with Jeff Mahler, providing a shared research output for learned grasping.","Official project attribution, with AUTOLAB and the paper's co-authors sharing the research contribution.",P016:S1,https://berkeleyautomation.github.io/dex-net/
+P039,Kim Yong-jae,Influence 50,Lightweight assistive-robot research,Kim Yong-jae’s university profile connects clutch and lightweight-design research with WIRobotics product development.,"University profile and company co-founding history, with Lee Yeon-baek and the research teams sharing the work.","P039:S1
+P039:S2","https://tlo.koreatech.ac.kr/researcher/340
+https://www.wirobotics.com/product/productInfo"
+P037,Kyoungchul Kong,Influence 50,Assistive-robot team leadership,Kyoungchul Kong led a Cybathlon team developing and executing assistive-robot tasks.,"Personal CV; Kim Seung-hwan was the pilot, while the engineering team retains shared development credit.","P037:S1
+P037:S2","https://www.kaist.ac.kr/newsen/html/news/?sval=Kyoungchul+Kong
+https://robotics.kaist.ac.kr/files/cv_2503.pdf"
+P047,Kyu-Jin Cho,Influence 50,Variable-stiffness robotic design,Kyu-Jin Cho served as corresponding author on a folding drone arm and explained its variable-stiffness design.,"Joint research and Cho’s design explanation concern the folding robotic arm, with named co-authors retaining their roles.",P047:S1,https://now.snu.ac.kr/past/21/3/678
+P041,Leng Xiaokun,Influence 50,Humanoid research funding strategy,Leng Xiaokun describes reinvesting income from smaller products into large-robot research.,"Interview published by his university; evidence concerns a funding choice, with company-wide technology and delivery results separately attributed.",P041:S1,https://news.hit.edu.cn/2026/0122/c11819a240958/page.htm
+P017,Linxi “Jim” Fan,Influence 50,Reward-generation research,Jim Fan co-led Eureka and served as corresponding author on research generating and optimizing reward code for robot learning.,Joint research with Anima Anandkumar and collaborators; the reported 29-environment evaluation is simulation-based.,"P017:S1
+P017:S2","https://eureka-research.github.io/
+https://research.nvidia.com/labs/srl/authors/jim-fan/"
+P018,Marc Raibert,Influence 50,Dynamic locomotion research,Marc Raibert pioneered and led research in dynamic legged locomotion.,Documented historical contribution; later Atlas decisions retain team-level attribution.,P018:S1,https://imes.mit.edu/news-events/mit-affiliates-receive-2025-ieee-honors-0
+P019,Masayoshi Son,Influence 50,Strategic transaction decisions,Masayoshi Son and Yoshimitsu Goto received delegated authority to determine the final terms of SoftBank’s ABB Robotics acquisition agreement. The board resolution and October 2025 agreement document his role in that capital decision.,"SoftBank's October 2025 acquisition agreement, subject to closing conditions, and the board's delegation of final terms-setting authority.",P019:S1,https://group.softbank/en/news/press/20251008
+P020,Melonee Wise,Influence 50,Product and engineering organization,"Melonee Wise describes building and reorganizing Agility’s engineering and product teams, alongside technology-roadmap work at Zebra.",Personal 2025 résumé and 2022 employer statement; evidence concerns historical responsibilities rather than a verified current position.,"P020:S1
+P020:S2","https://www.zebra.com/us/en/about-zebra/newsroom/press-releases/2022/robotics-pioneer-melonee-wise-wins-2022-engelberger-award.html
+https://meloneewise.com/wp-content/uploads/2025/07/Melonee-Wise-Resume-20250725.pdf"
+P021,Nick Paine,Influence 50,Actuator design and control,"Nick Paine’s dissertation documents UT-SEA design and control research, including application of some control methods to Valkyrie.",Named dissertation abstract describing the specified technical work.,"P021:S1
+P021:S2
+P021:S3
+P021:S4","https://apptronik.com/company/leadership
+https://www.nasa.gov/news-release/nasa-awards-two-robots-to-university-groups-for-rd-upgrades-2/
+https://arxiv.org/abs/1906.03811
+https://sites.utexas.edu/hcrl/wp-content/uploads/sites/3888/2016/01/nick-paine-thesis-dissertation-2014.pdf"
+P051,Nikita Rudin,Influence 50,Parallel locomotion-training research,Nikita Rudin co-authored a massively parallel locomotion-training approach and curriculum evaluated on ANYmal and transferred to a physical robot.,"Joint research with David Hoeller, Philipp Reist and Marco Hutter; repository records separately document public code and outside reuse.","P051:S1
+P051:S2
+P051:S3","https://proceedings.mlr.press/v164/rudin22a.html
+https://github.com/leggedrobotics/legged_gym
+https://github.com/clearlab-sustech/Wheel-Legged-Gym"
+E019,Oh Jun Ho,Influence 50,DRC-HUBO joint research leadership,Oh Jun Ho co-led Team KAIST with In So Kweon and Rainbow researchers in the 2015 DARPA Robotics Challenge.,"KAIST documents joint team leadership and competition task completion, alongside HUBO platform development and use by outside research teams.","E019:S1
+E019:S2","https://news.kaist.ac.kr/newsen/html/news/?GotoPage=1&list_e_date=&list_s_date=&mng_no=4010&mode=V&skey=keyword&sval=Darpa
+https://news.kaist.ac.kr/newsen/html/news/?mng_no=4379&mode=V"
+P022,Oussama Khatib,Influence 50,Underwater teleoperation research,Oussama Khatib led OceanOne research and contributed to a remotely operated underwater recovery task.,2016 human-teleoperation case; subsequent OceanOneK work and commercial results have separate scope.,P022:S1,https://robotics.stanford.edu/ocean-one.html
+P023,Park Jong Hoon,Influence 50,Vertical-integration strategy,Park Jong Hoon describes choosing vertical integration after encountering limits in demand.,"Interview republished by the company; design, manufacturing and solution teams share product-execution credit.","P023:S1
+P023:S2","https://kind.krx.co.kr/external/2026/03/19/001294/20260319005316/11011.htm
+https://www.neuromeka.com/post/%EA%B8%B0%EC%97%85-%EC%B5%9C%EC%A0%84%EC%84%A0%EC%9D%84-%EA%B0%80%EB%8B%A4-%EB%89%B4%EB%A1%9C%EB%A9%94%EC%B9%B4-%ED%98%91%EB%8F%99%EB%A1%9C%EB%B4%87-%EC%A0%9C%EC%A1%B0-%EB%AA%85%EA%B0%80-%EB%A1%9C%EB%B4%87-%EC%A2%85%ED%95%A9-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B8%B0%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EB%8B%A4"
+P024,Peng Zhihui,Influence 50,Robot product-development leadership,Peng Zhihui led X-Lab development associated with the 2025 X2 release.,An event-organizer profile identifies Peng’s joint development leadership on X2.,P024:S1,https://www.mwcshanghai.cn/agenda/speakers/18415-peng-zhihui
+P030,Qiao Hong,Influence 50,Robot control-method research,Qiao Hong proposed an environment-attractor-region method explicitly attributed to her by CAS.,CAS’s profile attributes the method proposal to Qiao; team members retain application and implementation contributions.,P030:S1,https://ia.cas.cn/rcdw/202404/t20240425_7131821.html
+P035,Richie Chen,Influence 50,ACR co-development,Richie Chen participated with Shengdong Xu and Bing Fang in developing ACR after warehouse visits.,"The official white paper describes joint ACR development by Richie Chen, Shengdong Xu and Bing Fang.","P035:S1
+P035:S2","https://www.hairobotics.com/sites/default/files/2022-07/acr-white-paper_5_0.pdf
+https://www.hairobotics.com/company"
+P025,Rodney Brooks,Influence 50,Layered robot control,Rodney Brooks proposed layered robot control in an authored paper. Later researchers explicitly implemented the method.,Historical original research and subsequent paper; reported simulations and industrial deployments retain distinct status.,"P025:S1
+P025:S2
+P025:S3","https://people.csail.mit.edu/brooks/publications.html
+https://dspace.mit.edu/entities/publication/362a32d0-a821-4a9d-a5ff-9e2b71c5539d
+https://arxiv.org/abs/cs/0412056"
+E021,Rolf Dieter Schraft,Influence 50,Robot-programming method research,Rolf Dieter Schraft co-authored robot-programming and trajectory-adaptation research with C. Meyer for a gluing robot cell.,The official 2006 abstract describes geometric trajectory primitives and a triangulation-based trajectory metric for robot programming.,"E021:S1
+E021:S2","https://publica.fraunhofer.de/entities/publication/a6d401c0-c0a2-47dc-96ea-5170765ab522
+https://publica-rest.fraunhofer.de/server/api/core/items/a6d401c0-c0a2-47dc-96ea-5170765ab522"
+P026,Sabine Hauert,Influence 50,Swarm-control research leadership,Sabine Hauert co-directed research on explainable swarm control.,Joint research and experiments; the university account places field application at a later stage.,"P026:S1
+P026:S2","https://www.bristol.ac.uk/news/2019/august/robot-swarms.html
+https://arxiv.org/abs/2203.13809"
+P044,Seok Sang-ok,Influence 50,Integrated robotics service strategy,"Seok Sang-ok presented a direction for shared human-robot spaces and integrated services in 2019, later reflected in NAVER 1784’s operating pathway.","Public strategy and subsequent team-operation accounts; development, architecture, cloud and service implementation retain shared credit.","P044:S1
+P044:S2
+P044:S3","https://navercorp.com/media/pressReleasesDetail?seq=30049
+https://www.naverlabs.com/blogDetail?seq=34027
+https://www.naverlabs.com/blogDetail?seq=34326"
+P027,Sergey Levine,Influence 50,Learned visual-feedback research,Sergey Levine co-authored learned visual-feedback grasping research and explained its use of large-scale physical interaction in a signed Google research article.,"Joint research with Pastor, Krizhevsky and Quillen, accompanied by Levine’s signed explanation of the research approach.","P027:S1
+P027:S2","https://arxiv.org/abs/1603.02199
+https://research.google/blog/deep-learning-for-robots-learning-from-large-scale-interaction/"
+P033,Wang Hesheng,Influence 50,Joint perception research,Wang Hesheng served as corresponding author and co-author of FlowDet-Track.,FlowDet-Track author information identifies Wang’s corresponding-author and joint-publication roles.,"P033:S1
+P033:S2","https://faculty.sjtu.edu.cn/wanghesheng/zh_CN/zhym/183156/list/index.htm
+https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.230286.pdf"
+E033,Wang Tianran,Influence 50,Industrial robot product-development leadership,Wang Tianran led historical integration of team-developed controllers with purchased robot bodies and pursued factory applications.,SIA's retrospective attributes product-development and market-entry decisions to Wang and reports applications at Shenyang Jinbei Seat Factory and Anshan Excavator Factory; controller teams and later Siasun contributors share credit.,"E033:S1
+E033:S2","https://sia.cas.cn/gkjj/zjys/200906/t20090615_1643179.html
+https://sia.cas.cn/cxwh/cxwk/201910/t20191031_5416042.html"
+P028,Wang Xingxing,Influence 50,Quadruped design and control,Wang Xingxing designed XDog and held development responsibility for a quadruped group-control system.,Shanghai University alumni account; team development and later Unitree business results retain separate attribution.,"P028:S1
+P028:S2","https://www.shu.edu.cn/info/1056/3355.htm
+https://alumni.shu.edu.cn/info/1018/3152.htm"
+P032,Wang Yaonan,Influence 50,Industrial inspection project leadership,Wang Yaonan led a pharmaceutical robotic visual-inspection and control project documented by Hunan University.,"2019 institutional account, with researchers, equipment makers and application companies sharing the contribution.","P032:S1
+P032:S2
+P032:S3","https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/rgzn/wyn.htm
+https://robot.hnu.edu.cn/dwjs/tdfc.htm
+https://robotics.hnu.edu.cn/info/1035/1368.htm"
+E034,Zhao Mingguo,Influence 50,Joint humanoid-soccer research leadership,Zhao Mingguo's team developed vision-driven reactive soccer research; Zhao served as corresponding author and Wang Yushi as first author.,"Tsinghua reports physical Booster T1 tasks and competition use, crediting student researchers, partner institutions, hardware and test-site support.","E034:S1
+E034:S2
+E034:S3","https://www.tsinghua.edu.cn/info/1175/127783.htm
+https://www.tsinghua.edu.cn/info/3155/119475.htm
+https://www.au.tsinghua.edu.cn/info/1062/4605.htm"
+P046,Zhou Jian,Influence 50,Humanoid research investment,"Zhou Jian decided to fund and continue large-humanoid research in 2015 despite internal objections, according to a retrospective account.",A retrospective article attributes a 2015 humanoid research-funding decision to Zhou.,"P046:S1
+P046:S2
+P046:S3","https://m.yicai.com/news/101942696.html
+https://www.ubtrobot.com/en/investor-relations
+https://www.szrobotics.cn/nd.jsp?groupId=87&id=1377"
+P031,Zhu Qiuguo,Influence 50,Quadruped stability-control research,Zhu Qiuguo held a principal research role in dynamic stability control for the Jueying quadruped.,2019 university research announcement; later DEEP Robotics operations and customer outcomes have separate scope.,"P031:S1
+P031:S2
+P031:S3","https://person.zju.edu.cn/0011353/0.html
+https://pi.zju.edu.cn/2019/0426/c67022a2552523/page.htm
+https://pi.zju.edu.cn/2025/0429/c67022a3044370/page.htm"

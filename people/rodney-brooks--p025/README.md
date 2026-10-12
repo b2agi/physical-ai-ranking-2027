@@ -1,0 +1,47 @@
+---
+title: "Rodney Brooks | Layered robot control | B2AGI Physical AI 2027"
+record_id: "P025"
+name: "Rodney Brooks"
+category: "people"
+selection_group: "Influence 50"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Rodney Brooks", "P025", "Physical AI", "Embodied AI", "Influence 50", "Layered robot control", "simulation"]
+tags: ["b2agi", "physical-ai", "research-contributors", "simulation"]
+---
+
+# Rodney Brooks — Layered robot control
+
+Rodney Brooks proposed layered robot control in an authored paper. Later researchers explicitly implemented the method.
+
+## Record and edition
+
+- **Record ID:** `P025`
+- **List:** Influence 50
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+Historical original research and subsequent paper; reported simulations and industrial deployments retain distinct status.
+
+## Sources
+
+- **P025:S1 — people.csail.mit.edu:** <https://people.csail.mit.edu/brooks/publications.html> · Recorded access: 2026-10-05
+- **P025:S2 — dspace.mit.edu:** <https://dspace.mit.edu/entities/publication/362a32d0-a821-4a9d-a5ff-9e2b71c5539d> · Recorded access: 2026-10-05
+- **P025:S3 — arxiv.org:** <https://arxiv.org/abs/cs/0412056> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Influence 50](../../INFLUENCE_50.md) · [Ecosystem Builders 50](../../ECOSYSTEM_BUILDERS_50.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `P025`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).

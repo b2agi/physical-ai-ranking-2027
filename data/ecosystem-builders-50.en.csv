@@ -1,0 +1,215 @@
+id,name,group,role,selection_rationale,evidence_scope,source_references,source_urls
+E001,Aaron Ames,Ecosystem Builders 50,Shared gait-planning tools,"Aaron Ames co-authored FROST with Hereid, providing a public MATLAB tool for gait planning.",Caltech repository attribution and simulation examples; authorship is shared and examples concern simulation.,"E001:S1
+E001:S2","https://arxiv.org/abs/1609.00651
+https://authors.library.caltech.edu/records/57b80-ewa35"
+E002,Aaron Prather,Ecosystem Builders 50,Industry testing workshops,"Aaron Prather co-organized a 2025 workshop bringing together research, industry and testing participants, with named presentation materials.","Workshop organization and presentation records; Beiter, Saidi, Sentis and other contributors retain their roles.","E002:S1
+E002:S2
+E002:S3
+E002:S4
+E002:S5","https://uwaterloo.ca/robohub/news/robohub-manager-gives-invited-talk-ieee-humanoids-workshop
+https://wr-2025.github.io/StandardsWorkshop-Humanoids2025.github.io/
+https://wr-2025.github.io/StandardsWorkshop-Humanoids2025.github.io/assets/presentations/Aaron_Prather-ASTM-The_Future_of_Humanoid_Standards.pdf
+https://www.astm.org/news/esp/aaron-prather-de-astm-habla-de-robotica-inteligencia-artificial-y-de-la-direccion-que
+https://www.astm.org/news/press-releases/robotics-applications-subcommittee-formed-astm"
+E003,Andra Keay,Ecosystem Builders 50,Robotics community support,"Andra Keay provided advice, community connections and sustained support described in Women in Robotics records and Sue Keay’s account.",Organizational records and testimony from her sister; independent industry-wide effects remain unmeasured.,"E003:S1
+E003:S2","https://www.svrobo.org/membership/
+https://www.womeninrobotics.org/2024/06/20/member-spotlight-sue-keay"
+E004,Ayanna Howard,Ecosystem Builders 50,Accessible STEM technology transfer,Ayanna Howard describes founding Zyrobotics after NSF I-Corps participation and licensing laboratory technology into STEM products for children.,Howard’s university interview describes historical licensing and accessible STEM-product development.,"E004:S1
+E004:S2","https://engineering.osu.edu/news/2021/07/robotics-and-ai-qa-dean-ayanna-howard
+https://engineering.osu.edu/news/2021/05/dean-ayanna-howard-named-acm-athena-lecturer"
+E005,Brian Gerkey,Ecosystem Builders 50,Open robotics architecture,"Brian Gerkey co-designed ROS and ROS 2 and helped connect open robotics development across institutions, including a documented NVIDIA collaboration.",Joint design and partner records; Tully Foote and the wider developer community retain their technical contributions.,"E005:S1
+E005:S2
+E005:S3","https://www.openrobotics.org/foundation
+https://arxiv.org/abs/2211.07752
+https://developer.nvidia.com/blog/nvidia-ai-perception-coming-to-ros-developers/"
+E052,Bruce Leak,Ecosystem Builders 50,Founder and board support,"Bruce Leak co-founded Playground and served on Agility Robotics’ board, supporting founders and capital access.","Founding and board-participation records; investment amounts, technical design and portfolio outcomes remain separately attributed.",E052:S1,https://www.playground.vc/people/bruce-leak
+E047,Cho Kyu-nam,Ecosystem Builders 50,Public industry discussion,"Cho Kyu-nam moderated a July 2024 discussion, asking concrete questions about industrial competitiveness, market entry and infrastructure.",The 2024-07-24 roundtable transcript records Cho’s questions and the participants’ responses.,"E047:S1
+E047:S2","https://www.irobotnews.com/news/articleView.html?idxno=35621
+https://www.irobotnews.com/news/articleView.html?idxno=25341"
+E007,Christian Hubicki,Ecosystem Builders 50,Control and simulation education,"Christian Hubicki led optimal-control and simulation teaching at IMSI, with links to code and answers for participants.",An IMSI workshop page provides Hubicki’s teaching record and links to code and answers.,"E007:S1
+E007:S2
+E007:S3","https://cre.fsu.edu/urop-project/22719
+https://cims.uci.edu/optimal-control-and-reinforcement-learning-for-predictive-simulation-of-behavior/
+https://cims.uci.edu/education-training/outreach/"
+E008,Craig Schlenoff,Ecosystem Builders 50,Shared robotics evaluation,"Craig Schlenoff contributed conceptualization, project management, supervision and drafting to ARIAC’s shared evaluation work.","The available published contribution statement credits conceptualization, project management, supervision and drafting of the shared ARIAC evaluation work.","E008:S1
+E008:S2
+E008:S3","https://www.nist.gov/people/craig-i-schlenoff
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10092066/
+https://www.nist.gov/publications/assessing-industrial-robot-agility-through-international-competitions"
+E053,Cyril Ebersweiler,Ecosystem Builders 50,Hardware startup support,"Cyril Ebersweiler helped found and operate HAX, with Neptune Robotics documenting use and subsequent support.",Shared incubator and beneficiary records; beneficiary technology and investment-wide outcomes retain separate attribution.,"E053:S1
+E053:S2","https://hax.co/team/cyril-ebersweiler/
+https://hax.co/case_studies/an-underwater-cleaning-robot-for-the-marine-industry/"
+P006,Daniela Rus,Ecosystem Builders 50,Robotics doctoral mentoring,Daniela Rus supervised Joseph DelPreto's completed doctorate and supported his research direction and lab community.,The dissertation identifies Rus as thesis supervisor and acknowledges her guidance; MIT separately credits Rus and DelPreto as Conduct-A-Bot coauthors.,"P006:S1
+P006:S2
+P006:S3","https://people.csail.mit.edu/delpreto/thesis/delpreto_PhD-thesis_2021_wearables_human-robot-interaction.pdf
+https://bcs.mit.edu/news/muscle-signals-can-pilot-robot
+https://www.csail.mit.edu/news/muscle-signals-can-pilot-robot"
+E009,Dennis Hong,Ecosystem Builders 50,Research and education platforms,Dennis Hong led RoMeLa’s public robotics platforms for research and education.,"Platform and education records, with students, research teams and ROBOTIS sharing hardware and software contributions.","E009:S1
+E009:S2","https://newsroom.ucla.edu/releases/artemis-ucla-humanoid-robot-ready-for-action
+https://github.com/darwinop-ens/darwin-op"
+E010,Elena Messina,Ecosystem Builders 50,Joint standards and testing,Elena Messina contributed to named joint standards and testing outputs for robotics.,Documented joint standards and test contributions; individual and institutional functions retain separate attribution.,"E010:S1
+E010:S2","https://www.nist.gov/nist-awards/2018-bronze-medal-award-roger-bostelman-elena-messina-david-schmitt-ann-marie-virts
+https://www.nist.gov/programs-projects/mobility-performance-robotic-systems"
+E011,Elham Tabassi,Ecosystem Builders 50,AI risk-management framework,"Elham Tabassi authored NIST’s publicly available AI RMF 1.0, providing risk-management language reusable in Physical AI procurement and trust discussions.","NIST author attribution and framework publication; this is a cross-domain AI framework, with robot-specific safety certification assessed separately.","E011:S1
+E011:S2","https://www.nist.gov/itl/ai-risk-management-framework/elham-tabassi-closing-remarks-ai-rmf-launch-january-26-2023
+https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10"
+E012,Erico Guizzo,Ecosystem Builders 50,Robotics editorial resources,"Erico Guizzo co-created the concept and content of Robots Guide, providing an editorial route into robotics knowledge.","Project attribution; Randi Klett, Evan Ackerman and the design and development teams retain shared contributions, with readership effects unmeasured.","E012:S1
+E012:S2","https://spectrum.ieee.org/u/erico-guizzo
+https://robotsguide.com/about"
+E013,Fei-Fei Li,Ecosystem Builders 50,Shared vision data and challenges,"Fei-Fei Li helped build ImageNet’s shared dataset and challenge, which drew participation from multiple institutions.",ImageNet’s historical data and 2010 challenge records identify shared author and organizer contributions.,"E013:S1
+E013:S2","https://www.image-net.org/challenges/LSVRC/2010/
+https://www.worldlabs.ai/about"
+E014,Francesca Rossi,Ecosystem Builders 50,Autonomous-system design ethics,Francesca Rossi co-chaired IEEE EAD’s embedding-values committee and participated in named IBM research.,IEEE committee record and joint research; the contribution concerns public design knowledge rather than product certification.,"E014:S1
+E014:S2","https://research.ibm.com/publications/building-ethically-bounded-ai
+https://engagestandards.ieee.org/rs/211-FYL-955/images/EAD1e.pdf"
+P009,Geordie Rose,Ecosystem Builders 50,Robotics partner investment and support,Geordie Rose describes building robotics partnerships through investment and licensing; Apptronik's CEO credits his board support.,"Sanctuary's signed retrospective and partner quotation describe corporate partnerships, investment and board support.","P009:S1
+P009:S2
+P009:S3","https://sanctuary.ai/news/company-leadership-update/
+https://sanctuary.ai/news/sanctuary-ai-expands-general-purpose-robot-footprint-in-automotive-manufacturing-industry/
+https://sanctuary.ai/news/building-an-ecosystem-designed-to-build-a-human-level-ai/"
+P010,Gill Pratt,Ecosystem Builders 50,Shared robotics test-program leadership,"Gill Pratt led DARPA's Robotics Challenge program, providing common disaster-response tasks and test conditions for competing robot teams.","DARPA identifies Pratt as program manager and describes human-supervised systems and degraded communications; participating teams contributed their hardware, software and algorithms.","P010:S1
+P010:S2
+P010:S3
+P010:S4","https://www.darpa.mil/news/2014/robotics-challenge-continues
+https://news.kaist.ac.kr/newsen/html/news/?mng_no=4379&mode=V
+https://www.darpa.mil/news/2015/robotics-challenge-finals
+https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21683"
+E050,Han Jae-kwon,Ecosystem Builders 50,Public robotics education,Han Jae-kwon and Lee Byung-joo delivered robotics lectures at Hanyang's August 2022 Robot Day.,"Hanyang reports lectures, demonstrations and robot-making activities. The separate HERoEHS team paper credits Han with ALICE's mechanical design and Younseal Eum with exterior design.","E050:S1
+E050:S2
+E050:S3
+E050:S4
+E050:S5
+E050:S6
+E050:S7","https://hyu.wiki/index.php?mobileaction=toggle_view_desktop&title=HERoEHS
+https://www.newshyu.com/news/articleView.html?idxno=1015180
+https://www.newshyu.com/news/articleView.html?idxno=1015500
+https://ehaksa.hanyang.ac.kr/documents/portlet_file_entry/10941949/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99%EA%B3%BC.pdf/5af3d01b-927c-c8fa-a640-3370f325d956?download=true&status=0
+https://humanoid.robocup.org/wp-content/uploads/HERoEHS-tdp-67938e21e09a0.pdf
+https://site.hanyang.ac.kr/web/share/-6?_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_action=view_message&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_cur=14&_kr_ac_hanyang_bbs_web_portlet_BbsPortlet_messageId=77185&p_p_id=kr_ac_hanyang_bbs_web_portlet_BbsPortlet&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal
+https://tdp.robocup.org/wp-content/uploads/tdp/robocup/2019/robocupsoccer-humanoid-adultsize/heroehs-99/robocup-2019-robocupsoccer-humanoid-adultsize-heroehsf85qnVzgFC.pdf"
+E044,He Wang,Ecosystem Builders 50,Shared dexterous-grasp benchmark and tools,"He Wang was corresponding author of BODex's joint benchmark, data and code release; UltraDexGrasp documents adapting its code.",BODex names Jiayi Chen and Yubin Ke as equal contributors. UltraDexGrasp's README identifies its adapted BODex API and credits the upstream code.,"E044:S1
+E044:S2","https://pku-epic.github.io/BODex/
+https://github.com/InternRobotics/UltraDexGrasp/blob/main/README.md"
+E015,Henrik Christensen,Ecosystem Builders 50,Shared robotics roadmaps,"Henrik Christensen served as a principal writer of repeated Robotics Roadmap editions, organizing a shared research agenda.","UCSD attribution and joint roadmap publications, with co-authors and workshop participants sharing the contribution.","E015:S1
+E015:S2","https://arxiv.org/abs/1606.09205
+https://css.ucsd.edu/people/profiles/hchristensen.html"
+P036,Jiyang Gao,Ecosystem Builders 50,Dataset-and-model programme coordination,Jiyang Gao co-supervised Galaxea's dataset-and-model research programme with Hang Zhao and Huazhe Xu. This entry recognizes coordination of the team's shared research capability.,The paper describes the dataset and G0 model; Section 8 names the three supervisors and separately credits dataset operations and policy training. Version 1 announced public release as a forthcoming step.,P036:S1,https://arxiv.org/html/2509.00576v1
+E036,Jung Kim,Ecosystem Builders 50,Startup-development programs,"Jung Kim led KAIST’s Robot Valley program, with the university identifying actual startup-competition beneficiaries.",University program account; operations are shared and new model and robotic-skin plans retain planned status.,E036:S1,https://www.kaist.ac.kr/newsen/html/news/?GotoPage=1&mng_no=55730&mode=V&skey=keyword&sval=Robot
+P015,Karol Hausman,Ecosystem Builders 50,Robot-learning infrastructure,Karol Hausman contributed robot infrastructure and writing to pi0.5.,Appendix A-A attributes robot infrastructure and writing to Hausman within the joint research team.,"P015:S1
+P015:S2
+P015:S3","https://www.pi.website/download/pi0.pdf
+https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/
+https://arxiv.org/html/2504.16054v1"
+E016,Li Zexiang,Ecosystem Builders 50,Startup education and manufacturing support,"Li Zexiang connects practical education with startup mentoring, early capital and supply-chain support through documented ecosystem-building work.",University account of shared X-Tech and XbotPark activities; company-specific effects and current support outcomes lack independent measurement.,"E016:S1
+E016:S2","https://innobaybootcamp.hkust.edu.hk/en/mentors
+https://seng.hkust.edu.hk/news/20190124/prof-li-zexiang-life-engineering-research-education-and-entrepreneurship"
+E037,Liang Jing,Ecosystem Builders 50,Standards working-group operations,"Liang Jing organized and chaired work described in official annual-meeting records, including organizational reporting and an open project call.",Official meeting record; standards-system publication and individual product testing or certification have separate scope.,E037:S1,https://www.cie.org.cn/list_42/15632.html
+E051,Lior Susan,Ecosystem Builders 50,Industrial startup organization,"Lior Susan helped establish Eclipse and organized Bright Machines’ founding, separation and funding support.",Participant interview concerning startup and organizational work; portfolio-wide results retain company and team attribution.,E051:S1,https://eclipse.capital/blog/lior-susan-eclipse-redefining-physical-industries/
+E030,Liu Lianqing,Ecosystem Builders 50,Robotics doctoral supervision,Liu Lianqing supervised named completed doctoral research by Zhou Peilin.,Institute records of supervision and research; students and co-authors retain their technical contributions.,"E030:S1
+E030:S2
+E030:S3","https://www.sia.ac.cn/xwzx/zhxw/202109/t20210903_6190814.html
+https://robot.sia.cn/cn/article/pdf/preview/10.13973/j.cnki.robot.180491.pdf
+https://rlab.sia.cas.cn/xwxx/kydt/202109/t20210930_603628.html"
+E017,Matt Beane,Ecosystem Builders 50,Work and skill-transition research,"Matt Beane published long-term field research on robotic surgery and shadow learning, contributing knowledge about work and training transitions.",UCSB research account and published study; observations and measured effects of training-system changes have separate scope.,"E017:S1
+E017:S2","https://news.ucsb.edu/2020/020026/shining-light-shadow-learning
+https://www.teamraderie.com/wp-content/uploads/2026/01/2026-01-15-Teamraderie-Customer-Event-Final-Version-combined.pdf"
+E018,Matthew Johnson-Roberson,Ecosystem Builders 50,Robotics doctoral supervision,Matthew Johnson-Roberson advised Tianyi Zhang's completed doctorate on underwater 3D visual perception and generation.,CMU records the August 2025 doctorate and advisor. Johnson-Roberson also co-authored synthetic-data research described in Driving in the Matrix.,"E018:S1
+E018:S2
+E018:S3","https://droplab.ri.cmu.edu/matthew-johnson-roberson
+https://www.ri.cmu.edu/people/alumni/page/70/
+https://arxiv.org/abs/1610.01983"
+E055,Mayank Mittal,Ecosystem Builders 50,Public robot-learning infrastructure,"Mayank Mittal led development work on Isaac Lab, providing public code reused in robotics learning research.","Development attribution and application research; NVIDIA, ETH and other developers retain shared credit, with full replication unperformed.","E055:S1
+E055:S2
+E055:S3","https://mayankm96.github.io/
+https://arxiv.org/html/2511.04831v1
+https://github.com/isaac-sim/IsaacLab"
+E056,Morgan Quigley,Ecosystem Builders 50,ROS architecture,Morgan Quigley co-designed ROS and contributed to its architecture and public development infrastructure.,"Original joint research and development records; roles are shared with Gerkey, Foote and other contributors.","E056:S1
+E056:S2
+E056:S3","https://codebot.github.io/www/
+https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf
+https://www.ros.org/news/2016/03/morgan-quigley-osrf-ros-2-on-small-embedded-systems.html"
+E020,Pieter Abbeel,Ecosystem Builders 50,Robotics-control education,Pieter Abbeel repeatedly provided robotics-control education with documented student activities.,"Course and student-activity records; the contribution concerns education infrastructure, with company and investment outcomes separately attributed.","E020:S1
+E020:S2
+E020:S3
+E020:S4","https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/
+https://classes.berkeley.edu/content/2019-fall-compsci-287-001-lec-001
+https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/
+https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/"
+E049,Qin Xiugong,Ecosystem Builders 50,Shared standards terminology,Qin Xiugong co-drafted a foundational standard whose terminology was reused in T/CESA 1450-2025.,Named joint drafting and later terminology references document the foundational standard’s reuse.,"E049:S1
+E049:S2
+E049:S3
+E049:S4","https://std.samr.gov.cn/gb/search/gbDetailedCNF?id=2FF37940EB10D753E06397BE0A0A413F
+https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20261/151e4eb4b80245a7abf91fab5413ceda.pdf
+https://std.samr.gov.cn/gb/search/gbDetailed?id=02DDB68A4C25AFA9E06397BE0A0A5C73
+https://std.samr.gov.cn/gb/search/gbDetailed?id=Bnog%2BaPCnWk%3D&mode=p"
+E048,Qu Daokui,Ecosystem Builders 50,Research commercialization,Qu Daokui describes commercializing research through a startup team and distinguishes company industrialization from institute research.,"Field interview republished by the institute, describing the shared technology-transfer contribution.",E048:S1,https://sia.cas.cn/xwzx/mtjj/201610/t20161031_4687882.html
+E022,Russ Tedrake,Ecosystem Builders 50,Shared control software,Russ Tedrake helped initiate Drake with MIT and Toyota Research Institute.,Official Drake credits; other developers and the institutions retain joint development and support contributions.,"E022:S1
+E022:S2
+E022:S3","https://drake.mit.edu/
+https://drake.mit.edu/gallery.html
+https://drake.mit.edu/credits.html"
+E023,Ryan Gariepy,Ecosystem Builders 50,Developer exchange and education,"Ryan Gariepy repeatedly participated in and co-led ROSCon, supporting developer exchange and education.",ROSCon opening materials and committee records identify Gariepy’s repeated participation and joint organizing role.,"E023:S1
+E023:S2
+E023:S3
+E023:S4","https://www.openrobotics.org/foundation
+https://clearpathrobotics.com/our-story-sandboxed/
+https://roscon.ros.org/2014/wp-content/uploads/2014/07/roscon-opening-remarks-2014.pdf
+https://discourse.openrobotics.org/t/roscon-2019-growing-the-organizing-committee/7928"
+E024,Rémi Cadène / Remi Cadene,Ecosystem Builders 50,Open robot-learning tools,"Rémi Cadène led LeRobot, whose development resources appear in external hardware workflows.",Leadership attribution and Trossen documentation; the library is jointly developed and external use has experimental version constraints.,"E024:S1
+E024:S2
+E024:S3
+E024:S4
+E024:S5","https://www.remicadene.com/
+https://github.com/huggingface/lerobot
+https://arxiv.org/abs/2602.22818
+https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition
+https://docs.trossenrobotics.com/trossen_arm/main/tutorials/openpi.html"
+E039,Shi Lin,Ecosystem Builders 50,Joint evaluation-standard authorship,"Shi Lin co-authored YD/T 6770-2026, contributing to a common Physical AI evaluation framework.",National standards information names Shi Lin among the co-authors of YD/T 6770-2026.,"E039:S1
+E039:S2","https://aihub.caict.ac.cn/docs/Fg25ibERWzFR
+https://std.samr.gov.cn/hb/search/stdHBDetailed?id=549C0BA44F7D1569E06397BE0A0A62F3"
+E025,Sun Lining,Ecosystem Builders 50,Regional research and talent programs,"Sun Lining describes establishing a research institute, degree programs and talent-development activities supporting regional industry.",University-published interview describing the historical activities.,E025:S1,https://www.suda.edu.cn/suda_news/sdrw/202006/2192577e-155e-4fb4-89ab-331e905f8795.html
+E026,Tom Ryden,Ecosystem Builders 50,Shared facility operations,"Tom Ryden took on operations supporting shared facilities, programs and resident companies at MassRobotics.",Tom Ryden's March 2022 retrospective describes facility operations and programme development; the founding concept is credited to named founders.,"E026:S1
+E026:S2","https://www.massrobotics.org/five-years-and-just-getting-started-a-perspective-from-executive-director-tom-ryden/
+https://www.massrobotics.org/massrobotics-accelerator/"
+E027,Tully Foote,Ecosystem Builders 50,ROS units and coordinate conventions,"Tully Foote co-authored common ROS unit and coordinate conventions with Mike Purvis, supporting compatibility across developers.",Joint REP authorship and ROS 2 message conventions; technical conventions and institutional coordination have distinct attribution.,"E027:S1
+E027:S2
+E027:S3
+E027:S4","https://reps.openrobotics.org/rep-0003/
+https://arxiv.org/abs/2211.07752
+https://raw.githubusercontent.com/ros-infrastructure/rep/master/rep-0103.rst
+https://raw.githubusercontent.com/ros2/common_interfaces/rolling/sensor_msgs/msg/Imu.msg"
+E028,Vincent Vanhoucke,Ecosystem Builders 50,Research-team formation,Vincent Vanhoucke established a Google robotics research team and participated in subsequent joint research.,Historical official profile and joint outputs; team formation and support are distinguished from individual algorithm design.,"E028:S1
+E028:S2
+E028:S3","https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/
+https://deepmind.google/blog/shaping-the-future-of-advanced-robotics/
+https://research.google/people/vincentvanhoucke/"
+E043,Wang Tianmiao,Ecosystem Builders 50,Talent and startup support,"Wang Tianmiao supported talent and startup development, with Beihang naming beneficiaries and documenting a scholarship donation.","Beihang’s commemorative account describes talent support, named startup beneficiaries and a scholarship donation.",E043:S1,https://news.buaa.edu.cn/info/1004/66445.htm
+E045,Wei Kai,Ecosystem Builders 50,Joint evaluation-standard authorship,"Wei Kai co-authored YD/T 6770-2026, contributing to a specific Physical AI evaluation output.",National standards author listing; evidence covers shared authorship rather than sole clause design or operation of testing institutions.,"E045:S1
+E045:S2
+E045:S3","https://aiforgood.itu.int/speaker/wei-kai/
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20190826/Documents/Wei_Kai_Presentation.pdf
+https://std.samr.gov.cn/hb/search/stdHBDetailed?id=549C0BA44F7D1569E06397BE0A0A62F3"
+E054,Wendy Tan White,Ecosystem Builders 50,Shared development organization,"Wendy Tan White organized shared robotics development through integration of OSRC’s business and staff, with partner use in actual development tasks.","Management and partner-use records; Gerkey, Kroeger, NVIDIA, DeepMind and other technical contributors retain their roles.","E054:S1
+E054:S2","https://www.intrinsic.ai/blog/posts/building-opportunities-for-the-worlds-robotics-developers
+https://www.intrinsic.ai/blog/posts/unlocking-new-value-in-industrial-automation-with-ai"
+E032,Xiong Rong,Ecosystem Builders 50,Student research platforms,Xiong Rong guided Zhejiang University's robotics competition training and its ZJUNlict student team.,Zhejiang University's November 2007 teaching report names Xiong as supervisor of robotics training. ZJUNlict's team description credits her guidance and successive student teams.,"E032:S1
+E032:S2
+E032:S3
+E032:S4","https://person.zju.edu.cn/0097062/655209.html
+https://www.zju.edu.cn/2007/1113/c32861a1516191/pagem.htm
+https://github.com/ZJU-RoboCup/TeamDescription
+https://rsc.zju.edu.cn/ypjjj/redir.php?catalog_id=416803&object_id=418127"
+E041,Yuh Joon-ku,Ecosystem Builders 50,Research-agenda editing,"Yuh Joon-ku co-edited a research-direction workshop report, providing a historical public research and education resource.",University publication list and NOAA-preserved report cover from 1994 to 1996; evidence concerns joint editing.,"E041:S1
+E041:S2
+E041:S3","https://www.kiro.re.kr/enjoy/news.asp?GTXT=&SFIELD=&bcat=&bgbn=R&bidx=3614&gbn=R05&page=1
+https://www.kiro.re.kr/enjoy/report.asp?GTXT=&SFIELD=&bcat=&bgbn=R&bidx=3642&gbn=R06&page=5
+https://repository.library.noaa.gov/view/noaa/36658/noaa_36658_DS1.pdf"
+E029,Zhang Jianwei,Ecosystem Builders 50,Multi-institution research coordination,Zhang Jianwei coordinated the six-institution RACE robotics consortium from December 2011 to November 2014.,"Hamburg names Zhang as coordinator; the joint PR2 evaluation paper credits its authors for architecture, metrics and physical restaurant-task research.","E029:S1
+E029:S2
+E029:S3
+E029:S4
+E029:S5","https://kogs-www.informatik.uni-hamburg.de/projekte-engl/RACE.html
+https://tams.informatik.uni-hamburg.de/people/rockel/publications/IROS2013_eAbs.pdf
+https://www.researchgate.net/publication/273404199_Evaluation_Metrics_for_an_Experience-based_Mobile_Artificial_Cognitive_System
+https://tams.informatik.uni-hamburg.de/people/zhang/
+https://tams.informatik.uni-hamburg.de/people/zhang/index.php?content=cv"

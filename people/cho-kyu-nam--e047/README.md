@@ -1,0 +1,46 @@
+---
+title: "Cho Kyu-nam | Public industry discussion | B2AGI Physical AI 2027"
+record_id: "E047"
+name: "Cho Kyu-nam"
+category: "people"
+selection_group: "Ecosystem Builders 50"
+edition: 2027
+assessment_baseline: "October 2026"
+source_revision: "2026-10-11"
+version: "1.0"
+publication_date: "2026-10-12"
+keywords: ["Cho Kyu-nam", "E047", "Physical AI", "Embodied AI", "Ecosystem Builders 50", "Public industry discussion"]
+tags: ["b2agi", "physical-ai", "research-contributors"]
+---
+
+# Cho Kyu-nam — Public industry discussion
+
+Cho Kyu-nam moderated a July 2024 discussion, asking concrete questions about industrial competitiveness, market entry and infrastructure.
+
+## Record and edition
+
+- **Record ID:** `E047`
+- **List:** Ecosystem Builders 50
+- **Edition:** B2AGI Physical AI Ranking 2027
+- **Assessment baseline:** October 2026
+- **Source revision:** 2026-10-11 · v1.0
+- **Selection type:** contribution-based selection; the ID is not a numerical rank.
+
+## Evidence scope
+
+The 2024-07-24 roundtable transcript records Cho’s questions and the participants’ responses.
+
+## Sources
+
+- **E047:S1 — www.irobotnews.com:** <https://www.irobotnews.com/news/articleView.html?idxno=35621> · Recorded access: 2026-10-05
+- **E047:S2 — www.irobotnews.com:** <https://www.irobotnews.com/news/articleView.html?idxno=25341> · Recorded access: 2026-10-05
+
+## Read the comparison
+
+[Influence 50](../../INFLUENCE_50.md) · [Ecosystem Builders 50](../../ECOSYSTEM_BUILDERS_50.md) · [Methodology](../../METHODOLOGY.md)
+
+## Citation and corrections
+
+Cite B2AGI Physical AI Ranking 2027, record `E047`, v1.0, source revision 2026-10-11, and the relevant source-reference ID. Keep the original publisher and reporting period with each claim.
+
+Published by [B2AGI](https://b2agi.com), 12 October 2026. [Reuse terms](../../RIGHTS.md) · [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues).
