@@ -1,0 +1,32 @@
+---
+title: "Nimble Robotics | Suministro de soluciones robóticas de preparación de pedidos | B2AGI Physical AI 2027"
+record_id: "N053"
+language: "es"
+selection_group: "Current 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Nimble Robotics
+
+Suministro de soluciones robóticas de preparación de pedidos
+
+`N053` · Current 100
+
+## Fundamento de selección y evaluación · original en inglés
+
+Nimble supplies robotic fulfillment used by named brands for picking, packing and shipping; later alliance plans extend that operating contribution.
+
+## Alcance de la evidencia · original en inglés
+
+Supplier customer cases including Fresh Clean Threads' 2023 fulfillment; FedEx alliance announcement, 2024-09-05.
+
+## Fuentes
+
+- `N053:S1` · [newsroom.fedex.com](https://newsroom.fedex.com/newsroom/global-english/fedex-announces-expansion-of-fedex-fulfillment-with-nimble-alliance)
+- `N053:S2` · [nimble.ai](https://nimble.ai/)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/nimble-robotics--n053/README.md)

@@ -1,0 +1,32 @@
+---
+title: "KRX | Acceso a cotización e información pública de empresas robóticas | B2AGI Physical AI 2027"
+record_id: "I050"
+language: "es"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# KRX
+
+Acceso a cotización e información pública de empresas robóticas
+
+`I050` · Institutions 50
+
+## Fundamento de selección y evaluación · original en inglés
+
+KRX provided KOSPI listing and trading access for Doosan Robotics, documented by the issuer’s completed listing and contract records.
+
+## Alcance de la evidencia · original en inglés
+
+Issuer listing records; subscription deposits and bookbuilding demand have separate scope from newly received issuer funds.
+
+## Fuentes
+
+- `I050:S1` · [kind.krx.co.kr](https://kind.krx.co.kr/external/2026/03/19/001294/20260319005316/11011.htm)
+- `I050:S2` · [www.doosanrobotics.com](https://www.doosanrobotics.com/cn/about/promotion/news/view/64)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/institutions/krx--i050/README.md)

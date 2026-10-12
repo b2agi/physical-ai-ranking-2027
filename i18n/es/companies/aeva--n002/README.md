@@ -1,0 +1,33 @@
+---
+title: "Aeva | Detección industrial | B2AGI Physical AI 2027"
+record_id: "N002"
+language: "es"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Aeva
+
+Detección industrial
+
+`N002` · Next 100
+
+## Fundamento de selección y evaluación · original en inglés
+
+Aeva’s Eve sensing technology is integrated into a SICK sensor product described in a launch announcement.
+
+## Alcance de la evidencia · original en inglés
+
+Aeva’s product announcement describes Eve sensing integrated into a SICK sensor.
+
+## Fuentes
+
+- `N002:S1` · [www.aeva.com](https://www.aeva.com/press/aeva-unveils-vision-for-the-future-of-sensing-and-perception-and-reports-second-quarter-2025-results-at-aeva-day/)
+- `N002:S2` · [scenes.aeva.com](https://scenes.aeva.com/)
+- `N002:S3` · [www.aeva.com](https://www.aeva.com/press/aeva-reports-second-quarter-2026-results/)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/aeva--n002/README.md)

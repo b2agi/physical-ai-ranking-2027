@@ -1,0 +1,31 @@
+---
+title: "Hexagon | Entrenamiento y validación de humanoides | B2AGI Physical AI 2027"
+record_id: "N032"
+language: "es"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Hexagon
+
+Entrenamiento y validación de humanoides
+
+`N032` · Next 100
+
+## Fundamento de selección y evaluación · original en inglés
+
+Hexagon’s AEON entered Schaeffler’s Humanoid Gym for training and validation.
+
+## Alcance de la evidencia · original en inglés
+
+Hexagon describes AEON training and validation at Schaeffler’s Humanoid Gym. The 1,000-robot figure is a future deployment plan.
+
+## Fuentes
+
+- `N032:S1` · [hexagon.com](https://hexagon.com/company/newsroom/press-releases/2026/towards-factory-deployment-how-aeon-is-trained-to-perform)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/hexagon--n032/README.md)

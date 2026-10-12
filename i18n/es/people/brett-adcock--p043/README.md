@@ -1,0 +1,32 @@
+---
+title: "Brett Adcock | Estrategia industrial de humanoides | B2AGI Physical AI 2027"
+record_id: "P043"
+language: "es"
+selection_group: "Influence 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Brett Adcock
+
+Estrategia industrial de humanoides
+
+`P043` · Influence 50
+
+## Fundamento de selección y evaluación · original en inglés
+
+Brett Adcock’s named plan chose manufacturing and logistics as early humanoid applications, emphasizing repetitive work in human environments.
+
+## Alcance de la evidencia · original en inglés
+
+Public strategic plan; BMW negotiations, Helix design and commercial returns have separate attribution.
+
+## Fuentes
+
+- `P043:S1` · [www.prnewswire.com](https://www.prnewswire.com/news-releases/figure-announces-commercial-agreement-with-bmw-manufacturing-to-bring-general-purpose-robots-into-automotive-production-302036263.html)
+- `P043:S2` · [www.figure.ai](https://www.figure.ai/master-plan)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/people/brett-adcock--p043/README.md)

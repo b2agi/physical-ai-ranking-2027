@@ -1,0 +1,31 @@
+---
+title: "Honda | Asistencia en teleoperación diestra | B2AGI Physical AI 2027"
+record_id: "N033"
+language: "es"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Honda
+
+Asistencia en teleoperación diestra
+
+`N033` · Next 100
+
+## Fundamento de selección y evaluación · original en inglés
+
+Honda describes a dexterous hand using intent estimation and contact feedback, including repeated learning of screwdriver regrasping.
+
+## Alcance de la evidencia · original en inglés
+
+Honda technical research account; teleoperation and AI assistance are distinct functions, and measured figures are company-reported.
+
+## Fuentes
+
+- `N033:S1` · [global.honda](https://global.honda/en/tech/Avatar_robot/)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/honda--n033/README.md)

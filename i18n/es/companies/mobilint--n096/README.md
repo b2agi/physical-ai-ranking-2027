@@ -1,0 +1,32 @@
+---
+title: "Mobilint | Investigación de integración de codificadores de políticas robóticas | B2AGI Physical AI 2027"
+record_id: "N096"
+language: "es"
+selection_group: "Next 100"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# Mobilint
+
+Investigación de integración de codificadores de políticas robóticas
+
+`N096` · Next 100
+
+## Fundamento de selección y evaluación · original en inglés
+
+Mobilint supplies Aries2 hardware for an external study of robot-policy encoder offloading, retaining hardware credit separately from the researchers' policy and evaluation.
+
+## Alcance de la evidencia · original en inglés
+
+Research v1, 2026-08-15: physical Aries2 encoder inference, GPU action computation and simulated rollouts; energy, latency and task-success trade-offs.
+
+## Fuentes
+
+- `N096:S1` · [arxiv.org](https://arxiv.org/abs/2608.15002)
+- `N096:S2` · [www.mobilint.com](https://www.mobilint.com/developers)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/mobilint--n096/README.md)

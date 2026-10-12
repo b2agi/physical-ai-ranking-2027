@@ -1,0 +1,33 @@
+---
+title: "NHTSA | Informes de llamadas a revisión de sistemas de conducción automatizada | B2AGI Physical AI 2027"
+record_id: "I032"
+language: "es"
+selection_group: "Institutions 50"
+rank: null
+edition: 2027
+assessment_baseline: "2026-10"
+source_commit: "f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7"
+evidence_language: "en"
+---
+
+# NHTSA
+
+Informes de llamadas a revisión de sistemas de conducción automatizada
+
+`I032` · Institutions 50
+
+## Fundamento de selección y evaluación · original en inglés
+
+NHTSA provides public safety-recall reporting, including Waymo's manufacturer-submitted report on an automated-driving flooding hazard.
+
+## Alcance de la evidencia · original en inglés
+
+Recall 26E026, submitted May 6, 2026, records interim operating restrictions and a final remedy under development at filing.
+
+## Fuentes
+
+- `I032:S1` · [www.nhtsa.gov](https://www.nhtsa.gov/vehicle-manufacturers)
+- `I032:S2` · [static.nhtsa.gov](https://static.nhtsa.gov/odi/rcl/2026/RCLRPT-26E026-6527.pdf)
+- `I032:S3` · [www.nhtsa.gov](https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-03/2025-annual-recalls-report.pdf)
+
+[Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/institutions/nhtsa--i032/README.md)
