@@ -2,15 +2,23 @@
 
 ## Current 100 · Companies
 
-![Current 100: 100 contribution-based company selections in B2AGI Physical AI 2027.](assets/current-100-overview.png)
+![Current 100: 100 company selections and examples of their documented contributions.](assets/current-100-overview.png)
 
 **2027 edition · October 2026 assessment · First published 12 October 2026 · v1.0**
 
-Current 100 examines capabilities adopted in operations, production, education and research, together with completed technology transfers and capital contributions. The selected activity may be a customer workflow, a supplied component or an operating platform.
+Current 100 examines capabilities adopted in operations, production, education and research, together with completed technology transfers and capital contributions. Each company is selected for a specific contribution, from customer work to components and development platforms.
 
-The two groups describe the contribution selected for this edition. They are not a ranking of company size or investment merit. Record IDs remain stable across group changes.
+[Explore all 100 companies](#company-directory) · [Next 100](NEXT_100.md) · [Selection method](METHODOLOGY.md#company-selection) · [Download data](#research-and-data)
 
-[Explore the companies](#company-directory) · [Current 100](CURRENT_100.md) · [Next 100](NEXT_100.md) · [Selection method](METHODOLOGY.md#company-selection)
+### Selected contributions
+
+| Record ID | Company | Selected contribution |
+| --- | --- | --- |
+| C067 | [NVIDIA](companies/nvidia--c067/README.md) | Robotics development infrastructure |
+| C016 | [Boston Dynamics](companies/boston-dynamics--c016/README.md) | Trailer unloading |
+| C095 | [Unitree Robotics](companies/unitree-robotics--c095/README.md) | Physical research platforms |
+
+Group membership follows the contribution assessed for this edition. Section headings identify the group; record IDs remain stable across group changes.
 
 ## Company directory
 

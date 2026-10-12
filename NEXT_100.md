@@ -2,15 +2,23 @@
 
 ## Next 100 · Companies
 
-![Next 100: 100 contribution-based company selections in B2AGI Physical AI 2027.](assets/next-100-overview.png)
+![Next 100: 100 company selections and examples of their documented contributions.](assets/next-100-overview.png)
 
 **2027 edition · October 2026 assessment · First published 12 October 2026 · v1.0**
 
 Next 100 follows robot products, action models and applications in development, prototype testing or research validation. Each profile identifies the programme under review and the evidence for its current stage.
 
-The two groups describe the contribution selected for this edition. They are not a ranking of company size or investment merit. Record IDs remain stable across group changes.
+[Explore all 100 companies](#company-directory) · [Current 100](CURRENT_100.md) · [Selection method](METHODOLOGY.md#company-selection) · [Download data](#research-and-data)
 
-[Explore the companies](#company-directory) · [Current 100](CURRENT_100.md) · [Next 100](NEXT_100.md) · [Selection method](METHODOLOGY.md#company-selection)
+### Selected contributions
+
+| Record ID | Company | Selected contribution |
+| --- | --- | --- |
+| N080 | [Tesla](companies/tesla--n080/README.md) | Humanoid production preparation |
+| N029 | [Google DeepMind](companies/google-deepmind--n029/README.md) | On-device robotics models |
+| N059 | [Physical Intelligence](companies/physical-intelligence--n059/README.md) | Open policy development tools |
+
+Group membership follows the contribution assessed for this edition. Section headings identify the group; record IDs remain stable across group changes.
 
 ## Company directory
 
