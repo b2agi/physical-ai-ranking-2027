@@ -1,0 +1,54 @@
+---
+record_id: "I035"
+language: "ar"
+evidence_language: "en"
+source_commit: "359c9c88d4d7bc0635bb4fdff24098ecb88513df"
+edition: 2027
+---
+
+<div dir="rtl" lang="ar">
+
+# Open X-Embodiment consortium
+
+<div dir="ltr" lang="en">
+
+`I035` · Institutions 50
+
+</div>
+
+## الدور · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Shared learning data and models
+
+</div>
+
+## أساس الاختيار · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Open X-Embodiment provides shared data formats and RT-X models used by multiple laboratories in physical-robot evaluations.
+
+</div>
+
+## نطاق الأدلة · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Named consortium research; participation counts vary by edition and rights differ across datasets.
+
+</div>
+
+## المصادر
+
+<div dir="ltr" lang="en">
+
+- [I035:S1](https://deepmind.google/blog/scaling-up-learning-across-many-different-robot-types/)
+- [I035:S2](https://robotics-transformer-x.github.io/)
+
+</div>
+
+[فهرس الأطلس](../../README.md) · [السجل الإنجليزي](../../../../institutions/open-x-embodiment-consortium--i035/README.md)
+
+</div>

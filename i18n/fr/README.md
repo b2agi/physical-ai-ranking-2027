@@ -1,6 +1,6 @@
 # B2AGI Physical AI · Classements et sélections 2027
 
-[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 Cet Atlas rassemble 390 fiches sur la recherche, le développement de produits et les activités des clients. Il comprend des classements de pays et de pôles industriels, ainsi que des sélections d’entreprises, de personnes et d’institutions. L’édition 2027 prend octobre 2026 comme date de référence.
 

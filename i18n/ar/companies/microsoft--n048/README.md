@@ -1,0 +1,53 @@
+---
+record_id: "N048"
+language: "ar"
+evidence_language: "en"
+source_commit: "359c9c88d4d7bc0635bb4fdff24098ecb88513df"
+edition: 2027
+---
+
+<div dir="rtl" lang="ar">
+
+# Microsoft
+
+<div dir="ltr" lang="en">
+
+`N048` · Next 100
+
+</div>
+
+## الدور · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Robot planning and action models
+
+</div>
+
+## أساس الاختيار · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Microsoft’s Magma repository provides robot-planning demonstrations, training code, model releases and evaluation procedures.
+
+</div>
+
+## نطاق الأدلة · الإنجليزية
+
+<div dir="ltr" lang="en">
+
+Magma’s official repository and joint research provide planning demonstrations, training code and evaluation procedures.
+
+</div>
+
+## المصادر
+
+<div dir="ltr" lang="en">
+
+- [N048:S1](https://github.com/microsoft/Magma)
+
+</div>
+
+[فهرس الأطلس](../../README.md) · [السجل الإنجليزي](../../../../companies/microsoft--n048/README.md)
+
+</div>

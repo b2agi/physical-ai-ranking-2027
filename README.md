@@ -1,6 +1,6 @@
 # B2AGI Physical AI Rankings & Selections 2027
 
-[English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md)
+[English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md) · [العربية](i18n/ar/README.md)
 
 [National Competitiveness · Top 20](#country-overview) · [Cluster Atlas · Top 20](CLUSTERS.md) · [Current 100 · Companies](CURRENT_100.md) · [Next 100 · Companies](NEXT_100.md) · [Influence 50 · People](INFLUENCE_50.md) · [Ecosystem Builders 50 · People](ECOSYSTEM_BUILDERS_50.md)
 
