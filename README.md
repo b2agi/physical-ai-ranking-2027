@@ -20,6 +20,14 @@
 
 [Full JSON](data/ranking2027.en.json) · [Full CSV](data/ranking2027.en.csv) · [Source references](data/source-references.en.json) · [Search guide](SEARCH_GUIDE.md)
 
+## Research & Field Notes
+
+[The Robot Stopped. Who Can Prove What Happened?](research-notes/2026-10-20-the-robot-stopped.md) — Henry Chan Jung, 20 October 2026.
+
+From the ITU-T FG-EAI meeting in Hangzhou: incident evidence, cross-supplier recovery, industrial sovereignty and the investment implications of Physical AI failures.
+
+[Browse research and field notes](research-notes/README.md)
+
 ## B2AGI Physical AI Country Ranking 20 · 2027
 
 ![Country Atlas Top 20: United States, China, South Korea and the complete 20-country assessment](assets/country-atlas-overview.png)
