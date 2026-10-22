@@ -29,3 +29,12 @@ FedEx’s 2022 installation account; later purchase plans and warrant conditions
 - `C013:S1` · [investors.fedex.com](https://investors.fedex.com/news-and-events/investor-news/investor-news-details/2022/Berkshire-Grey-and-FedEx-Expand-Their-Robotic-Automation-Solutions-Relationship/default.aspx)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/berkshire-grey--c013/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

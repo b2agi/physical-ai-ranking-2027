@@ -29,3 +29,12 @@ TRUMPF SortMaster Vision product integration; the record covers development and 
 - `N035:S1` · [www.intrinsic.ai](https://www.intrinsic.ai/blog/posts/trumpf-intrinsic-ai-enabled-robotics-for-the-machine-tool-industry)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/intrinsic--n035/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

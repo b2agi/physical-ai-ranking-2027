@@ -30,3 +30,12 @@ UCSB research account and published study; observations and measured effects of 
 - `E017:S2` · [www.teamraderie.com](https://www.teamraderie.com/wp-content/uploads/2026/01/2026-01-15-Teamraderie-Customer-Event-Final-Version-combined.pdf)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/people/matt-beane--e017/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

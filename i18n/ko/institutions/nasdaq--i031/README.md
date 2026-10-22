@@ -29,3 +29,12 @@ Nasdaq provided public-market access for Serve through a completed share offerin
 - `I031:S1` · [investors.serverobotics.com](https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-inc-announces-closing-40-million-public-offering)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/nasdaq--i031/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

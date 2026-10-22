@@ -68,3 +68,12 @@ Motifs et portée des éléments probants : original anglais.
 | P031 | [Zhu Qiuguo](people/zhu-qiuguo--p031/README.md) | Recherche sur la commande de stabilité des quadrupèdes |
 
 Version anglaise : [B2AGI Physical AI People · Influence 50 · 2027](../../INFLUENCE_50.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -33,3 +33,12 @@ Mercedes customer account, 2025-03-18: integration testing, training data and au
 - `N008:S5` · [group.mercedes-benz.com](https://group.mercedes-benz.com/company/production/production-network/mbdfc-humanoid-robots.html)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/apptronik--n008/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

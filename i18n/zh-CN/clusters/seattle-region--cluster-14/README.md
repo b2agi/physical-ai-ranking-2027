@@ -33,3 +33,12 @@ Located drone engineering and manufacture, robot-data work and university resear
 - `cluster:14:S5` · [brincdrones.com](https://brincdrones.com/news/brinc-announces-new-seattle-factory-and-launch-of-next-generation-911-response-drone/) · 2026-03-24
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/clusters/seattle-region--cluster-14/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

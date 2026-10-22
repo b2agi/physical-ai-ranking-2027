@@ -38,3 +38,12 @@ Motifs et portée des éléments probants : original anglais.
 | 20 | [Région d’Austin](clusters/austin-region--cluster-20/README.md) | Développement d’humanoïdes, essais chez les clients et capital de croissance |
 
 Version anglaise : [B2AGI Physical AI City & Cluster Ranking 20 · 2027](../../CLUSTERS.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

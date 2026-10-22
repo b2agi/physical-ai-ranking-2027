@@ -29,3 +29,12 @@ Company development report and announcement of a 2,500-unit deployment contract.
 - `N081:S1` · [www.vayurobotics.com](https://www.vayurobotics.com/press-releases/vayu-robotics-debuts-the-worlds-first-on-road-delivery-robot-powered-by-ai-robotics-foundation-models)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/vayu-robotics--n081/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

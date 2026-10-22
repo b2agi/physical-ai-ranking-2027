@@ -30,3 +30,12 @@ KAIST documents joint team leadership and competition task completion, alongside
 - `E019:S2` · [news.kaist.ac.kr](https://news.kaist.ac.kr/newsen/html/news/?mng_no=4379&mode=V) · 2015-06-07
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/people/oh-jun-ho--e019/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

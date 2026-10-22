@@ -52,3 +52,12 @@ NIST’s 2018 record documents publication of ASTM F45’s first four mobile-tas
 [فهرس الأطلس](../../README.md) · [السجل الإنجليزي](../../../../institutions/astm-f45--i003/README.md)
 
 </div>
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

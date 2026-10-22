@@ -73,3 +73,12 @@ Sources: [LINGO-2](https://wayve.ai/thinking/lingo-2-driving-with-language/), 20
 
 
 [Current 100](CURRENT_100.md) · [Next 100](NEXT_100.md) · [Selection method](METHODOLOGY.md#company-selection).
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

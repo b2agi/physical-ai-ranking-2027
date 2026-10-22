@@ -29,3 +29,12 @@ University program account; operations are shared and new model and robotic-skin
 - `E036:S1` · [www.kaist.ac.kr](https://www.kaist.ac.kr/newsen/html/news/?GotoPage=1&mng_no=55730&mode=V&skey=keyword&sval=Robot)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/people/jung-kim--e036/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

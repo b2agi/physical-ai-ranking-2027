@@ -31,3 +31,12 @@ Floatic’s company account covers a LogisALL picking proof of concept with spec
 - `N022:S3` · [www.prnewswire.com](https://www.prnewswire.com/news-releases/warehouse-robotic-solutions-provider-floatic-secures-3-8-million-pre-series-a-bridge-fund-round-302170488.html)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/floatic--n022/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

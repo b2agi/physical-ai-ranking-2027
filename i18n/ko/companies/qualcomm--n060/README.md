@@ -29,3 +29,12 @@ Official developer documentation; compute specifications and actual robot-task p
 - `N060:S1` · [www.qualcomm.com](https://www.qualcomm.com/developer/blog/2026/09/accelerating-robotics-development-dragonwing-iq8-dragonwing-iq9)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/qualcomm--n060/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

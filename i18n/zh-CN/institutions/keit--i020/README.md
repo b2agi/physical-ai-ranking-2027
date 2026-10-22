@@ -32,3 +32,12 @@ KEIT supported humanoid balance-recovery research whose paper identifies the fun
 - `I020:S4` · [www.keit.re.kr](https://www.keit.re.kr/gallery.es?act=view&b_list=10&bid=0004&cg_code=&keyField=&keyWord=&list_no=115878&mid=a10202010000&nPage=40&orderby=&tag=)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/keit--i020/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

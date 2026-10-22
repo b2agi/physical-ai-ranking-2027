@@ -31,3 +31,12 @@ University publication list and NOAA-preserved report cover from 1994 to 1996; e
 - `E041:S3` · [repository.library.noaa.gov](https://repository.library.noaa.gov/view/noaa/36658/noaa_36658_DS1.pdf)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/people/yuh-joon-ku--e041/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

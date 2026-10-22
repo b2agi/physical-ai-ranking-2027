@@ -90,3 +90,14 @@ B2AGI | AI · Capital · Security · Global Cooperation
 [LinkedIn article](https://www.linkedin.com/pulse/robot-stopped-who-can-prove-what-happened-b2agi-yyt8c/) · [Facebook post](https://www.facebook.com/permalink.php?story_fbid=pfbid02R8cqskwJieMPRXpb8BQSjsnDXRHo5bX1KTTBz8UoyW5DcJWp1U6wSqBoFH8J82iel&id=61575474760233)
 
 [Research & Field Notes](README.md) · [B2AGI Physical AI Rankings & Selections 2027](../README.md) · [Reuse terms](../RIGHTS.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #PhysicalAI #AgenticAI #Interoperability #IndustrialSovereignty
+<!-- /B2AGI EPAI SIGNATURE -->

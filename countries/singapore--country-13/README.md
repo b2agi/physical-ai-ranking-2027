@@ -51,3 +51,12 @@ Local inspection integration and operation; not evidence of local manufacture of
 Cite *B2AGI Physical AI 2027: Country Atlas Top 20*, record `country:13`, text revision v1.1 (12 October 2026), and the relevant source-reference ID. Record IDs identify entries; they do not indicate rank. Retain the original publisher and reporting period when citing a source.
 
 [Submit a correction](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Publisher and reuse terms](../../RIGHTS.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -1,5 +1,17 @@
 # B2AGI Physical AI 国家与城市排名及企业、人物、机构选录2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI 是 B2AGI 提出的综合智能框架，将具身智能、物理人工智能与智能体人工智能联系起来，从技术、产业、资本与治理的角度展开分析。
+
+探索 B2AGI 的研究、实地观察、产业分析与多语言出版物。
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 本Atlas收录390个条目，包括国家与产业集群排名，以及企业、人物和机构名单。可按条目查阅Physical AI的研究、产品开发与客户运营。2027版采用2026年10月的评估基准。

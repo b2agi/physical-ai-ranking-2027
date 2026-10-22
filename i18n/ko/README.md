@@ -1,5 +1,17 @@
 # B2AGI 피지컬 AI 국가·도시 순위와 기업·인물·기관 선정 2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI는 B2AGI가 제안하는 통합 지능 프레임워크입니다. 체화 AI·피지컬 AI·에이전틱 AI를 기술·산업·자본·거버넌스의 연결 속에서 해석합니다.
+
+B2AGI의 연구, 현장 기록, 산업 분석과 다국어 발간물을 만나보세요.
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 세계 Physical AI 산업을 390개 항목으로 정리했다. 국가·클러스터 순위와 기업·인물·기관 선정 목록에서 연구, 제품 개발, 고객 운영을 찾아볼 수 있다. 2027판의 평가 기준은 2026년 10월이다.

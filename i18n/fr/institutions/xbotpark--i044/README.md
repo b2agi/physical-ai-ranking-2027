@@ -31,3 +31,12 @@ HKCRC’s account describes XbotPark funding support to Narwal, whose products a
 - `I044:S3` · [hkcrc.hk](https://hkcrc.hk/news/incubated-products-frequently-catch-eyes-general-secretary-how-xbotpark-paradigm-new)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/institutions/xbotpark--i044/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

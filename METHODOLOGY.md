@@ -247,3 +247,12 @@ Institutional entries identify research, testing, regulatory, industry-support a
 Technical authorship, funding, standards administration and operating support retain separate attribution. When several participants share an output, each retains its contribution. The selected record identifies the activity being assessed.
 
 [Institutions 50](INSTITUTIONS_50.md) · [Safety-evidence comparison](INSTITUTION_SELECTIONS.md). Institution source revision: 11 October 2026; first public GitHub release: 12 October 2026.
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

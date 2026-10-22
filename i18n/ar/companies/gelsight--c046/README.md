@@ -54,3 +54,12 @@ Research v1, 2026-08-31, sections 3.3 and 4: adopted Mini instrumentation for ro
 [فهرس الأطلس](../../README.md) · [السجل الإنجليزي](../../../../companies/gelsight--c046/README.md)
 
 </div>
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

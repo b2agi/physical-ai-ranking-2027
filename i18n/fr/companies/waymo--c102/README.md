@@ -31,3 +31,12 @@ Waymo operating data through June 2026; CPUC deployment-permit table accessed Oc
 - `C102:S3` · [static.nhtsa.gov](https://static.nhtsa.gov/odi/rcl/2025/RCLRPT-25E034-2471.PDF)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/companies/waymo--c102/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

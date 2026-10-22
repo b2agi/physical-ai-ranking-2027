@@ -37,3 +37,12 @@ Located development and incubation in Shenzhen and Dongguan; named XbotPark star
 - `cluster:01:S9` · [www.sz.gov.cn](https://www.sz.gov.cn/zfgb/2025/1366/content/post_12090037.html) · 2025-03-24
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/clusters/pearl-river-delta-core-shenzhendongguan--cluster-01/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

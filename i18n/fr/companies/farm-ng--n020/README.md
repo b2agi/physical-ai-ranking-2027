@@ -32,3 +32,12 @@ UC ANR account, 2025-05-08: third annual Farm Robotics Challenge, Amiga educatio
 - `N020:S4` · [ucanr.edu](https://ucanr.edu/blog/anr-news-releases/article/university-georgia-wins-top-honors-2025-farm-robotics-challenge)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/companies/farm-ng--n020/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -30,3 +30,12 @@ Interview republished by the company; design, manufacturing and solution teams s
 - `P023:S2` · [www.neuromeka.com](https://www.neuromeka.com/post/%EA%B8%B0%EC%97%85-%EC%B5%9C%EC%A0%84%EC%84%A0%EC%9D%84-%EA%B0%80%EB%8B%A4-%EB%89%B4%EB%A1%9C%EB%A9%94%EC%B9%B4-%ED%98%91%EB%8F%99%EB%A1%9C%EB%B4%87-%EC%A0%9C%EC%A1%B0-%EB%AA%85%EA%B0%80-%EB%A1%9C%EB%B4%87-%EC%A2%85%ED%95%A9-%EC%86%94%EB%A3%A8%EC%85%98-%EA%B8%B0%EC%97%85%EC%9C%BC%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EB%8B%A4)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/people/park-jong-hoon--p023/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

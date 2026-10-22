@@ -31,3 +31,12 @@ Hyundai Motor Group completed its controlling investment in Boston Dynamics in 2
 - `C051:S3` · [www.hyundai.com](https://www.hyundai.com/content/hyundai/worldwide/en/newsroom/detail/0000001225.html)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/companies/hyundai-motor-group--c051/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

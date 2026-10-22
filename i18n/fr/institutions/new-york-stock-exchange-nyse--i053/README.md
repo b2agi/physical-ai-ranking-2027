@@ -30,3 +30,12 @@ Historical issuer filing; Ouster’s announced December 2024 transfer to Nasdaq 
 - `I053:S2` · [www.sec.gov](https://www.sec.gov/Archives/edgar/data/1816581/000119312524274418/d900360dex991.htm)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/institutions/new-york-stock-exchange-nyse--i053/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

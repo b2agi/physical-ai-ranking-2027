@@ -51,3 +51,12 @@ Sunday describes household-task development and a beta planned for late 2026.
 [فهرس الأطلس](../../README.md) · [السجل الإنجليزي](../../../../companies/sunday--n076/README.md)
 
 </div>
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

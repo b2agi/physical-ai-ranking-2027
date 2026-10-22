@@ -29,3 +29,12 @@ Company reports; delivery counts, item counts and distance use separate units, w
 - `C100:S1` · [www.zipline.com](https://www.zipline.com/newsroom/zipline-makes-one-millionth-commercial-autonomous-drone-delivery-and-expands-u-s-deliveries-to-include-panera-bread-memorial-hermann-health-system-and-jet-s-pizza)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/zipline--c100/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

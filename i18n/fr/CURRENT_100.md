@@ -118,3 +118,12 @@ Motifs et portée des éléments probants : original anglais.
 | C100 | [Zipline](companies/zipline--c100/README.md) | Livraison aérienne autonome |
 
 Version anglaise : [B2AGI Physical AI Companies · Current 100 · 2027](../../CURRENT_100.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -32,3 +32,12 @@ Supplier case covering office common areas; publication date and independent lab
 - `C075:S4` · [de.linkedin.com](https://de.linkedin.com/posts/terra-robotics-de_terrarobotics-reinigungsroboter-einzelhandel-activity-7356292732220260352-XIsa)
 
 [Atlas en français](../../README.md) · [Profil en anglais](https://github.com/b2agi/physical-ai-ranking-2027/blob/36e73b0ebc9a852db5d65fd955debd5936cc39bd/companies/pudu-robotics--c075/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

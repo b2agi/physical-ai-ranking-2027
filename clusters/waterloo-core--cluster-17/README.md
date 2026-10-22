@@ -43,3 +43,12 @@ Kitchener-Waterloo-Cambridge supplier and research ecosystem, including ATS, OTT
 Cite *B2AGI Physical AI 2027: Cluster Atlas Top 20*, record `cluster:17`, v1.0 (12 October 2026), and the source-reference ID. Analytical regions vary in size and purpose; they are not equal administrative units. Record IDs remain stable when the order changes.
 
 [Corrections](https://github.com/b2agi/physical-ai-ranking-2027/issues) · [Publisher and reuse terms](../../RIGHTS.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -1,5 +1,17 @@
 # B2AGI Physical AI · Clasificaciones y selecciones 2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI es un marco integrado de inteligencia propuesto por B2AGI que conecta la IA encarnada, la IA física y la IA agéntica a través de la tecnología, la industria, el capital y la gobernanza.
+
+Explore las investigaciones, notas de campo, análisis sectoriales y publicaciones multilingües de B2AGI.
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 Este Atlas reúne 390 registros sobre investigación, desarrollo de productos y operaciones de clientes. Incluye clasificaciones de países y clústeres, y selecciones de empresas, personas e instituciones. La edición 2027 se evalúa con una base de octubre de 2026.

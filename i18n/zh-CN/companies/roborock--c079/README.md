@@ -31,3 +31,12 @@ Qualitative hands-on review; observations include automatic and manual operation
 - `C079:S3` · [www1.hkexnews.hk](https://www1.hkexnews.hk/app/sehk/2025/107489/a124262/sehk25062700680_c.pdf)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/roborock--c079/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

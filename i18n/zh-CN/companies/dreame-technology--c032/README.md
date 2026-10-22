@@ -31,3 +31,12 @@ Affiliate-linked product test; Master-specific observations are retained, and bo
 - `C032:S3` · [support.dreametech.com](https://support.dreametech.com/hc/en-us/articles/11418996936207-Enhancing-Obstacle-Recognition-with-Your-X40-Master)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/dreame-technology--c032/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

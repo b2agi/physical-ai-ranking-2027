@@ -30,3 +30,12 @@ Harvard’s November 2021 account documents joint Wyss and SEAS research and wal
 - `I012:S2` · [wyss.harvard.edu](https://wyss.harvard.edu/news/a-personalized-exosuit-for-real-world-walking/)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/institutions/harvard-wyss-institute--i012/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

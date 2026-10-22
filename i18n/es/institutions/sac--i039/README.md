@@ -31,3 +31,12 @@ The official record identifies TC28 committee responsibility and TC28SC42 execut
 - `I039:S3` · [std.samr.gov.cn](https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E1586322E06397BE0A0AA17F)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](../../../../institutions/sac--i039/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

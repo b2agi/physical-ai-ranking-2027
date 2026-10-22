@@ -31,3 +31,12 @@ The exhibition account describes a hand prototype performing remote movement imi
 - `N093:S3` · [finance.sina.com.cn](https://finance.sina.com.cn/stock/t/2026-08-28/doc-inipwhrw0046939.shtml)
 
 [Atlas](../../README.md) · [English](https://github.com/b2agi/physical-ai-ranking-2027/blob/fed89b797534d90e448fec1671a9489389b71a49/companies/yuequan-bionic--n093/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

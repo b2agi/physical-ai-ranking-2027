@@ -30,3 +30,12 @@ Shadow account, 2024-06-06: standard build available to the market; DeepMind acc
 - `N072:S2` · [shadowrobot.com](https://shadowrobot.com/shadow-hand-overview-the-most-robust-dexterous-robot-hand-on-the-market/)
 
 [Atlas en español](../../README.md) · [Perfil en inglés](https://github.com/b2agi/physical-ai-ranking-2027/blob/f0fcb9fdc3787d98aa8d9fe6eed8e3e0ec04f7b7/companies/shadow-robot--n072/README.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

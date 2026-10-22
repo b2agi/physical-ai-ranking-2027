@@ -66,3 +66,12 @@ Fundamentos y alcance de la evidencia: original en inglés.
 | I045 | [Zhejiang University Robotics Research](institutions/zhejiang-university-robotics-research--i045/README.md) | Educación robótica |
 
 Edición en inglés: [B2AGI Physical AI Institutions 50 · 2027](../../INSTITUTIONS_50.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->
